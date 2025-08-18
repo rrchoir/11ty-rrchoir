@@ -3,7 +3,7 @@ title: First post from Cloud Cannon
 metaDescription: >-
   This is a sample meta description. If one is not present in your page/post's
   front matter, the default metadata.description will be used instead.
-date: 2019-01-01T00:00:00Z
+date: 2025-08-17T00:00:00-04:00
 author: Peter B
 summary: Why contemplating our mortality can be a powerful catalyst for change
 tags:
@@ -12,12 +12,11 @@ tags:
   - politics
   - sport
 ---
-
 **Boldness is all**
 
-Bot bot
-bot bot
+Bot bot bot bot
 
+Updated Date to match last night
 
 &nbsp;
 
