@@ -1,0 +1,35 @@
+<section>
+	{% for song in songslist | reverse %}
+		<article{% if song.url == url %} data-current="current item"{% endif %}>
+			<h3>
+				<a href="{{ song.url | url }}">
+					{% if song.data.title %}
+						{{ song.data.title }}
+					{% else %}
+						Untitled
+					{% endif %}
+				</a>
+			</h3>
+			{% if song.data.summary %}
+				<p>
+					{{ song.data.summary }}
+				</p>
+			{% endif %}
+			<p>
+				<time datetime="{{ song.date | machineDate }}">
+					<small>{{ song.date | readableDate }} by <a href="/authors/{{ song.data.author | slug }}/">{{ song.data.author }}</a></small>
+				</time>
+			</p>
+			{% if song.data.tags %}
+				<p>
+					{% for tag in song.data.tags %}
+		  			{%- if tag != "song" -%}
+		  				{% set tagUrl %}/tags/{{ tag }}/{% endset %}
+		  			<a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
+		  			{%- endif -%}
+					{% endfor %}
+				</p>
+			{% endif %}
+		</article>
+	{% endfor %}
+</section>
