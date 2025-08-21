@@ -1,33 +1,28 @@
 ---
 title: About us
-metaDescription: This is a sample meta description. If one is not present in your page/post's front matter, the default metadata.description will be used instead.
-date: 2017-01-01T00:00:00.000Z
+metaDescription: What the Rapid Response Choir is all about
+date: 2025-08-21
 permalink: /about/index.html
 eleventyNavigation:
   key: About
   order: 1
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-Add a few line breaks in here to test:-
-Capitalize  
-on  
-low  
-hanging  
-fruit  
+# About the RRC
 
-## Our services
+## Who we are
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Currently, we are a group of Maryland and D.C. residents who want to call attention to violations of U.S. law and the Constitution and support those who have been affected by this administration. The RRC was founded in February 2025 by Peter B, a Hyattsville resident, who reached out to members of community and church choirs for those who share a vision of resistance through song.
 
-### Blue-sky thinking
+## What we do
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+We sing and encourage others to sing with us. We assemble at rallies, schools, churches, protests, vigils, and other community events. We are a peaceful group. We do not engage in civil disobedience or disruption tactics. We do not interfere with law enforcement, but we will remind everyone of their rights under the Constitution.
 
-#### Management frameworks
+## How to join the RRC
 
-Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+The RRC is open to everyone. No prior singing experience required. Learn more on our [Join Us page](https://rapidresponsechoir.org/join).
 
-##### Regulatory convergence
+## Request the RRC to perform
 
-Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Would you like to add the RRC’s voices to your event? We prefer advance warning but often can assemble at short notice, ready to sing for thirty minutes or longer if need be. To “book” the RRC, send your contact information, the date, time, and location of your event, its purpose, and its organizational sponsor to <admin@rapidresponsechoir.org>. 
+

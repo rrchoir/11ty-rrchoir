@@ -1,22 +1,38 @@
 ---
 layout: layouts/home.njk
 title: Home
-date: 2016-01-01T00:00:00.000Z
+date: 2025-08-28
 permalink: /
 eleventyNavigation:
   key: Home
   order: 0
 ---
-# Welcome
 
-This is a template for building a simple blog website with the [Eleventy static site generator](https://www.11ty.dev), with deployment to [Netlify](https://www.netlify.com).
+![](/static/img/nyt_header.jpg)
 
-Includes [Decap CMS](https://www.decapcms.org) for WYSIWYG content editing, and [Netlify Forms](https://www.netlify.com/docs/form-handling) for processing your site's form data.
+# Rapid Response Choir
 
-[Log in to the Decap CMS dashboard](/admin/)
+## Protecting our community through song
 
-For more info on installation and usage, view the [project repo]({{ pkg.repository.url }}) on GitHub.
+The Rapid Response Choir sings for truth, justice, and democracy – we stand against threats to the Constitution and our community.
 
-Or click the button below to deploy your own copy of this project to Netlify.
+Through inspiring, non-violent performances, we seek to:
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/danurbanowicz/eleventy-netlify-boilerplate&stack=cms)
+* Generate and amplify public disapproval of dangerous and illegal policies, and efforts to dismantle democracy..
+* Express outrage, bear witness, and call attention to injustices.
+* Model “joy in resistance” to those uncertain of what to do, inspiring them to take action.
+* Lend strength and show love to targeted communities and individuals.
+
+When authoritarian forces seek to harm our neighbors and friends, the Rapid Response Choir will be there to sing truth to power.
+
+
+## No Kings Day
+
+[![No Kings Day](/static/img/NoKings.jpg)](https://bsky.app/profile/jaymallin.bsky.social/post/3lrlzjj64es26)
+[No Kings Day video from Riverdale Park, Maryland](https://bsky.app/profile/jaymallin.bsky.social/post/3lrlzjj64es26)
+
+**[Join Us!](./join)**
+
+**[Read all about the Rapid Response Choir](./about)**
+
+![NOAA March 3 2025](/static/img/noaa.jpg)
