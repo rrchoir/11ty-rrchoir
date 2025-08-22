@@ -1,4 +1,6 @@
 ---
+
+category: multilingual
 title:  We Shall Not be Moved / No nos Moveran
 ---
 

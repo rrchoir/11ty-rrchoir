@@ -1,4 +1,6 @@
 ---
+
+category: general
 title:  Draw the Circle Wide
 ---
 

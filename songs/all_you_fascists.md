@@ -1,4 +1,6 @@
 ---
+
+category: general
 title: All you Fascists Bound to Lose
 ---
 

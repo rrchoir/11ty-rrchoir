@@ -1,4 +1,6 @@
 ---
+
+category: general
 title: Leaving on an ICE plane
 metaDescription: >-
   A song

@@ -1,4 +1,6 @@
 ---
+
+category: general
 title:  DOGE is to Blame
 ---
 

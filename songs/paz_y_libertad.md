@@ -1,4 +1,6 @@
 ---
+
+category: multilingual
 title:  Paz y Libertad
 ---
 

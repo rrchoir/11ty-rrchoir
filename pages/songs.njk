@@ -1,0 +1,28 @@
+---
+title: Songs
+metaDescription: The page lists all the songs by category
+layout: layouts/base.njk
+eleventyNavigation:
+  key: Songs
+  order: 3
+pagination:
+  data: collections.categories
+  size: 2
+permalink: /songs/index.html
+---
+
+<h1>{{ title }}</h1>
+
+<section>
+  {% for category in pagination.items %}
+    <article>
+      <h3>
+        <a href="#{{ category | slug }}">{{ category| safe }}</a>
+      </h3>
+
+    </article>
+  {% endfor %}
+  <nav>
+    <a href="{{ '/blog/' | url }}">← Blog index</a>
+  </nav>
+</section>

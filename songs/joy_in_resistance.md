@@ -1,4 +1,6 @@
 ---
+
+category: general
 title:  Joy in Resistance
 ---
 

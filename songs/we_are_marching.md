@@ -1,4 +1,6 @@
 ---
+
+category: general
 title:  We Are Marching / Siyahamba 
 ---
 

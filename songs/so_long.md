@@ -1,4 +1,6 @@
 ---
+
+category: general
 title:  So Long It's Been Good to Know Ya
 ---
 
