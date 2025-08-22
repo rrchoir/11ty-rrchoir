@@ -1,7 +1,7 @@
 ---
 title: About us
-metaDescription: What the Rapid Response Choir is all about
-date: 2025-08-21
+metaDescription: We sing truth to power
+date:  2025-08-19
 permalink: /about/index.html
 eleventyNavigation:
   key: About
