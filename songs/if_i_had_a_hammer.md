@@ -1,5 +1,5 @@
 ---
-title: # If I Had a Hammer
+title:  If I Had a Hammer
 ---
 
 

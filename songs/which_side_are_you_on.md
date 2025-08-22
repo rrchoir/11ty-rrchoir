@@ -1,5 +1,5 @@
 ---
-title: # Which Side Are You On?
+title:  Which Side Are You On?
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: # When the Order is Illegal, Disobey!
+title:  When the Order is Illegal, Disobey!
 ---
 
 

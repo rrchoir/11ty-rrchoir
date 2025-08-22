@@ -1,5 +1,5 @@
 ---
-title: # We Rise
+title:  We Rise
 ---
 
 

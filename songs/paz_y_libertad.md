@@ -1,5 +1,5 @@
 ---
-title: # Paz y Libertad
+title:  Paz y Libertad
 ---
 
 # Paz y Libertad

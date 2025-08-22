@@ -1,5 +1,5 @@
 ---
-title: # Woke up This Morning (Stayed on Freedom)
+title:  Woke up This Morning (Stayed on Freedom)
 ---
 
 

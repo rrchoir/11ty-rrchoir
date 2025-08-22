@@ -1,5 +1,5 @@
 ---
-title: # Bread and Roses
+title:  Bread and Roses
 ---
 
 

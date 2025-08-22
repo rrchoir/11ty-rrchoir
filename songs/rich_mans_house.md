@@ -1,5 +1,5 @@
 ---
-title: # Rich Man's House
+title:  Rich Man's House
 ---
 
 # Rich Man's House

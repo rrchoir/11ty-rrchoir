@@ -1,5 +1,5 @@
 ---
-title: # Pink Choir Vest
+title:  Pink Choir Vest
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: # America the Beautiful
+title:  America the Beautiful
 ---
 
 

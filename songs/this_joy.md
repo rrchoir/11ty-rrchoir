@@ -1,5 +1,5 @@
 ---
-title: # This Joy
+title:  This Joy
 ---
 
 # This Joy

@@ -1,5 +1,5 @@
 ---
-title: # DOGE is to Blame!
+title:  DOGE is to Blame
 ---
 
 

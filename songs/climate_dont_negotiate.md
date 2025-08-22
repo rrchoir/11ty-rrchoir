@@ -1,5 +1,5 @@
 ---
-title: # The Climate Don’t Negotiate
+title:  The Climate Dont Negotiate
 ---
 
 

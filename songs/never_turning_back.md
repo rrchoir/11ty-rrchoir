@@ -1,5 +1,5 @@
 ---
-title: # Never Turning Back/Keep on Moving Forward
+title:  Never Turning Back/Keep on Moving Forward
 ---
 
 # Never Turning Back/Keep on Moving Forward

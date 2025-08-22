@@ -1,5 +1,5 @@
 ---
-title: # Rise as One
+title:  Rise as One
 ---
 
 

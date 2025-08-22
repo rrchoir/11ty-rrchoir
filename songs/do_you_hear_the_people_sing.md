@@ -1,5 +1,5 @@
 ---
-title: # Do You Hear the People Sing?
+title:  Do You Hear the People Sing
 ---
 
 

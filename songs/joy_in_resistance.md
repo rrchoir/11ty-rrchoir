@@ -1,5 +1,5 @@
 ---
-title: # Joy in Resistance
+title:  Joy in Resistance
 ---
 
 

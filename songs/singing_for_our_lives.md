@@ -1,5 +1,5 @@
 ---
-title: # Singing For Our Lives
+title:  Singing For Our Lives
 ---
 
 
