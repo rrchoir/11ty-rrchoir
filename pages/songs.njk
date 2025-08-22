@@ -16,9 +16,19 @@ permalink: /songs/index.html
 <section>
   {% for category in pagination.items %}
     <article>
-      <h3>
-        <a href="#{{ category | slug }}">{{ category| safe }}</a>
-      </h3>
+      <h2><u>{{ category | safe }}</u></h2>
+
+      {% for song in collections.categories[category] %}
+      <h4>
+				<a href="{{ song.page.url | url }}">
+					{% if song.title %}
+						{{ song.title }}
+					{% else %}
+						Untitled
+					{% endif %}
+				</a>
+      </h4>
+      {% endfor %}
 
     </article>
   {% endfor %}
