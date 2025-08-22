@@ -24,7 +24,7 @@ So re**mem**ber to **pray** for them.\
 It’s **time** we all stand **up** with them,\
 They’re **won**d’rin’ if they’ll **e**ver be let go.\
 Sayin’: “I'm **lea**vin' **on** an ICE plane,\
-**Don't** know if **I'll** beback again…\
+**Don't** know if **I'll** be back again…\
 Oh **please**! Don’t make me **go**.” 
 
 So **many** times, we’ve **let** them down.\
