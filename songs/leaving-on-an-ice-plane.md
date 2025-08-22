@@ -13,9 +13,6 @@ category: general
 ---
 # Leaving on an ICE plane
 
-
-
-
 They’ve no **bags** to pack. They were **forced** to go.\
 They're **lay**ing on a **cold** hard floor.\
 They **did**n’t get a **chance** to say goodbye.\
@@ -24,7 +21,7 @@ The **guards** are yellin’, **wav**in’ their sticks.\
 The con**di**tions are so **aw**ful they could die.
 
 So re**mem**ber to **pray** for them.\
-It’s **time** we allstand **up** with them,\
+It’s **time** we all stand **up** with them,\
 They’re **won**d’rin’ if they’ll **e**ver be let go.\
 Sayin’: “I'm **lea**vin' **on** an ICE plane,\
 **Don't** know if **I'll** beback again…\
@@ -44,7 +41,7 @@ Sayin’: “I'm **lea**vin' **on** an ICE plane,\
 **Don't** know if **I'll** beback again…\
 Oh **help**! Don’t make me **go**.”
 
-The time has **come** for themto **go** away.\
+The time has **come** for them to **go** away.\
 Even **though** they have the **right** to stay,\
 We’ll **make** them march, in **chains**, up that gangway.\
 Let’s **work** towards a **time** to come,\
@@ -52,7 +49,7 @@ When **they** won’t have to **leave** their home,\
 And **for** a time when **they** won't have to say:
 
 **“**Re**mem**ber to **pray** for me.\
-I’m **ho**pin’ you'llstand **up** with me,\
+I’m **ho**pin’ you'll stand **up** with me,\
 I’m **wond**’rin’ if they’ll **ever** let me go.\
 I'm **lea**vin' **on** an ICE plane,\
 **Don't** know if **I'll** beback again…\
