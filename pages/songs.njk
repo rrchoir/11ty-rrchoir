@@ -1,0 +1,43 @@
+---
+title: Songs
+metaDescription: The page lists all the songs by category
+layout: layouts/base.njk
+eleventyNavigation:
+  key: Songs
+  order: 3
+pagination:
+  data: collections.categories
+  size: Infinity
+excluded: [ "attic", "archive", "deprecated" ]
+permalink: /songs/index.html
+
+---
+
+<h1>{{ title }}</h1>
+
+<section>
+  {% for category in pagination.items %}
+    {% if category not in excluded %}
+      <article>
+        <h2><u>{{ category | safe }}</u></h2>
+
+        {% for song in collections.categories[category] %}
+
+        <h4>
+          <a href="{{ song.page.url | url }}">
+            {% if song.title %}
+              {{ song.title }}
+            {% else %}
+              Untitled
+            {% endif %}
+          </a>
+        </h4>
+        {% endfor %}
+
+      </article>
+    {% endif %}
+  {% endfor %}
+  <nav>
+    <a href="{{ '/blog/' | url }}">← Blog index</a>
+  </nav>
+</section>

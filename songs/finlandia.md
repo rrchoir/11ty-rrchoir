@@ -1,4 +1,6 @@
 ---
+
+category: general
 title:  This my Song (Finlandia)
 ---
 

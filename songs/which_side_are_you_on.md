@@ -1,4 +1,6 @@
 ---
+
+category: general
 title:  Which Side Are You On?
 ---
 

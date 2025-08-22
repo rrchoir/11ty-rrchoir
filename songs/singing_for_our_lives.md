@@ -1,4 +1,6 @@
 ---
+
+category: general
 title:  Singing For Our Lives
 ---
 

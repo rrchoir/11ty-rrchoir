@@ -1,4 +1,6 @@
 ---
+
+category: attic
 title:  Bread and Roses
 ---
 

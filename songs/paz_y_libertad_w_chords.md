@@ -1,4 +1,6 @@
 ---
+
+category: general
 title: Paz y Libertad w chords
 ---
 

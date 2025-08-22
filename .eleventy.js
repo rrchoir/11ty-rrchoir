@@ -36,6 +36,21 @@ module.exports = function(eleventyConfig) {
       return coll;
     }, {});
   });
+ 
+  eleventyConfig.addCollection("categories", collection => {
+    const songs = collection.getFilteredByGlob("songs/*.md");
+    return songs.reduce((collx, song) => {
+      const category = song.data.category;
+      if (!category) {
+        return collx;
+      }
+      if (!collx.hasOwnProperty(category)) {
+        collx[category] = [];
+      }
+      collx[category].push(song.data);
+      return collx;
+    }, {});
+  });
 
   // Date formatting (human readable)
   eleventyConfig.addFilter("readableDate", dateObj => {

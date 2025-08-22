@@ -1,4 +1,6 @@
 ---
+
+category: general
 title:  The Climate Dont Negotiate
 ---
 

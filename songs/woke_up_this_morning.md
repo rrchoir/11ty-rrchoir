@@ -1,4 +1,6 @@
 ---
+
+category: general
 title:  Woke up This Morning (Stayed on Freedom)
 ---
 

@@ -1,4 +1,6 @@
 ---
+
+category: attic
 title:  Rise as One
 ---
 

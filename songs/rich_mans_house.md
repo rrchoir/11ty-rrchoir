@@ -1,4 +1,6 @@
 ---
+
+category: general
 title:  Rich Man's House
 ---
 

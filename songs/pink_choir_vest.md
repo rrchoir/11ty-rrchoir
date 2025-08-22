@@ -1,4 +1,6 @@
 ---
+
+category: general
 title:  Pink Choir Vest
 ---
 
