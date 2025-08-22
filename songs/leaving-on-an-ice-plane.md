@@ -38,7 +38,7 @@ So re**mem**ber to **pray** for them.\
 It’s **time** we all stand **up** for them,\
 They’re **wond**’rin’ if they’ll **e**ver be let go. \
 Sayin’: “I'm **lea**vin' **on** an ICE plane,\
-**Don't** know if **I'll** beback again…\
+**Don't** know if **I'll** be back again…\
 Oh **help**! Don’t make me **go**.”
 
 The time has **come** for them to **go** away.\
