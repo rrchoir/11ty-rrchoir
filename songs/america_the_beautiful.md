@@ -1,0 +1,50 @@
+---
+title:  America the Beautiful
+---
+
+
+# America the Beautiful
+
+O beautiful for spacious skies,  
+For amber waves of grain,  
+For purple mountain majesties  
+Above the fruited plain!  
+America! America!  
+God shed his grace on thee  
+And crown thy good with brotherhood  
+From sea to shining sea!  
+  
+O beautiful for heroes proved  
+In liberating strife,  
+Who more than self their country loved  
+And mercy more than life!  
+America! America!  
+May God thy gold refine  
+Till all success be nobleness  
+And every gain divine!  
+  
+O beautiful for patriot dream  
+That sees beyond the years  
+Thine alabaster cities gleam  
+Undimmed by human tears!  
+America! America!  
+God mend thine every flaw,  
+Confirm thy soul in self-control,  
+Thy liberty in law!  
+
+O beautiful thy immigrants  
+Who hail from every land  
+Their hope and heart and diligence  
+Like gifts from god’s own hand  
+America! America!  
+Thy grace shall yet remain  
+To greet the poor who reach thy shore  
+With open arms again  
+
+
+Other: 
+* Pitch: G (as published, not choir teste)
+* Recording: 
+* Credits: By Katherine Lee Bates and Samuel A Ward
+  * Additional lyrics by Jesse Palidofsky
+* Notes: Perform with introduction that: We should consider broadly who are our heros and patriots: the self-emancipated on the Underground Railroad, the union coal miners facing thugs in Appalachia, the Marchers on the Edmund Pettus bridge, the Act Up AIDS activists, the transgender youth of today proudly living their best lives: These are all the heroes and patriots that make America beautiful.
