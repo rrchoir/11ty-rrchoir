@@ -52,7 +52,7 @@ And **for** a time when **they** won't have to say:
 I’m **ho**pin’ you'll stand **up** with me,\
 I’m **wond**’rin’ if they’ll **ever** let me go.\
 I'm **lea**vin' **on** an ICE plane,\
-**Don't** know if **I'll** beback again…\
+**Don't** know if **I'll** be back again…\
 Please **help**! Don’t make me **go**.”
 
 “Yes, I'm **lea**vin' **on** an ICE plane,\
