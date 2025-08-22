@@ -1,6 +1,6 @@
 ---
 
-category: general
+category: attic
 title:  You’ll Never Walk Alone
 ---
 
