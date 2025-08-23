@@ -30,28 +30,28 @@ We are the **strong** and we grow **strong**er ev’ry **day**.
 *Chorus*  
 
 **We** are the **wo**men,\
-They will never take us down\
-We rise up from solid ground\
-And we grow stronger every day\
-We won’t give up the fight\
-For our bodies and our rights\
-We are strong and we grow stronger every day  
+They will **ne**ver take us **down**\
+We rise **up** from solid **ground**\
+And we grow **strong**er every **day**\
+We **won’t** give up the **fight**\
+For our **bod**ies and our **rights**\
+We are **strong** and we grow **strong**er every **day**  
 
-We are a rainbow\
-Beautiful and proud\
-We raise our voices loud\
-And we grow stronger every day\
-They try to make us disappear\
-But we are here and we are queer\
-We are strong and we grow stronger every day  
+**We** are a **rain**bow\
+**Beau**tiful and **proud**\
+We **raise** our voices **loud**\
+And we grow **strong**er every **day**\
+They **try** to make us **dis**appear\
+But we are **here** and we are **queer**\
+We are **strong** and we grow **strong**er every day  
 
-We are the seeds\
-And we are nurtured by the earth\
-In the darkness is rebirth\
-And we grow stronger every day\
-We will sing and shout\
-Until we force the rich boys out\
-We are strong and we grow stronger every day  
+**We** are the **seeds**\
+And we are **nur**tured by the **earth**\
+In the **dark**ness is re**birth**\
+And we grow **strong**er every **day**\
+**We** will sing and **shout**\
+Until we **force** the rich boys **out**\
+We are **strong** and we grow **strong**er every day  
 
 - - -
 
