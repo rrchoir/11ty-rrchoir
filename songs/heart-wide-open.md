@@ -9,7 +9,7 @@ summary: |-
   Finally the basses.
 Pitch: G
 tags:
-  - post
+  - general
 ---
 *Tenor/Melody:*\
 Keep your heart wide open,\
