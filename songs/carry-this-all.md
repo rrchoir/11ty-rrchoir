@@ -2,12 +2,11 @@
 title: Carry This All
 date: 2025-08-23T20:50:00.000-04:00
 author: Alexandra "Ahlay" Blakely
-summary: |-
+summary: |
   https://www.healingattheroots.com/carrythisall
-  https://ahlayblakely.bandcamp.com/track/carry-this-all-2
 Pitch: F
 tags:
-  - General
+  - general
 ---
 You do not carry this all alone.\
 No, you do not carry this all alone.\
