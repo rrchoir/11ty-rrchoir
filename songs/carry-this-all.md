@@ -9,9 +9,9 @@ Pitch: F
 tags:
   - General
 ---
-You do not carry this all alone\
-No you do not carry this all alone\
-This is way too big for you to carry this on your own\
+You do not carry this all alone.\
+No, you do not carry this all alone.\
+This is way too big for you to carry this on your own.\
 So, you do not carry this all alone.
 
 <https://ahlayblakely.bandcamp.com/track/carry-this-all-2>
