@@ -6,7 +6,7 @@ summary: |
   https://www.healingattheroots.com/carrythisall
 Pitch: F
 tags:
-  - General
+  - general
 ---
 You do not carry this all alone.\
 No, you do not carry this all alone.\
