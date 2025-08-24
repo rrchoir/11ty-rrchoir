@@ -16,12 +16,13 @@ So, **you do not ca**rry this **all** alone.
 Spanish:\
 **No llevas** **es**te **pe**so **so**lo.\
 **No lleves** **es**te **pe**so **so**lo. \
-Es de**ma**siado pe**sa**do para lle**var** **so**lo. \
+Es de**masia**do pe**sa**do para lle**var** **so**lo. \
 **No lleves** **es**te **pe**so **so**lo. 
 
 Pronunciation:\
 llevas = yebas\
 lleves = yebes\
-llevar = yebar
+llevar = yebar\
+demasiado=de-ma-sya-do 
 
 <https://ahlayblakely.bandcamp.com/track/carry-this-all-2>
