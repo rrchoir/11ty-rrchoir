@@ -11,7 +11,7 @@ tags:
   - 20thC
 category: general
 ---
-# Leaving on an ICE plane
+
 
 They’ve no **bags** to pack. They were **forced** to go.\
 They're **lay**ing on a **cold** hard floor.\
