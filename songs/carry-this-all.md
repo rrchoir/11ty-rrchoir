@@ -8,16 +8,16 @@ Pitch: F
 tags:
   - general
 ---
-You do not carry this all alone.\
-No, you do not carry this all alone.\
-This is way too big for you to carry this on your own.\
-So, you do not carry this all alone.
+**You do not** **ca**rry this **all** alone.\
+No, **you do not ca**rry this **all** alone.\
+This is **way** too big for you to **ca**rry this **on** your own.\
+So, **you do not ca**rry this **all** alone.
 
 Spanish:\
-No llevas **es**te **pe**so **so**lo.\
-No lleves **es**te **pe**so **so**lo. \
+**No llevas** **es**te **pe**so **so**lo.\
+**No lleves** **es**te **pe**so **so**lo. \
 Es de**ma**siado pe**sa**do para lle**var** **so**lo. \
-No lleves **es**te **pe**so **so**lo. 
+**No lleves** **es**te **pe**so **so**lo. 
 
 Pronunciation:\
 llevas = yebas\
