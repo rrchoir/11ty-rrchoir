@@ -1,7 +1,7 @@
 ---
 title: Leaving on an ICE plane
 date: 2025-08-17T00:00:00-04:00
-author: Peter B
+author: Francoise B.
 summary: Leaving on an ICE plane, apologies to John Denver
 Pitch: C
 metaDescription: A song
