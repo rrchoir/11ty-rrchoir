@@ -15,7 +15,12 @@ notes: >-
   best lives: These are all the heroes and patriots that make America beautiful.
 
 
-  Bates wrote the poem "Pike's Peak" in 1895. Ward composed the hymn "Materna" in 1883. The two were brought together as "America the Beautiful" and published in 1910 by Oliver Ditson & Co.
+  Bates wrote the poem "Pike's Peak" in 1895. Ward composed the hymn "Materna" in 1883. The two were brought together as "America the Beautiful" and published in 1910 by Oliver Ditson & Co. Jesse Palidofsky wrote new lyrics about immigrants, earth, and working people for the 2020 elections. 
+resources:
+  - url: https://inwardoutward.org/america-the-beautiful-2020-version/
+    text: Jesse Palidofsky lyrics
+  - url: https://en.wikipedia.org/wiki/America_the_Beautiful
+    text: America the Beautiful (Wikipedia)
 ---
 O beautiful for spacious skies,\
 For amber waves of grain,\
