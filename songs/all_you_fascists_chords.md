@@ -1,11 +1,14 @@
 ---
-
-category: general
 title: All you Fascists Bound to Lose Chords
+category: general
+credits: "Woody Guthrie, additional lyrics: Peter Burkholder, 2025"
+hints: G
+notes: Woody Guthrie wrote and first recorded the protest song in 1944, during
+  World War II. Guthrie is known for his anti-fascist stance, and his guitar
+  famously bore the words "This Machine Kills Fascists". The song has been
+  covered and reinterpreted by many artists since, and is a well-known
+  anti-fascist anthem.
 ---
-
-# All you Fascists Bound to Lose 
-
 ```
 [Verse 1]
 G
@@ -99,6 +102,3 @@ You're bound to lose! You fascists, bound to lose!
 
 Woody Guthrie, 1940
 ```
-
-_Woody Guthrie, 1940_  
-additional lyrics, Peter Burkholder, 2025
