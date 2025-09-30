@@ -13,13 +13,15 @@ notes: >
   Communist ideology. As a result, the Weavers were blacklisted. The song gained
   popularity in the Civil Rights movement, anti-war protests, and beyond. Peter,
   Paul, and Mary added “and my sisters” in their 1962 recording. Emma's
-  Revolution changed "my brothers and my sisters" to "all of the resisters" in
-  2025. 
+  Revolution changed "my brothers and my sisters" to "all of the resisters"
+  around 2019. 
 resources:
   - url: https://voices.pitt.edu/TeachersGuide/Unit8/HammerSong.htm
     text: "Voices Across Time: The Hammer Song (If I Had a Hammer)"
   - text: Pete Seeger recording (YouTube)
     url: https://www.youtube.com/watch?v=VO39e5Uznu4
+  - url: https://www.youtube.com/watch?v=gY8ecZ_ekQU
+    text: Emma's Revolution & Vicki Randle recording 2019 (YouTube)
 ---
 If I had a hammer, I'd hammer in the morning\
 I'd hammer in the evening all over this land\
