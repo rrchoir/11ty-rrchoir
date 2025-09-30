@@ -1,8 +1,10 @@
 ---
-title: All you Fascists Bound to Lose
+title: All You Fascists Bound to Lose
 category: general
 credits: Woody Guthrie
 hints: G
+tags:
+  - Protest
 notes: 'Background: Woody Guthrie wrote and first recorded the protest song in
   1944, during World War II. Guthrie is known for his anti-fascist stance, and
   his guitar famously bore the words "This Machine Kills Fascists". The song has
