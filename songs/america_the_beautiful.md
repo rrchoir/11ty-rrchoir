@@ -5,12 +5,17 @@ credits: Katherine Lee Bates and Samuel A Ward; additional lyrics by Jesse Palid
 hints: "Pitch: G (as published, not choir tested)"
 tags:
   - Patriotic
-notes: "Perform with introduction that: We should consider broadly who are our
-  heroes and patriots: the self-emancipated on the Underground Railroad, the
-  union coal miners facing thugs in Appalachia, the Marchers on the Edmund
-  Pettus bridge, the Act Up AIDS activists, the transgender youth of today
-  proudly living their best lives: These are all the heroes and patriots that
-  make America beautiful."
+  - 19thc
+  - 20thc
+notes: >-
+  Perform with introduction that: We should consider broadly who are our heroes
+  and patriots: the self-emancipated on the Underground Railroad, the union coal
+  miners facing thugs in Appalachia, the Marchers on the Edmund Pettus bridge,
+  the Act Up AIDS activists, the transgender youth of today proudly living their
+  best lives: These are all the heroes and patriots that make America beautiful.
+
+
+  Bates wrote the poem "Pike's Peak" in 1895. Ward composed the hymn "Materna" in 1883. The two were brought together as "America the Beautiful" and published in 1910 by Oliver Ditson & Co.
 ---
 O beautiful for spacious skies,\
 For amber waves of grain,\
