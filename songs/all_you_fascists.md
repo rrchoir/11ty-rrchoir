@@ -1,7 +1,7 @@
 ---
 title: All You Fascists Bound to Lose
 category: general
-credits: Woody Guthrie
+credits: "Woody Guthrie, additional lyrics: Peter Burkholder, 2025"
 hints: G
 tags:
   - Protest
@@ -75,7 +75,6 @@ All you fascists bound to lose!\
 All you fascists bound to lose!\
 You're bound to lose! You fascists, bound to lose!  
 
-*Woody Guthrie, 1940*\
-additional lyrics, Peter Burkholder, 2025
+*Woody Guthrie, 1940*
 
 [Lyrics and Guitar Chords](./songs/all_you_fascists_chords)
