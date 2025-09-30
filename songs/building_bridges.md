@@ -1,6 +1,6 @@
 ---
 title: Building Bridges
-category: general
+category: sandbox
 credits: Greenham Common Women's Peace Camp
 hints: "Pitch: D"
 tags:
