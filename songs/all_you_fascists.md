@@ -75,6 +75,4 @@ All you fascists bound to lose!\
 All you fascists bound to lose!\
 You're bound to lose! You fascists, bound to lose!  
 
-*Woody Guthrie, 1940*
-
 [Lyrics and Guitar Chords](./songs/all_you_fascists_chords)
