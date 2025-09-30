@@ -35,12 +35,21 @@ collections:
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Author", name: "author", widget: "string", default: "Anonymous" }
-      - { label: "Summary", name: "summary", widget: "text" }
-      - { label: "Pitch / Key", name: "Pitch", widget: "text" }
-      - { label: "Tags", name: "tags", widget: "list", default: ["post"] }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options: ["general", "parody", "baltimore", "patriotic", "sandbox", "attic"]
+      - { label: "Credits", name: "credits", widget: "string", default: "Anonymous" }
+      - { label: "Pitch / Key Hints", name: "hints", widget: "string" }
+      - { label: "Tags", name: "tags", widget: "list", default: [""] }
       - { label: "Body", name: "body", widget: "markdown" }
+      - { lable: "Notes for context or performance", name: "notes", widget: "text"}
+      - label: "Resources"
+        name: "resources"
+        widget: "list"
+        fields: 
+          - { label: "Link Text", name: "text", widget: "string" }
+          - { label: "URL", name: "url", widget: "string" }
   # Our pages e.g. About
   - name: "pages"
     label: "Page"
