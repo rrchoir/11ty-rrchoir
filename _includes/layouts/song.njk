@@ -7,11 +7,13 @@ section: song
 
 <article>
   <h1>{{ title }}</h1>
+  {% if hints %}
   <p>
     <small>
-      <time datetime="{{ page.date | machineDate }}">{{ page.date | readableDate }}</time> by <a href="/authors/{{ author | slug }}/">{{ author }}</a>
+      Performance hints: {{ hints | safe }}
     </small>
   </p>
+  {% endif %}
 
   {{ content | safe }}
 
@@ -24,6 +26,20 @@ section: song
       {%- endif -%}
     {% endfor %}
     </p>
+  {% endif %}
+
+  <p>
+    <i><b>Credits</b>: {{credits | default('Uncredited')}}</i><br>
+    {% if notes %}<b>Notes</b>: {{notes |safe}}<br>{% endif %}
+    {% if teachability %}<b>Teachability</b>: {{teachability |safe}}<br>{% endif %}
+    {% if audience_participation %}<b>Initial participation</b>:{{audience_participation |safe}}<br>{% endif %}
+  </p>
+  {% if resources %}
+  <ul>
+    {% for resource in resources %}
+        <li><a href="{{ resource.url }}">{{ resource.text }}</a></li>
+    {% endfor %}
+  </ul>
   {% endif %}
 
 </article>

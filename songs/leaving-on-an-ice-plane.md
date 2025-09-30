@@ -1,15 +1,18 @@
 ---
 title: Leaving on an ICE plane
-date: 2025-08-17T00:00:00-04:00
-author: Francoise B.
-summary: Leaving on an ICE plane, apologies to John Denver
-Pitch: C
-metaDescription: A song
+category: general
+credits: John Denver (1971), parody lyrics by Francoise B.
+hints: Requires accompaniment.
+notes: |-
+  Use with care, as it could be seen as making 
+  light of the ordeals of detainees. Audience participates in the refrain.
 tags:
   - immigration
   - parody
   - 20thC
-category: general
+  - well-known
+audience_participation: medium 
+ease_of_learning: easy
 ---
 
 

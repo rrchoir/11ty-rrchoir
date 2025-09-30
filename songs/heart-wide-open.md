@@ -1,16 +1,24 @@
 ---
 title: Heart Wide Open
-date: 2025-08-22T21:25:00.000-04:00
-author: Lea Morris
-summary: |-
+category: general
+credits: Lea Morris (2020)
+hints: Starting pitch G
+notes: |-
   Begin with tenors singing the melody.
   Then, bring in the altos. 
   Then the sopranos. 
   Finally the basses.
-Pitch: G
 tags:
-  - general
+  - 21stC
+  - de-escalation
+  - faith
+audience_participation: low
+teachability: easy
+resources:
+  - text: Bandcamp recording
+    url: https://thisisleamusic.bandcamp.com/track/heart-wide-open)"
 ---
+
 *Tenor/Melody:*\
 Keep your heart wide open,\
 Though the waves want to push you around.\
