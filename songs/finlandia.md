@@ -16,6 +16,9 @@ notes: >-
   Lloyd Stone (1912-1993), an American public school teacher who lived in Hawaii, authored 10 books of poetry and two children’s books. He wrote the first two stanzas of “This Is My Song” for its inclusion in the collection, Sing a Tune (1934). During the brief time of peace between two world wars, it was a song of hope for all nations—“for lands afar and mine.”
 
 
+  Susan Briehl, staff lyricist for GIA publications, wrote the third verse for Marty Haugen's arrangement.
+
+
   Modified lyrics: To be less religious/more inclusive. Verse 1 changed “O God of all the nations” to “A song for all the nations”. Verse 2 changed “God” to “Thou”. Verse 3 changed “O God of all creation” to “A song for all creation” and “Your glorious vision” to “a glorious vision”. 
 resources:
   - url: https://www.umcdiscipleship.org/resources/history-of-hymns-this-is-my-song
@@ -65,13 +68,3 @@ Teach us to walk the way that ends division,\
 Till every land and nation love entwines.\
 Then will all peoples see a glorious vision:\
 The world at peace, beloved and divine.
-
-- - -
-
-* Pitch: A
-* Recordings: 
-
-  * [Mary Miche on Spotify](https://open.spotify.com/track/1e7IXEmSja2PUuAEYzj5SK)
-  * [Mary Miche on Apple](https://music.apple.com/fi/song/song-of-peace-finlandia/1544077700)
-* Credits: Jean Sibelius, Lloyd Stone, vs 3: Susan Briehl
-* Notes:
