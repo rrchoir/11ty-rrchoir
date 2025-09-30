@@ -24,8 +24,6 @@ resources:
   - text: Greenham Common Women's Peace Camp (Wikipedia)
     url: https://en.wikipedia.org/wiki/Greenham_Common_Women%27s_Peace_Camp
 ---
-# Building Bridges
-
 Building Bridges between our divisions, I\
 reach out to you, will you reach out to me? With\
 all of our voices and all of our visions,\
