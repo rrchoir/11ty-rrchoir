@@ -100,5 +100,4 @@ All you fascists bound to lose!
                 D                            G
 You're bound to lose! You fascists, bound to lose!
 
-Woody Guthrie, 1940
 ```
