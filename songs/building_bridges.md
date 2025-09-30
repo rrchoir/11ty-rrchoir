@@ -18,7 +18,7 @@ notes: >
   Many songs came out of the protests, all attributed to “The women of the Greenham Common Peace Camp", and not credited to individuals. 
 resources:
   - url: https://www.youtube.com/watch?v=1NQUMOmvCnQ
-    text: Recording by UUC Utica
+    text: Recording by UUC Utica (YouTube)
   - url: https://www.mujerpalabra.net/activismo/greehamcommon/english/artwork/GreenhamSongbook.pdf
     text: Greenham Women's Songbook
   - text: Greenham Common Women's Peace Camp (Wikipedia)
