@@ -6,6 +6,8 @@ hints: ~D~ G
 tags:
   - core
   - protest
+  - joy
+  - resistance
 notes: "The phrase \"Joy is an act of resistance\" originated with
   African-American poet Toi Derricotte in the 1980s. The idea has since been
   adopted and expanded upon by various movements, particularly within Black
