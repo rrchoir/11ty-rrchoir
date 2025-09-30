@@ -1,28 +1,34 @@
 ---
-title: Carry This All
-date: 2025-08-23T20:50:00.000-04:00
-author: Alexandra "Ahlay" Blakely
+Pitch: F
+category: general
+notes: 'This song was almost lost. Blakely composed this at a song workshop, as
+  the first iteration of her song "The 3rd gate: Sorrows of the World" for her
+  album WAILS: Songs for Grief. A friend sang it at a gathering years later, and
+  Blakely did not remember having composed it: she loved it and asked where it
+  came from. '
+resources:
+  - url: https://ahlayblakely.bandcamp.com/track/carry-this-all-2
+    text: Recording (Bandcamp)
+  - url: https://www.healingattheroots.com/carrythisall
+    text: Background
+  - text: Recording (YouTube)
+    url: https://www.youtube.com/watch?v=uBhCFsatU0Y
 summary: |
   https://www.healingattheroots.com/carrythisall
-Pitch: F
+author: Alexandra "Ahlay" Blakely
+hints: Lullaby, respect the rests
+date: 2025-08-23T20:50:00.000-04:00
+title: Carry This All
+credits: Alexandra “Ahlay” Blakely
 tags:
-  - general
+  - core
+  - friendship
+  - grief
+  - de-escalation
 ---
 **You do not** **ca**rry this **all** alone.\
 No, **you do not ca**rry this **all** alone.\
 This is **way** too big for you to **ca**rry this **on** your own.\
 So, **you do not ca**rry this **all** alone.
 
-Spanish:\
-**No llevas** **es**te **pe**so **so**lo.\
-**No lleves** **es**te **pe**so **so**lo. \
-Es de**masia**do pe**sa**do para lle**var** **so**lo. \
-**No lleves** **es**te **pe**so **so**lo. 
-
-Pronunciation:\
-llevas = yebas\
-lleves = yebes\
-llevar = yebar\
-demasiado=de-ma-sya-do 
-
-<https://ahlayblakely.bandcamp.com/track/carry-this-all-2>
+[](https://ahlayblakely.bandcamp.com/track/carry-this-all-2)
