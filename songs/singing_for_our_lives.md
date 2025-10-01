@@ -15,13 +15,11 @@ resources:
   - url: https://www.pbs.org/wnet/americanmasters/american-masters-holly-near-singing-for-our-lives-holly-near-on-the-story-behind-singing-for-our-lives/11051/
     text: Holly Near on the story behind the song
 ---
-# Singing For Our Lives
-
 We are a gentle angry people\
 And we are singing, singing for our lives\
 (Repeat both lines)  
 
-*Other verses*  
+*Other verses*\
 We are a justice-seeking people\
 We are a land of many colors\
 We are a peaceful, loving people\
