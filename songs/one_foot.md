@@ -6,17 +6,16 @@ hints: "Pitch: D"
 tags:
   - hope
   - core
-  - ""
+  - friendship
+  - protest
 notes: Melanie DeMore wrote this song the day after the 2016 election. She was
   doing a residency in a middle school in Minneapolis-St Paul with a strong
-  Latinx and African American population. The day after the election, a couple
-  of her black students asked her "Miss Melanie, does this mean we're going to
-  be slaves again?" The Latino students thought they're going to take away my
-  grandma in the middle of the night. She said "They're gonna have to come
-  through me first" and "There are more people with you than against you". She
-  reminded them that great leaders like MLK Jr started their movements out of
-  the love of their people, not their hatred of someone else. "So you gotta lead
-  with love."
+  Latinx and African American population. The day after the election, her black
+  students wondered if they were going to be slaves again. The Latino students
+  thought their grandmas would be taken away in the middle of the night. She
+  told them "There are more people with you than against you". She reminded them
+  that great leaders like MLK Jr started their movements out of the love of
+  their people, not their hatred of someone else. "So you gotta lead with love."
 resources:
   - text: Melanie DeMore recording (YouTube)
     url: https://www.youtube.com/watch?v=9w22S8foSbk
