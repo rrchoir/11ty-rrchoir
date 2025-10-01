@@ -19,7 +19,9 @@ resources:
   - url: https://www.youtube.com/watch?v=BEwE0R_7TDc
     text: UMW Historical recording (YouTube)
 ---
-`<table><tr><td>`**Original Union Verses**
+<table><tr><td>
+
+**Original Union Verses**
 
 Come ALL of you good workers\
 Good news to you I'll tell\
@@ -49,7 +51,10 @@ Don't listen to their lies\
 Us poor folks haven't got a chance\
 Unless we organize … Chorus
 
-`</td><td>`**Alternate verses**
+</td>
+<td>
+
+**Alternate verses**
 
 Come ALL of you good people\
 Good new to you I'll tell\
@@ -86,7 +91,7 @@ But their soul they did sell\
 They shackle up their passengers,\
 *And fly them straight to hell*  … Chorus
 
-`</td></tr></table>`
+</td></tr></table>
 
 Guitar Chords\
 Am – Em Am/Em Am E Am//Am – E Am
