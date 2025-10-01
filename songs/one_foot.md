@@ -54,14 +54,8 @@ Right next to you
 
 And lead with love (3 more times)  
 
-- - -
+**LINKS NOT LIVE ON BETA SITE:**
 
-* Starting Pitch: D
-* Recording: [YouTube](https://www.youtube.com/watch?v=9w22S8foSbk), [Choir (with sheet music)](https://youtu.be/PbCLa0iUQd4)
-* Parts
-
-  * [Melody](/_Media/one_foot_melody.mp3)
-  * [Low voice](/_Media/one_foot_low.mp3)
-  * [High voice](/_Media/one_foot_high.mp3)
-* Credits: Melanie DeMore
-* Notes:
+* [Melody](/_Media/one_foot_melody.mp3)
+* [Low voice](/_Media/one_foot_low.mp3)
+* [High voice](/_Media/one_foot_high.mp3)
