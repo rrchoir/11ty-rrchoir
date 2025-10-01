@@ -51,7 +51,7 @@ Don't listen to their lies\
 Us poor folks haven't got a chance\
 Unless we organize … Chorus
 
-</td>
+</td><td>&nbsp;</td>
 <td>
 
 **Alternate verses**
