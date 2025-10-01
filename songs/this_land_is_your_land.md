@@ -16,6 +16,8 @@ resources:
     text: Woody Guthrie recording (YouTube)
   - url: https://en.wikipedia.org/wiki/This_Land_Is_Your_Land
     text: This Land Is Your Land (Wikipedia)
+  - url: https://www.npr.org/2000/07/03/1076186/this-land-is-your-land
+    text: The Story of Woody Guthrie's "This Land is Your Land"
 ---
 *Chords*: G D A D
 
