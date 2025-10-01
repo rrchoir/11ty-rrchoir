@@ -39,14 +39,15 @@ collections:
         name: "category"
         widget: "select"
         options: ["general", "parody", "baltimore", "patriotic", "sandbox", "attic"]
-      - { label: "Credits", name: "credits", widget: "string", default: "Anonymous" }
-      - { label: "Pitch / Key Hints", name: "hints", widget: "string" }
-      - { label: "Tags", name: "tags", widget: "list", default: [""] }
+      - { label: "Credits", name: "credits", widget: "string", default: "Anonymous", required: false }
+      - { label: "Pitch / Key Hints", name: "hints", widget: "string", required: false }
+      - { label: "Tags", name: "tags", widget: "list", allow_add: true, default: [""], required: false }
       - { label: "Body", name: "body", widget: "markdown" }
-      - { lable: "Notes for context or performance", name: "notes", widget: "text"}
+      - { lable: "Notes for context or performance", name: "notes", widget: "markdown", required: false}
       - label: "Resources"
         name: "resources"
         widget: "list"
+        required: false
         fields: 
           - { label: "Link Text", name: "text", widget: "string" }
           - { label: "URL", name: "url", widget: "string" }
