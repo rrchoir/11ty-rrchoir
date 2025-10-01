@@ -1,7 +1,22 @@
 ---
-
-category: multilingual
-title:  We Shall Not be Moved / No nos Moveran
+title: We Shall Not be Moved / No nos Moveran
+category: general
+credits: African American Spiritual
+hints: "Pitch: E"
+tags:
+  - spanish
+  - core
+  - protest
+  - 19thc
+  - zipper
+notes: The origins of this song are unclear. Some believe it was a Spiritual
+  from the days of slavery. It eventually appeared in hymnals as "I Shall Not Be
+  Moved". During the labor movements of the 1940s and 50s, it was changed to "We
+  Shall Not Be Moved" and used this way, with changing verses, in many protest
+  movement worldwide to the present.
+resources:
+  - url: https://balladofamerica.org/we-shall-not-be-moved/
+    text: "We Shall Not Be Moved: About the Song"
 ---
 
 # We Shall Not be Moved / No nos Moveran
