@@ -47,7 +47,7 @@ Don't listen to their lies\
 Us poor folks haven't got a chance\
 Unless we organize … Chorus
 
-`</td><td>`**New verses**
+`</td><td>`**Alternate verses**
 
 Come ALL of you good people\
 Good new to you I'll tell\
