@@ -7,10 +7,12 @@ tags:
   - core
   - immigrants
   - poverty
-notes: Woody Guthrie wrote this song in 1940 as a counterpoint to Irvin Berlin's
-  "God Bless America", and as a protest against the vast income inequalities
-  that exist in the United States, and against the sufferings of millions during
-  the Great Depression.
+notes: "Woody Guthrie wrote this song in 1940 as a counterpoint to Irvin
+  Berlin's \"God Bless America\", and as a protest against the vast income
+  inequalities that exist in the United States, and against the sufferings of
+  millions during the Great Depression. Woody spent many years wandering around
+  the US: walking, hitchhiking, hopping on freight trains. The tune was based on
+  the gospel song \"When the World's on Fire\"."
 resources:
   - url: https://www.youtube.com/watch?v=wxiMrvDbq3s
     text: Woody Guthrie recording (YouTube)
