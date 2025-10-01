@@ -16,6 +16,8 @@ resources:
   - url: https://ig.ft.com/life-of-a-song/which-side-are-you-on.html
     text: Which Side Are You On? — Florence Reece’s protest song became an anthem
       for many causes
+  - url: https://www.youtube.com/watch?v=BEwE0R_7TDc
+    text: UMW Historical recording (YouTube)
 ---
 `<table><tr><td>`**Original Union Verses**
 
