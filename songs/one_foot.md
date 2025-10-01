@@ -23,6 +23,12 @@ resources:
     url: https://www.youtube.com/watch?v=PbCLa0iUQd4
   - url: https://www.facebook.com/watch/?v=1777444036325042
     text: Melanie talks about how she came to write the song (FB video)
+  - text: Melody line (audio)
+    url: https://cdn.blot.im/folder/v-2001cdda/blog_e75a85d856e84664a2f2830d84655da7/_Media/one_foot_melody.mp3
+  - url: https://cdn.blot.im/folder/v-42e5d3d8/blog_e75a85d856e84664a2f2830d84655da7/_Media/one_foot_low.mp3
+    text: Low Voice (audio)
+  - text: High Voice (audio)
+    url: https://cdn.blot.im/folder/v-fba1dc7f/blog_e75a85d856e84664a2f2830d84655da7/_Media/one_foot_high.mp3
 ---
 \[Chorus]\
 You gotta put one foot in front of the other and lead with love\
@@ -51,10 +57,4 @@ Right next to you
 
 *Chorus*  
 
-And lead with love (3 more times)  
-
-**LINKS NOT LIVE ON BETA SITE:**
-
-* [Melody](/_Media/one_foot_melody.mp3)
-* [Low voice](/_Media/one_foot_low.mp3)
-* [High voice](/_Media/one_foot_high.mp3)
+And lead with love (3 more times)  [](/_Media/one_foot_high.mp3)
