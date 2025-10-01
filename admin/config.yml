@@ -43,7 +43,7 @@ collections:
       - { label: "Pitch / Key Hints", name: "hints", widget: "string", required: false }
       - { label: "Tags", name: "tags", widget: "list", allow_add: true, default: [""], required: false }
       - { label: "Body", name: "body", widget: "markdown" }
-      - { lable: "Notes for context or performance", name: "notes", widget: "markdown", required: false}
+      - { label: "Notes for context or performance", name: "notes", widget: "markdown", required: false}
       - label: "Resources"
         name: "resources"
         widget: "list"
@@ -51,6 +51,17 @@ collections:
         fields: 
           - { label: "Link Text", name: "text", widget: "string" }
           - { label: "URL", name: "url", widget: "string" }
+      - label: "Teachability"
+        name: "teachability"
+        widget: "select"
+        required: false
+        options: ["very easy", "easy", "medium", "hard"]
+      - label: "Potential for crowd participation"
+        name: "audience_participation"
+        widget: "select"
+        required: false
+        options: ["performance only", "low", "medium", "high"]
+
   # Our pages e.g. About
   - name: "pages"
     label: "Page"
