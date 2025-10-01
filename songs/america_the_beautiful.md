@@ -22,6 +22,8 @@ resources:
     text: Jesse Palidofsky lyrics
   - url: https://en.wikipedia.org/wiki/America_the_Beautiful
     text: America the Beautiful (Wikipedia)
+teachability: very easy
+audience_participation: high
 ---
 O beautiful for spacious skies,\
 For amber waves of grain,\
