@@ -17,7 +17,7 @@ resources:
     text: Which Side Are You On? — Florence Reece’s protest song became an anthem
       for many causes
 ---
-**`<table><tr><td>`Original Union Verses**
+`<table><tr><td>`**Original Union Verses**
 
 Come ALL of you good workers\
 Good news to you I'll tell\
