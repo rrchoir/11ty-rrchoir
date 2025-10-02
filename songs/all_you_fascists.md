@@ -1,13 +1,26 @@
 ---
-title: All you Fascists Bound to Lose
+title: All You Fascists Bound to Lose
 category: general
-credits: Woody Guthrie
+credits: "Woody Guthrie, additional lyrics: Peter Burkholder, 2025"
 hints: G
-notes: 'Background: Woody Guthrie wrote and first recorded the protest song in
-  1944, during World War II. Guthrie is known for his anti-fascist stance, and
-  his guitar famously bore the words "This Machine Kills Fascists". The song has
-  been covered and reinterpreted by many artists since, and is a well-known
+tags:
+  - Protest
+notes: 'Woody Guthrie wrote and first recorded the protest song in 1944, during
+  World War II. Guthrie is known for his anti-fascist stance, and his guitar
+  famously bore the words "This Machine Kills Fascists". The song has been
+  covered and reinterpreted by many artists since, and is a well-known
   anti-fascist anthem. '
+resources:
+  - url: https://www.youtube.com/watch?v=2CVm5l9ULqU
+    text: Todd the Brand recording (YouTube)
+  - url: https://open.spotify.com/track/0lYykZNNBNE33o5izvZFrG?si=95b2d71279564ba3
+    text: Resistance Revival Choir recording (Spotify)
+  - url: https://music.apple.com/us/song/all-you-fascists-bound-to-lose/1531421548
+    text: Resistance Revival Choir recording (Apple)
+  - url: https://www.youtube.com/watch?v=sUCJ0cGjjuw
+    text: Resistance Revival Choir recording (YouTube)
+  - url: https://louisehaynes.substack.com/p/woody-guthrie-fighting-fascists
+    text: " Social Issues in Song: Woody Guthrie fighting fascists"
 ---
 \[Verse 1]\
 I'm gonna tell you fascists, and you may be surprised:\
@@ -72,8 +85,5 @@ All you fascists bound to lose! (Yessir!)\
 All you fascists bound to lose!\
 All you fascists bound to lose!\
 You're bound to lose! You fascists, bound to lose!  
-
-*Woody Guthrie, 1940*\
-additional lyrics, Peter Burkholder, 2025
 
 [Lyrics and Guitar Chords](./songs/all_you_fascists_chords)
