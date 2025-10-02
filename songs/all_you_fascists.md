@@ -5,6 +5,7 @@ credits: "Woody Guthrie, additional lyrics: Peter Burkholder, 2025"
 hints: G
 tags:
   - Protest
+  - Folk
 notes: 'Woody Guthrie wrote and first recorded the protest song in 1944, during
   World War II. Guthrie is known for his anti-fascist stance, and his guitar
   famously bore the words "This Machine Kills Fascists". The song has been
