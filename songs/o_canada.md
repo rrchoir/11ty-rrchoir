@@ -5,11 +5,8 @@ credits: Calixa Lavallée
 hints: "Pitch: E - key of C (orginal: A, key of F)"
 tags:
   - patriotic
-notes: >-
-  The official bilingual version has French stanzas the were too difficult for
-  us Yanks, so we're trying
-
-  this instead.
+notes: The official bilingual version has French stanzas the were too difficult
+  for us Yanks, so we're trying this instead.
 resources:
   - url: https://soundcloud.com/denisegagne/o-canada-new-lyrics-1
     text: Denise Gagne recording (SoundCloud)
