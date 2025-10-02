@@ -8,11 +8,18 @@ tags:
   - immigrants
   - sing-along
   - protest
+  - 20thc
+notes: Pat Humphries (of Emma's Revolution[](https://emmasrevolution.com/))
+  wrote this song in 1984 as "Keep on Walking Forward".
 resources:
   - url: https://open.spotify.com/track/4jkecc6xb43FAGWmGyVdIc
     text: Emma's Revolution recording (Spotify)
   - url: https://music.apple.com/us/song/keep-on-moving-forward/312610044
     text: Emma's Revolution recording (Apple)
+  - url: https://thebirdsings.com/keep-on-moving-forward-sigamos-adelante/
+    text: Song background from The Bird Sings
+  - url: https://bigsingcommunity.com/songs/keep-on-walking-forward/
+    text: "Song background from Big Sing community "
 ---
 We’re gonna keep on moving forward\
 Keep on moving forward,\
