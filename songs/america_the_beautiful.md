@@ -1,15 +1,22 @@
 ---
+title: America the Beautiful
 category: general
 credits: Katherine Lee Bates and Samuel A Ward; additional lyrics by Jesse Palidofsky
+hints: "Pitch: G (as published, not choir tested)"
+tags:
+  - Patriotic
+  - 19thc
+  - 20thc
+  - core
 notes: >-
-  Perform with introduction that: We should consider broadly who are our heroes
-  and patriots: the self-emancipated on the Underground Railroad, the union coal
+  **Requires Introduction:** We should consider broadly who are our heroes and
+  patriots: the self-emancipated on the Underground Railroad, the union coal
   miners facing thugs in Appalachia, the Marchers on the Edmund Pettus bridge,
   the Act Up AIDS activists, the transgender youth of today proudly living their
   best lives: These are all the heroes and patriots that make America beautiful.
 
 
-  Bates wrote the poem "Pike's Peak" in 1895. Ward composed the hymn "Materna" in 1883. The two were brought together as "America the Beautiful" and published in 1910 by Oliver Ditson & Co. Jesse Palidofsky wrote new lyrics about immigrants, earth, and working people for the 2020 elections. 
+  Bates wrote the poem "Pike's Peak" in 1895. Ward composed the hymn "Materna" in 1883. The two were brought together as "America the Beautiful" and published in 1910 by Oliver Ditson & Co. Jesse Palidofsky wrote new lyrics about immigrants, earth, and working people for the 2020 elections.
 resources:
   - url: https://inwardoutward.org/america-the-beautiful-2020-version/
     text: Jesse Palidofsky lyrics
@@ -17,15 +24,8 @@ resources:
     text: America the Beautiful (Wikipedia)
   - url: https://www.youtube.com/watch?v=IiydluD0PyM
     text: Jesse Palidofsky recording (YouTube)
-audience_participation: high
-hints: "Pitch: G (as published, not choir tested)"
 teachability: very easy
-title: America the Beautiful
-tags:
-  - Patriotic
-  - 19thc
-  - 20thc
-  - core
+audience_participation: high
 ---
 O beautiful for spacious skies,\
 For amber waves of grain,\
