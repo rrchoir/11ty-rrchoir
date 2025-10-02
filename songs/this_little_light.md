@@ -7,11 +7,13 @@ tags:
   - core
   - hope
   - protest
-notes: Though the origins of the song are unknown, this song became popular with
-  the Civil Rights movements of the 1950s and 60s.
+notes: Though the origins of the song are lost to time, this song became popular
+  with the Civil Rights movements of the 1950s and 60s. See the NPR link for
+  some encouraging stories about its use in protests.
 resources:
   - url: https://www.npr.org/2018/08/06/630051651/american-anthem-this-little-light-of-mine-resistance
-    text: "'This Little Light Of Mine' Shines On, A Timeless Tool Of Resistance"
+    text: "'This Little Light Of Mine' Shines On, A Timeless Tool Of Resistance
+      (NPR)"
   - url: https://balladofamerica.org/this-little-light-of-mine
     text: "This Little Light of Mine: About the Song"
 ---
