@@ -10,8 +10,7 @@ tags:
   - protest
   - 20thc
 notes: >-
-  Pat Humphries (of Emma's Revolution) wrote this song in 1984 as "Keep on
-  Walking Forward".
+  Pa
 
 
   She was heading for a song workshop camp that was taking place atop a hill that seemed "insurmountable". As she struggled up the path, she chanted to herself "You can't turn back, you can't turn back". At the workshop that evening, she developed that into the song.
