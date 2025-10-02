@@ -14,9 +14,6 @@ section: song
     </small>
   </p>
   {% endif %}
-
-  {{ content | safe }}
-
   {% if tags %}
     <p>
     {% for tag in tags %}
@@ -27,6 +24,9 @@ section: song
     {% endfor %}
     </p>
   {% endif %}
+
+  {{ content | safe }}
+
 
   <p>
     <i><b>Credits</b>: {{credits | default('Uncredited')}}</i><br>

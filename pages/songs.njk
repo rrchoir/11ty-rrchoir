@@ -22,8 +22,7 @@ permalink: /songs/index.html
         <h2><u>{{ category | safe }}</u></h2>
 
         {% for song in collections.categories[category] | sort(attribute='title') %}
-
-        <h4>
+        <h4 style="font-size: 24px; font-weight: bold;">
           <a href="{{ song.page.url | url }}">
             {% if song.title %}
               {{ song.title }}
@@ -31,6 +30,16 @@ permalink: /songs/index.html
               Untitled
             {% endif %}
           </a>
+          <span style="font-size: 14px; font-weight: normal;">
+            {% if song.tags %}
+              {% for tag in song.tags %}
+                {%- if tag != "song" -%}
+                  {% set tagUrl %}/tags/{{ tag }}/{% endset %}
+                  <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
+                {%- endif -%}
+              {% endfor %}
+            {% endif %}
+          </span>
         </h4>
         {% endfor %}
 
