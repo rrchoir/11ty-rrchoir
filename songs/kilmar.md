@@ -9,8 +9,6 @@ resources:
   - url: https://www.youtube.com/watch?v=MbtkL5_f6-4
     text: Original Kingston Trio recording (YouTube)
 ---
-*Parody lyrics by Joe Dalaker & Peter B. Tune of Kingston Trio's "Charlie and the M T A"*  ([Recording](/_Media/kilmar.m4a), [Original Kingston Trio on YouTube](https://www.youtube.com/watch?v=MbtkL5_f6-4))
-
 Oh let me tell you about\
 Kilmar Abrego García\
 And injustices against that man.\
