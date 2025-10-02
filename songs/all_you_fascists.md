@@ -19,6 +19,8 @@ resources:
     text: Resistance Revival Choir recording (Apple)
   - url: https://www.youtube.com/watch?v=sUCJ0cGjjuw
     text: Resistance Revival Choir recording (YouTube)
+  - url: https://louisehaynes.substack.com/p/woody-guthrie-fighting-fascists
+    text: " Social Issues in Song: Woody Guthrie fighting fascists"
 ---
 \[Verse 1]\
 I'm gonna tell you fascists, and you may be surprised:\
