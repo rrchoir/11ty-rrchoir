@@ -1,7 +1,7 @@
 ---
 title: DOGE is to Blame
 category: general
-credits: Modified lyrics by Nikki Nesbary
+credits: Parody lyrics by Nikki Nesbary
 tags:
   - parody
 notes: To the tune of *Home on the Range*.
