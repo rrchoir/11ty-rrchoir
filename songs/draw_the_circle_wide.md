@@ -1,6 +1,6 @@
 ---
 title: Draw the Circle Wide
-category: general
+category: attic
 credits: Gordon Light and Mark Miller
 resources:
   - url: https://www.youtube.com/watch?v=PcIQrWOYug8&list=RDPcIQrWOYug8&start_radio=1
