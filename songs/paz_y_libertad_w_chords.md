@@ -1,12 +1,11 @@
 ---
-
-category: general
 title: Paz y Libertad w chords
+category: general
+resources:
+  - text: José-Luis Orozco recording (YouTube)
+    url: https://www.youtube.com/watch?v=nQh5U_78bgE
 ---
 
-# Paz y Libertad
-
-_José-Luís Orozco_
 
 ```
 C       F        C  
