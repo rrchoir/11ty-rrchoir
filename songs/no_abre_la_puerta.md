@@ -4,6 +4,7 @@ category: attic
 credits: Music by by Los Guaraguao, words by
 notes: "*To the tune of [No Basta
   Rezar](https://youtu.be/1fI6n6qYqf0?si=YLUThFcXw7dNBz7z) by Los Guaraguao*"
+resources: []
 ---
 C . G . . D7 . . . . C\
 No no no abra la puerta  
