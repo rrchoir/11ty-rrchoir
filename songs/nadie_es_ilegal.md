@@ -9,9 +9,7 @@ resources:
   - url: https://youtu.be/QZG23mcgd6M?si=gL5stltP4fJ-lJnu
     text: Songrise recording (YouTube)
 ---
-[YouTube](https://youtu.be/QZG23mcgd6M?si=gL5stltP4fJ-lJnu)
-
-No person is illegal\
+[](https://youtu.be/QZG23mcgd6M?si=gL5stltP4fJ-lJnu)No person is illegal\
 Nadie es ilegal\
 On this stolen land\
 En esta tierra robada\
