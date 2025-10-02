@@ -1,6 +1,15 @@
 ---
 title: Both Sides Now
 category: general
+credits: Joni Mitchell
+hints: Key of F#
+tags:
+  - friendship
+resources:
+  - url: https://tabs.ultimate-guitar.com/tab/joni-mitchell/both-sides-now-chords-1488889
+    text: Chords (Ultimate Guitar)
+  - url: https://www.youtube.com/watch?v=Pbn6a0AFfnM
+    text: Joni Mitchell recording (YouTube)
 ---
 Rows and floes of angel hair\
 And ice cream castles in the air\
