@@ -97,6 +97,8 @@ module.exports = function(eleventyConfig) {
   // We additionally output a copy of our CSS for use in Decap CMS previews
   eleventyConfig.addPassthroughCopy("_includes/assets/css/inline.css");
 
+
+
   /* Markdown Plugins */
   let markdownIt = require("markdown-it");
   let markdownItAnchor = require("markdown-it-anchor");
@@ -111,6 +113,23 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.setLibrary("md", markdownIt(options)
     .use(markdownItAnchor, opts)
   );
+
+  // Claude suggested this solution for two-column songs:
+  eleventyConfig.addPairedShortcode("twoColumnTable", function(content) {
+    const md = new markdownIt({ html: true });
+
+    // Split content by a delimiter like "---COLUMN---"
+    const columns = content.split('---COLUMN---');
+
+    // Render each column's markdown
+    const col1 = md.render(columns[0].trim());
+    const col2 = columns[1] ? md.render(columns[1].trim()) : '';
+    
+    return `<table style="border-spacing: 2rem 0">
+      <tr><td style="vertical-align: top">${col1}</td>
+      <td style="vertical-align: top">${col2}</td>
+      </tr></table>`;
+  });
 
   return {
     templateFormats: ["md", "njk", "liquid"],

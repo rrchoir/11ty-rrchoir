@@ -19,7 +19,8 @@ resources:
   - url: https://www.youtube.com/watch?v=BEwE0R_7TDc
     text: UMW Historical recording (YouTube)
 ---
-<table><tr><td>
+
+{% twoColumnTable %}
 
 **Original Union Verses**
 
@@ -51,8 +52,7 @@ Don't listen to their lies\
 Us poor folks haven't got a chance\
 Unless we organize … Chorus
 
-</td><td>&nbsp;</td>
-<td>
+---COLUMN---
 
 **Alternate verses**
 
@@ -91,7 +91,7 @@ But their soul they did sell\
 They shackle up their passengers,\
 *And fly them straight to hell*  … Chorus
 
-</td></tr></table>
+{% endtwoColumnTable %}
 
 Guitar Chords\
 Am – Em Am/Em Am E Am//Am – E Am
