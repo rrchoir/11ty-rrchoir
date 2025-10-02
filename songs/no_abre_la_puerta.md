@@ -1,33 +1,29 @@
 ---
+title: No Abra la Puerta
 category: attic
-title:  No Abra la Puerta
+credits: Music by by Los Guaraguao, words by
+notes: "*To the tune of [No Basta
+  Rezar](https://youtu.be/1fI6n6qYqf0?si=YLUThFcXw7dNBz7z) by Los Guaraguao*"
 ---
-
-
-# No Abra la Puerta
-
-_To the tune of [No Basta Rezar](https://youtu.be/1fI6n6qYqf0?si=YLUThFcXw7dNBz7z) by Los Guaraguao_
-
-C . G . . D7 . . . . C  
+C . G . . D7 . . . . C\
 No no no abra la puerta  
 
-C . . . . . . . . .G  
+C . . . . . . . . .G\
 Somos sus vecinos
 
- . . . D7 .  .  . .G  
+ . . . D7 .  .  . .G\
 Y la migra está allá
 
-C . G . . D7 . . . . C  
+C . G . . D7 . . . . C\
 No no no abra la puerta  
 
-C . . . . . . . . .G  
+C . . . . . . . . .G\
 Somos sus vecinos
 
- . . . D7 .  .  . .G  
+ . . . D7 .  .  . .G\
 Y la migra está allá
 
-
-[Additional verses]  
+\[Additional verses]\
 No no no dígales nada  ...
 
 No no no firme nada  ...
