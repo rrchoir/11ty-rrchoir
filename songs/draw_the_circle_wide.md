@@ -6,8 +6,6 @@ resources:
   - url: https://www.youtube.com/watch?v=PcIQrWOYug8&list=RDPcIQrWOYug8&start_radio=1
     text: Church choir recording (YouTube)
 ---
-# Draw the Circle Wide
-
 Draw the circle, draw the circle wide (2x)\
 Let this be our song: No one stands a lone\
 We’ll stand side by side\
