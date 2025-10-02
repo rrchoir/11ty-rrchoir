@@ -104,7 +104,8 @@ module.exports = function(eleventyConfig) {
   let markdownItAnchor = require("markdown-it-anchor");
   let options = {
     breaks: true,
-    linkify: true
+    linkify: true,
+    html: true
   };
   let opts = {
     permalink: false
@@ -125,9 +126,9 @@ module.exports = function(eleventyConfig) {
     const col1 = md.render(columns[0].trim());
     const col2 = columns[1] ? md.render(columns[1].trim()) : '';
     
-    return `<table style="border-spacing: 2rem 0">
+    return `<table>
       <tr><td style="vertical-align: top">${col1}</td>
-      <td style="vertical-align: top">${col2}</td>
+      <td style="vertical-align: top; padding-left: 1rem;">${col2}</td>
       </tr></table>`;
   });
 
