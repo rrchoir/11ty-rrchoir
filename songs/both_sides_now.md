@@ -57,13 +57,4 @@ In living every day
 I've looked at life from both sides now\
 From win and lose and still somehow\
 It's life's illusions I recall\
-I really don't know life at all  
-
-- - -
-
-* Pitch: Key of F# ()
-
-  * Chords: [Ultimate Guitar](https://tabs.ultimate-guitar.com/tab/joni-mitchell/both-sides-now-chords-1488889)
-* Recording: [YouTube](https://www.youtube.com/watch?v=Pbn6a0AFfnM)
-* Credits: Joni Mitchell
-* Notes:
+I really don't know life at all
