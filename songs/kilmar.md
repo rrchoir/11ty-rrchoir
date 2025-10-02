@@ -4,6 +4,8 @@ category: attic
 credits: Parody lyrics by Joe Dalaker & Peter B. Tune of Kingston Trio's
   "Charlie and the M T A"
 resources:
+  - url: https://cdn.blot.im/folder/v-2001cdda/blog_e75a85d856e84664a2f2830d84655da7/_Media/kilmar.m4a
+    text: Recording
   - url: https://www.youtube.com/watch?v=MbtkL5_f6-4
     text: Original Kingston Trio recording (YouTube)
 ---
