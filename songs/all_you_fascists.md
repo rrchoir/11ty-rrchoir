@@ -10,6 +10,15 @@ notes: 'Woody Guthrie wrote and first recorded the protest song in 1944, during
   famously bore the words "This Machine Kills Fascists". The song has been
   covered and reinterpreted by many artists since, and is a well-known
   anti-fascist anthem. '
+resources:
+  - url: https://www.youtube.com/watch?v=2CVm5l9ULqU
+    text: Todd the Brand recording (YouTube)
+  - url: https://open.spotify.com/track/0lYykZNNBNE33o5izvZFrG?si=95b2d71279564ba3
+    text: Resistance Revival Choir recording (Spotify)
+  - url: https://music.apple.com/us/song/all-you-fascists-bound-to-lose/1531421548
+    text: Resistance Revival Choir recording (Apple)
+  - url: https://www.youtube.com/watch?v=sUCJ0cGjjuw
+    text: Resistance Revival Choir recording (YouTube)
 ---
 \[Verse 1]\
 I'm gonna tell you fascists, and you may be surprised:\
