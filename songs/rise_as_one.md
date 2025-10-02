@@ -54,11 +54,4 @@ On their demands, now we can sing our victory song
 *Chorus*  
 
 We will build a brand new future for our daughters and our sons\
-We will work 'til all workers rise as one  
-
-- - -
-
-* Pitch: 
-* Recording: [YouTube](https://www.youtube.com/watch?v=A69eP-kiARk)
-* Credits: Joe Jencks
-* Notes:
+We will work 'til all workers rise as one
