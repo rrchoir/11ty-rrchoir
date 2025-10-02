@@ -1,7 +1,7 @@
 ---
 title: Keep on Moving Forward/Sin Volver Atras
 category: general
-credits: By Pat Humphries
+credits: By Pat Humphries; Spanish translation by Liliana Herrera and others
 tags:
   - core
   - spanish
@@ -9,8 +9,12 @@ tags:
   - sing-along
   - protest
   - 20thc
-notes: Pat Humphries (of Emma's Revolution[](https://emmasrevolution.com/))
-  wrote this song in 1984 as "Keep on Walking Forward".
+notes: >-
+  Pat Humphries (of Emma's Revolution[](https://emmasrevolution.com/)) wrote
+  this song in 1984 as "Keep on Walking Forward".
+
+
+  She was heading for a song workshop camp that was taking place atop a hill that seemed "insurmountable". As she struggled up the path, she chanted to herself "You can't turn back, you can't turn back". At the workshop that evening, she developed that into the song.
 resources:
   - url: https://open.spotify.com/track/4jkecc6xb43FAGWmGyVdIc
     text: Emma's Revolution recording (Spotify)
