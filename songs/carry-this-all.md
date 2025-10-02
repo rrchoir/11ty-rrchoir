@@ -1,11 +1,10 @@
 ---
 Pitch: F
 category: general
-notes: 'This song was almost lost. Blakely composed this at a song workshop, as
-  the first iteration of her song "The 3rd gate: Sorrows of the World" for her
-  album WAILS: Songs for Grief. A friend sang it at a gathering years later, and
-  Blakely did not remember having composed it: she loved it and asked where it
-  came from. '
+notes: 'This song was almost lost. Blakely presented this at a song workshop, as
+  the first iteration of her song "The 3rd gate: Sorrows of the World". A friend
+  sang it at a gathering years later, and Blakely did not remember having
+  composed it: she loved it and asked where it came from.'
 resources:
   - url: https://ahlayblakely.bandcamp.com/track/carry-this-all-2
     text: Recording (Bandcamp)
