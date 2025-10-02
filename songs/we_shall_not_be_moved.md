@@ -17,6 +17,14 @@ notes: The origins of this song are unclear. Some believe it was a Spiritual
 resources:
   - url: https://balladofamerica.org/we-shall-not-be-moved/
     text: "We Shall Not Be Moved: About the Song"
+  - url: https://youtu.be/Zqc5GI5cTLg?si=5UNvyAXH50T-Zkpm&t=8
+    text: No nos moverán (YouTube)
+  - url: https://open.spotify.com/track/7zu5TqCGnNUvDfmZIgTtEH?si=7930629d6bce4eb4
+    text: Pete Seeger recording (Spotify)
+  - text: Pete Seeger recording (Apple)
+    url: https://music.apple.com/us/song/we-shall-not-be-moved-live/96336299
+  - url: https://www.youtube.com/watch?v=GN-I2_vLKWI
+    text: Pete Seeger recording (YouTube)
 ---
 We shall not, we shall not be moved\
 We shall not, we shall not be moved\
