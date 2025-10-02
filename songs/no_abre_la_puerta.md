@@ -2,6 +2,9 @@
 title: No Abra la Puerta
 category: attic
 credits: Music by by Los Guaraguao, words by
+tags:
+  - spanish
+  - guitar
 notes: "*To the tune of [No Basta
   Rezar](https://youtu.be/1fI6n6qYqf0?si=YLUThFcXw7dNBz7z) by Los Guaraguao*"
 resources: []
