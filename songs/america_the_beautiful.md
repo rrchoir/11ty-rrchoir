@@ -1,13 +1,6 @@
 ---
-title: America the Beautiful
 category: general
 credits: Katherine Lee Bates and Samuel A Ward; additional lyrics by Jesse Palidofsky
-hints: "Pitch: G (as published, not choir tested)"
-tags:
-  - Patriotic
-  - 19thc
-  - 20thc
-  - core
 notes: >-
   Perform with introduction that: We should consider broadly who are our heroes
   and patriots: the self-emancipated on the Underground Railroad, the union coal
@@ -22,8 +15,17 @@ resources:
     text: Jesse Palidofsky lyrics
   - url: https://en.wikipedia.org/wiki/America_the_Beautiful
     text: America the Beautiful (Wikipedia)
-teachability: very easy
+  - url: https://www.youtube.com/watch?v=IiydluD0PyM
+    text: Jesse Palidofsky recording (YouTube)
 audience_participation: high
+hints: "Pitch: G (as published, not choir tested)"
+teachability: very easy
+title: America the Beautiful
+tags:
+  - Patriotic
+  - 19thc
+  - 20thc
+  - core
 ---
 O beautiful for spacious skies,\
 For amber waves of grain,\
