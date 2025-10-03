@@ -5,13 +5,7 @@ resources:
     text: Audio Recording
   - url: https://www.youtube.com/watch?v=x6zrjDjxmIk
     text: Emma's Revolution recording (YouTube)
-summary: |-
-  We Are the Power
-  © 2025 Pat Humphries, Sandy O
-  Moving Forward Music BMI
-  www.emmasrevolution.com
 author: Emma's Revolution
-date: 2025-08-22T21:16:00.000-04:00
 title: We Are the Power
 category: general
 credits: Pat Humphries and Sandy O, Emma’s Revolution

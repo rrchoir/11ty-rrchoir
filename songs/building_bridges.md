@@ -4,11 +4,11 @@ category: sandbox
 credits: Greenham Common Women's Peace Camp
 hints: "Pitch: D"
 tags:
-  - Friendship
-  - Peace
-  - Round
-  - Women
-  - 20thC
+  - friendship
+  - peace
+  - round
+  - women
+  - 20thc
 notes: >
   In 1981, the British government decided to allow the US to store cruise
   missiles at the RAF base in Greenham. A group of women started to camp there
