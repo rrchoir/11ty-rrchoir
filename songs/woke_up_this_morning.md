@@ -13,6 +13,11 @@ notes: In a jail one morning in 1961, arrested for Freedom Ride protests,
   Reverend Osby took an old Gospel song ("I Woke Up This Morning With My Mind
   Stayed on Jesus") and adapted it for Freedom and protests. It quickly spread
   to Voting Rights and other Civil Rights protests.
+resources:
+  - url: https://www.youtube.com/watch?v=ZLGXzGar7wY
+    text: Sweet Honey in the Rock recording (YouTube)
+  - url: https://www.youtube.com/watch?v=xvd2EX_rDSA
+    text: Resistance Revival Chorus recording (YouTube)
 ---
 Well I woke up this morning with my mind stayed on freedom\
 Well I woke up this morning with my mind stayed on freedom\
