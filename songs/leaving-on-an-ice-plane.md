@@ -4,7 +4,7 @@ category: general
 credits: John Denver (1971), parody lyrics by Francoise B.
 hints: Requires accompaniment.
 tags:
-  - immigration
+  - immigrants
   - parody
   - 20thc
   - well-known
