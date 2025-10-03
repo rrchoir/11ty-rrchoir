@@ -6,7 +6,7 @@ hints: Requires accompaniment.
 tags:
   - immigration
   - parody
-  - 20thC
+  - 20thc
   - well-known
 notes: |-
   Use with care, as it could be seen as making 

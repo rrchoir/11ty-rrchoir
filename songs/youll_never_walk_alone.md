@@ -4,7 +4,7 @@ category: attic
 credits: Rogers and Hammerstein
 hints: "Pitch: C"
 tags:
-  - Friendship
+  - friendship
 resources:
   - url: https://www.youtube.com/watch?v=OV5_LQArLa0
     text: Gerry and the Pacemakers

@@ -9,7 +9,7 @@ notes: |-
   Then the sopranos. 
   Finally the basses.
 tags:
-  - 21stC
+  - 21stc
   - de-escalation
   - faith
 audience_participation: low

@@ -4,7 +4,7 @@ category: general
 credits: Holly Near
 hints: "Pitch: "
 tags:
-  - LGBTQ+
+  - lgbtq+
   - core
   - 20thc
 notes: "Holly Near wrote this song after the murder of Harvey Milk. It has

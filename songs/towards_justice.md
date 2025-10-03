@@ -4,7 +4,7 @@ category: sandbox
 credits: Eliana Light
 hints: "Pitch:"
 tags:
-  - Justice
+  - justice
 notes: >
   Original in Hebrew: Vayigal Ka’mayim, Mishpat, U’tzedakah, K’nachal Eitan   
 

@@ -4,8 +4,8 @@ category: general
 credits: " Anne Feeney and the Kensington Welfare Rights Union (KWRU)"
 hints: "Pitch: C"
 tags:
-  - Poverty
-  - Resistance
+  - poverty
+  - resistance
   - core
   - 20thc
 notes: "Rich Man’s House is a Poor People’s Campaign song. It was written by

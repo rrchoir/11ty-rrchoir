@@ -4,7 +4,7 @@ category: general
 credits: Katherine Lee Bates and Samuel A Ward; additional lyrics by Jesse Palidofsky
 hints: "Pitch: G (as published, not choir tested)"
 tags:
-  - Patriotic
+  - patriotic
   - 19thc
   - 20thc
   - core
