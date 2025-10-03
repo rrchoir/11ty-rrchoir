@@ -1,17 +1,21 @@
 ---
-category: general
-title: We Are the Power
-date: 2025-08-22T21:16:00.000-04:00
-author: Emma's Revolution
+Pitch: A♭
+resources:
+  - url: https://www.dropbox.com/scl/fi/nu03c5t4k614i9jprht8o/We-Are-the-Power-Emma-s-Revolution.wav?rlkey=qz4p8bi24q5rb6a4uxl2rj995&e=1&st=8dfudfb6&dl=0
+    text: Audio Recording
+  - url: https://www.youtube.com/watch?v=x6zrjDjxmIk
+    text: Emma's Revolution recording (YouTube)
 summary: |-
   We Are the Power
   © 2025 Pat Humphries, Sandy O
   Moving Forward Music BMI
   www.emmasrevolution.com
-Pitch: A♭
+author: Emma's Revolution
+date: 2025-08-22T21:16:00.000-04:00
+title: We Are the Power
+category: general
+credits: Pat Humphries and Sandy O, Emma’s Revolution
 ---
-# We Are the Power
-
 **We** are the **pow**er and we **know** it in our bones\
 We are not a**lone** and we grow **strong**er ev’ry **day**.\
 We take down the **ty**rants with our **cou**rage and our **spi**rit.\
@@ -51,11 +55,4 @@ In the **dark**ness is re**birth**\
 And we grow **strong**er every **day**\
 **We** will sing and **shout**\
 Until we **force** the rich boys **out**\
-We are **strong** and we grow **strong**er every day  
-
-- - -
-
-* Pitch: 
-* Recording: [Audio](https://www.dropbox.com/scl/fi/nu03c5t4k614i9jprht8o/We-Are-the-Power-Emma-s-Revolution.wav?rlkey=qz4p8bi24q5rb6a4uxl2rj995&e=1&st=8dfudfb6&dl=0)
-* Credits: Pat Humphries and Sandy O, Emma’s Revolution
-* Notes:
+We are **strong** and we grow **strong**er every day
