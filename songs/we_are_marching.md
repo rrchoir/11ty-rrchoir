@@ -5,9 +5,14 @@ credits: Xhosa 20th c.
 hints: 'Pitch: C for "We" to A for "March"'
 tags:
   - core
-notes: >+
+notes: >
   We chose "marching" as it's a better vowel than "walking", and more emphatic.
   See also #793...
+resources:
+  - url: https://open.spotify.com/track/36sUD4XPSwJjpWnMQyipcU
+    text: UND Folk Choir (Spotify)
+  - text: Siyahamba - Caminamos en la Luz de Dios
+    url: https://www.youtube.com/watch?v=UVs3Pf5n7TQ
 ---
 *Chords*: G D G / C G D G
 
