@@ -3,15 +3,20 @@ title: Leaving on an ICE plane
 category: general
 credits: John Denver (1971), parody lyrics by Francoise B.
 hints: Requires accompaniment.
-notes: |-
-  Use with care, as it could be seen as making 
-  light of the ordeals of detainees. Audience participates in the refrain.
 tags:
   - immigration
   - parody
   - 20thC
   - well-known
-audience_participation: medium 
+notes: |-
+  Use with care, as it could be seen as making 
+  light of the ordeals of detainees. Audience participates in the refrain.
+
+  Sing with compassion and respect.
+resources:
+  - url: https://youtu.be/VV7w1S7cBC4
+    text: RRC and protesters at Avelo BWI protest, with sources (YouTube)
+audience_participation: medium
 ease_of_learning: easy
 ---
 
