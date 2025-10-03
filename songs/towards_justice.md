@@ -9,6 +9,9 @@ notes: >
   Original in Hebrew: Vayigal Ka’mayim, Mishpat, U’tzedakah, K’nachal Eitan   
 
   English translation: But let justice well up as waters, and righteousness as a mighty stream. (Amos 5:24)
+resources:
+  - url: https://www.youtube.com/watch?v=ItEGwRbKAjs
+    text: Eliana Light ft. Chana Rothman and Isaac Zones Recording (YouTube)
 ---
 Oh, give me the strength to bend\
 The arc of the universe\
