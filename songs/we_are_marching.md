@@ -1,37 +1,38 @@
 ---
-
+title: We Are Marching / Siyahamba
 category: general
-title:  We Are Marching / Siyahamba 
+credits: Xhosa 20th c.
+hints: 'Pitch: C for "We" to A for "March"'
+tags:
+  - core
+  - spanish
+notes: >
+  We chose "marching" as it's a better vowel than "walking", and more emphatic.
+  See also #793...
+resources:
+  - url: https://open.spotify.com/track/36sUD4XPSwJjpWnMQyipcU
+    text: UND Folk Choir (Spotify)
+  - text: Siyahamba - Caminamos en la Luz de Dios
+    url: https://www.youtube.com/watch?v=UVs3Pf5n7TQ
 ---
+*Chords*: G D G / C G D G
 
-
-# We Are Marching / Siyahamba 
-
-_Chords_: G D G / C G D G
-
-We are marching in the light of Truth. [ 4x ]  
-&nbsp;&nbsp; _(or light of God)_  
-We are marching, we are marching. (_ooh_)  
+We are marching in the light of Truth. \[ 4x ]\
+   *(or light of God)*\
+We are marching, we are marching. (*ooh*)\
+We are marching in the light of Truth.\
+We are marching, we are marching. (*ooh*)\
 We are marching in the light of Truth.  
-We are marching, we are marching. (_ooh_)  
-We are marching in the light of Truth.  
-  
+
 Siyahamba ekukha-nyeni kwenkos  
-  
-Caminando por la verdad [ _4x_ ]  
-&nbsp;&nbsp;  _(or luz de Díos)_  
-Caminando, caminando (_ooh_)  
+
+Caminando por la verdad [ *4x* ]\
+    *(or luz de Díos)*\
+Caminando, caminando (*ooh*)\
+Caminando por la verdad\
+Caminando, caminando (*ooh*)\
 Caminando por la verdad  
-Caminando, caminando (_ooh_)  
-Caminando por la verdad  
-  
+
 We are singing for liberty...
 
 Cantando per la libertad ...
-  
-
-Other: 
-* Pitch: C for "We" to A for "March"
-* Recording:  
-* Credits: Xhosa 20th c.
-* Notes: We chose "marching" as it's a better vowel than "walking", and more emphatic. See also #793...
