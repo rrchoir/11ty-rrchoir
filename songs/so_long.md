@@ -2,6 +2,14 @@
 title: So Long It's Been Good to Know Ya
 category: general
 credits: Parody lyrics by Peter Burkholder
+tags:
+  - parody
+  - resistance
+  - protest
+  - defiant
+  - sing-along
+  - workers
+  - climate
 ---
 So long, it's been good to know ya\
 So long, it's been good to know ya\
