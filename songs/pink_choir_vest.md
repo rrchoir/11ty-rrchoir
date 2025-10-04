@@ -6,11 +6,20 @@ hints: (Key G)
 tags:
   - parody
   - protest
+  - guitar
+  - 21stc
+  - defiant
+  - resistance
+  - lgbtq+
+  - well-known
 notes: >-
   Tune of Pink Pony Club by Chappell Roan.
 
 
   Written in 2025, this is the Rapid Response Choir's anthem. The choir wears pink vests with the RRC logo and name.
+
+
+  The song Pink Pony Club was written in 2023, and has become an unofficial gay anthem.
 resources:
   - url: https://www.youtube.com/watch?v=GR3Liudev18
     text: Chappell Roan Official Video (YouTube)
