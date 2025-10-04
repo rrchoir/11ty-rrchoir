@@ -5,6 +5,10 @@ credits: Eliana Light
 hints: "Pitch:"
 tags:
   - justice
+  - faith
+  - spanish
+  - guitar
+  - 21stc
 notes: >
   Original in Hebrew: Vayigal Ka’mayim, Mishpat, U’tzedakah, K’nachal Eitan   
 
