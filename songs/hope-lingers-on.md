@@ -5,6 +5,10 @@ credits: Lissa Schneckenburger
 tags:
   - hope
   - 21stc
+  - justice
+  - peace
+  - family
+  - sing-along
 notes: >-
   Alternate lyrics (in italics) were approved by the composer. 
 
