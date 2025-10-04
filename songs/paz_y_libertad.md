@@ -8,6 +8,7 @@ tags:
   - peace
   - 20thc
   - immigrants
+  - guitar
 notes: For a Spanish-speaker, this could be easily adapted for specific situations.
 resources:
   - url: https://www.youtube.com/watch?v=nQh5U_78bgE
