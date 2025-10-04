@@ -3,20 +3,22 @@ title: Heart Wide Open
 category: general
 credits: Lea Morris (2020)
 hints: Starting pitch G
+tags:
+  - 21stc
+  - de-escalation
+  - faith
+  - hope
+  - resistance
 notes: |-
   Begin with tenors singing the melody.
   Then, bring in the altos. 
   Then the sopranos. 
   Finally the basses.
-tags:
-  - 21stc
-  - de-escalation
-  - faith
-audience_participation: low
-teachability: easy
 resources:
   - text: Bandcamp recording
     url: https://thisisleamusic.bandcamp.com/track/heart-wide-open)"
+teachability: easy
+audience_participation: low
 ---
 
 *Tenor/Melody:*\
