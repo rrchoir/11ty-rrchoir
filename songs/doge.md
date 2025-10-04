@@ -4,6 +4,7 @@ category: general
 credits: Parody lyrics by Nikki Nesbary
 tags:
   - parody
+  - workers
 notes: To the tune of *Home on the Range*.
 ---
 **Oh give me a home where Democracy roams**\
