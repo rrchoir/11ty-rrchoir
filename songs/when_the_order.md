@@ -2,6 +2,15 @@
 title: When the Order is Illegal, Disobey!
 category: general
 credits: Parody lyrics by by Joseph Dalaker
+tags:
+  - parody
+  - workers
+  - protest
+  - 21stc
+  - sing-along
+  - zipper
+  - justice
+  - defiant
 notes: >-
   Tune of *She'll be Comin' Round the Mountain*
 
