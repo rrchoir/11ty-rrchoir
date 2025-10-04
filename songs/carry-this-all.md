@@ -12,6 +12,8 @@ resources:
     text: Background
   - text: Recording (YouTube)
     url: https://www.youtube.com/watch?v=uBhCFsatU0Y
+  - text: Sheet music PDF
+    url: /static/img/carry_this_all.pdf
 summary: |
   https://www.healingattheroots.com/carrythisall
 author: Alexandra "Ahlay" Blakely
