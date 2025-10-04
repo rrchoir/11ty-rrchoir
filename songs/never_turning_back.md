@@ -9,6 +9,7 @@ tags:
   - sing-along
   - protest
   - 20thc
+  - zipper
 notes: >-
   Pat Humphries (of Emma's Revolution) wrote this song in 1984 as "Keep on
   Walking Forward".
