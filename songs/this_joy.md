@@ -6,6 +6,9 @@ hints: "Pitch: D"
 tags:
   - core
   - resistance
+  - joy
+  - peace
+  - lgbtq+
 notes: "Originally a Gospel song, This Joy became popular during the Civil
   Rights movements of the 1960s. "
 resources:
