@@ -9,6 +9,7 @@ tags:
   - defiant
   - sing-along
   - workers
+  - climate
 ---
 So long, it's been good to know ya\
 So long, it's been good to know ya\
