@@ -13,6 +13,7 @@ tags:
   - well-known
   - zipper
   - justice
+  - guitar
 notes: >
   We chose "marching" as it's a better vowel than "walking", and more emphatic.
   See also #793...
