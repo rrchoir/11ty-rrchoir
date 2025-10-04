@@ -10,6 +10,7 @@ tags:
   - 20thc
   - zipper
   - sing-along
+  - workers
 notes: "Rich Man’s House is a Poor People’s Campaign song. It was written by
   poor families of the Kensington Welfare Rights Union during the New Freedom
   Bus Tour in 1998. They stopped at church in Durham, North Carolina where the
