@@ -47,6 +47,9 @@ title: This my Song (Finlandia)
 credits: "Music: Jean Sibelius; Words: Lloyd Stone (vs 1 & 2), Susan Briehl (vs 3)"
 tags:
   - peace
+  - 20thc
+  - faith
+  - hope
 ---
 This is my song, a song for all the nations,\
 A song of peace for lands afar and mine.\
