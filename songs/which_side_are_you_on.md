@@ -5,8 +5,12 @@ credits: Florence Reece
 hints: 'Pitch: D "Come"'
 tags:
   - core
-  - union
+  - workers
   - protest
+  - 20thc
+  - guitar
+  - folk
+  - well-known
 notes: >-
   Select the verses that are appropriate for the event (or make up new ones).
 
