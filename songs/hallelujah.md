@@ -3,6 +3,11 @@ title: Hallelujah
 category: general
 credits: Leonard Cohen
 hints: "Pitch: k.d. lang does this in E (capo 4), Buckley in C or C# (capo 1)"
+tags:
+  - guitar
+  - well-known
+  - sing-along
+  - 20thc
 notes: |-
   It's tough to pick one song from the legion of amazing Canadian
   songwriters. But this song made the cut for k. d. lang's collection of 
