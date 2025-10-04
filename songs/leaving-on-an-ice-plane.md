@@ -8,6 +8,8 @@ tags:
   - parody
   - 20thc
   - well-known
+  - guitar
+  - sing-along
 notes: |-
   Use with care, as it could be seen as making 
   light of the ordeals of detainees. Audience participates in the refrain.
