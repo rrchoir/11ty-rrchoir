@@ -1,13 +1,22 @@
 ---
 Pitch: A♭
+title: We Are the Power
+category: general
+tags:
+  - 21stc
+  - protest
+  - workers
+  - women
+  - lgbtq+
+  - defiant
+  - hope
+  - resistance
 resources:
   - url: https://www.dropbox.com/scl/fi/nu03c5t4k614i9jprht8o/We-Are-the-Power-Emma-s-Revolution.wav?rlkey=qz4p8bi24q5rb6a4uxl2rj995&e=1&st=8dfudfb6&dl=0
     text: Audio Recording
   - url: https://www.youtube.com/watch?v=x6zrjDjxmIk
     text: Emma's Revolution recording (YouTube)
 author: Emma's Revolution
-title: We Are the Power
-category: general
 credits: Pat Humphries and Sandy O, Emma’s Revolution
 ---
 **We** are the **pow**er and we **know** it in our bones\
