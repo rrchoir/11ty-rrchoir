@@ -6,6 +6,13 @@ hints: 'Pitch: C for "We" to A for "March"'
 tags:
   - core
   - spanish
+  - 20thc
+  - freedom
+  - resistance
+  - faith
+  - well-known
+  - zipper
+  - justice
 notes: >
   We chose "marching" as it's a better vowel than "walking", and more emphatic.
   See also #793...
