@@ -20,31 +20,21 @@ resources:
 teachability: easy
 audience_participation: medium
 ---
-My mother *\[chosen],* when love is gone\
-My mother *\[chosen],* when love is gone\
+My mother *\[chosen],* when love is gone \[x2]\
 In our darkest hour, hope lingers on\
-My father *\[family],* when peace is gone\
-My father *\[family],* when peace is gone\
+My father *\[family],* when peace is gone \[x2]
 In our darkest hour, hope lingers on
 
 *Chorus:*\
 I will not hate, and I will not fear\
 In our darkest hour, hope lingers here
 
-My sister *\[sibling]*, when equality’s gone\
-My sister *\[sibling]*, when equality’s gone\
-In our darkest hour, hope lingers on\
-My brother *\[neighbor]*, with tolerance gone\
-My brother *\[neighbor]*, with tolerance gone \
-In our darkest hour, hope lingers on
+My sister *\[sibling]*, when equality’s gone \[...]\
+My brother *\[neighbor]*, with tolerance gone \[...]
 
 \[Chorus]
 
-My love, when honor is gone\
-My love, when honor is gone \
-In our darkest hour, hope lingers on\
-My country, when justice is gone\
-My country, when justice is gone\
-In our darkest hour, hope lingers on
+My love, when honor is gone \[...]\
+My country, when justice is gone \[...]
 
 \[Chorus x 2]
