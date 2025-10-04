@@ -9,6 +9,10 @@ tags:
   - freedom
   - justice
   - protest
+  - 20thc
+  - faith
+  - well-known
+  - sing-along
 notes: In a jail one morning in 1961, arrested for Freedom Ride protests,
   Reverend Osby took an old Gospel song ("I Woke Up This Morning With My Mind
   Stayed on Jesus") and adapted it for Freedom and protests. It quickly spread
