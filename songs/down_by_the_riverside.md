@@ -7,6 +7,12 @@ tags:
   - peace
   - core
   - zipper
+  - 19thc
+  - justice
+  - faith
+  - sing-along
+  - well-known
+  - folk
 notes: "The song was popular during the American Civil War, made its way into
   African American churches, and then became popular again during the Civil
   Rights movements of the 1960s. "
