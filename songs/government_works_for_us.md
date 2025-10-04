@@ -2,6 +2,13 @@
 title: The Government Works For Us
 category: general
 credits: Parody Lyrics by Bailey Myers
+tags:
+  - parody
+  - resistance
+  - 21stc
+  - patriotic
+  - sing-along
+  - workers
 notes: Tune of “Another One Bites the Dust”
 resources:
   - url: https://www.youtube.com/shorts/OD1hhYykD40
