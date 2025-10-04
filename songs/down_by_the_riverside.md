@@ -22,8 +22,6 @@ resources:
   - url: https://www.youtube.com/watch?v=bYe-bLaqhhY
     text: Pete Seeger recording (YouTube)
 ---
-# Down by the Riverside
-
 I’m gonna lay down my burden (clap, clap!)\
 Down by the riverside\
 Down by the riverside\
