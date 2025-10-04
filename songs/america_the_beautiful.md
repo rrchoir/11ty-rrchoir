@@ -8,6 +8,7 @@ tags:
   - 19thc
   - 20thc
   - core
+  - immigrants
 notes: >-
   **Requires Introduction:** We should consider broadly who are our heroes and
   patriots: the self-emancipated on the Underground Railroad, the union coal
