@@ -4,6 +4,10 @@ category: general
 credits: Ben E King
 tags:
   - friendship
+  - well-known
+  - sing-along
+  - hope
+  - 20thc
 resources:
   - url: https://www.youtube.com/watch?v=hwZNL7QVJjE
     text: Ben E King recording (YouTube)
