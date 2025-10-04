@@ -7,6 +7,13 @@ tags:
   - core
   - peace
   - justice
+  - freedom
+  - 20thc
+  - resistance
+  - folk
+  - sing-along
+  - well-known
+  - friendship
 notes: >
   Written in 1949 for the Labor Movement, it was considered to be subversive as
   words like "peace" and "freedom" were seen by the government as aligning with
