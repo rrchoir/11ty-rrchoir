@@ -8,6 +8,8 @@ tags:
   - core
   - friendship
   - protest
+  - 21stc
+  - sing-along
 notes: Melanie DeMore wrote this song the day after the 2016 election. She was
   doing a residency in a middle school in Minneapolis-St Paul with a strong
   Latinx and African American population. The day after the election, her black
