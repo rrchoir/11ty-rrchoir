@@ -8,6 +8,7 @@ tags:
   - protest
   - defiant
   - sing-along
+  - workers
 ---
 So long, it's been good to know ya\
 So long, it's been good to know ya\
