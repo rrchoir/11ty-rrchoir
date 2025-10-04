@@ -7,6 +7,10 @@ tags:
   - lgbtq+
   - core
   - 20thc
+  - justice
+  - peace
+  - zipper
+  - sing-along
 notes: "Holly Near wrote this song after the murder of Harvey Milk. It has
   become an anthem for the LGBTQ+ movement. "
 resources:
