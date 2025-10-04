@@ -7,6 +7,10 @@ tags:
   - core
   - immigrants
   - poverty
+  - patriotic
+  - 20thc
+  - sing-along
+  - well-known
 notes: "Woody Guthrie wrote this song in 1940 as a counterpoint to Irvin
   Berlin's \"God Bless America\", and as a protest against the vast income
   inequalities that exist in the United States, and against the sufferings of
