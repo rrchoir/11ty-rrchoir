@@ -19,7 +19,9 @@ permalink: /songs/index.html
   {% for category in pagination.items %}
     {% if category not in excluded %}
       <article>
-        <h2><u>{{ category | safe }}</u></h2>
+<!--        <h2><u>{{ category | safe }}</u></h2>  
+  -- Category is not useful until we have multiple categories
+  --> 
 
         {% for song in collections.categories[category] | sort(attribute='title') %}
         <h4 style="font-size: 24px; font-weight: bold;">
