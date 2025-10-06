@@ -1,5 +1,5 @@
 ---
-title: Stand by me
+title: Stand by Me
 category: general
 credits: Ben E King
 tags:
