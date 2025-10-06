@@ -1,5 +1,5 @@
 ---
-title: The Climate Dont Negotiate
+title: The Climate Don't Negotiate
 category: general
 credits: Alice / Melting Virgo
 tags:
