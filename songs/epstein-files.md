@@ -10,6 +10,8 @@ notes: Tune of "Edelweiss" by Rogers & Hammerstein from The Sound of Music
 resources:
   - url: https://www.instagram.com/reel/DPKRhLEkSGd/?igsh=MWR2ajNmbWh6bjEyaQ%3D%3D
     text: Rise Above Justice Movement post (Instagram)
+  - url: https://youtu.be/dSDkvGsLO84
+    text: Rapid Response Choir on the National Mall (YouTube)
 ---
 Epstein files, Epstein files,\
 Please expose them completely,\
