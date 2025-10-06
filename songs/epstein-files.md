@@ -22,5 +22,5 @@ Prove you're no transgressor.\
 Epstein files, Epstein files,\
 Yes, they'll haunt you forever.
 
-*Repeat ending with:*\
+*Repeat from beginning, ending with:*\
 May they haunt you forever.
