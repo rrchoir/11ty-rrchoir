@@ -2,7 +2,7 @@
 title: America the Beautiful
 category: general
 credits: Katherine Lee Bates and Samuel A Ward; additional lyrics by Jesse Palidofsky
-hints: "Pitch: G (as published, not choir tested)"
+hints: "Pitch: D"
 tags:
   - patriotic
   - 19thc
