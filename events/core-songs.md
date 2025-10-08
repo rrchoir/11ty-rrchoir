@@ -22,3 +22,5 @@ songs:
   - Which Side Are You On?:which_side_are_you_on
   - We Are the Power:we_are_the_power
 ---
+
+These are the RRC "core songs" -- the songs that we know so well that we can pull them out for a rapid response without requiring a rehearsal.
