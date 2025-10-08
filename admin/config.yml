@@ -79,3 +79,28 @@ collections:
           - { label: "Key", name: "key", widget: "string" }
           - { label: "Order", name: "order", widget: "number", default: 0 }
       - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "event" # Used in routes, /events/
+    label: "Event" # Used in the UI
+    folder: "events" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Event Start", name: "start_date", widget: "datetime" }
+      - { label: "Event End", name: "end_date", widget: "datetime" }
+      - { label: "Summary", name: "summary", widget: "string" }
+      - { label: "Event Description", name: "body", widget: "markdown" }
+      - label: "Songs"
+        required: false
+        name: "songs"
+        widget: "relation"
+        collection: "song"
+        options_length: 80
+        multiple: true
+        filters:
+          - field: category
+            values: [ "general" ]
+        search_fields: [ "title" ]
+        value_field: '{{title}}:{{slug}}'
+        display_fields: [ "title" ]

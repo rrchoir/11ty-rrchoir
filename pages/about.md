@@ -10,7 +10,7 @@ eleventyNavigation:
 
 ## Who we are
 
-Currently, we are a group of Maryland and D.C. residents who want to call attention to violations of U.S. law and the Constitution and support those who have been affected by this administration. The RRC was founded in February 2025 by Peter B, a Hyattsville resident, who reached out to members of community and church choirs for those who share a vision of resistance through song.
+Currently, we are a group of Maryland and D.C. residents who want to call attention to violations of U.S. law and the Constitution and support those who have been affected by this administration. The RRC was founded in February 2025 by Peter B, a Maryland resident, who reached out to members of community and church choirs for those who share a vision of resistance through song.
 
 ## What we do
 

@@ -34,7 +34,7 @@ permalink: /songs/index.html
           </a>
           <span style="font-size: 14px; font-weight: normal;">
             {% if song.tags %}
-              {% for tag in song.tags %}
+              {% for tag in song.tags | sort %}
                 {%- if tag != "song" -%}
                   {% set tagUrl %}/tags/{{ tag }}/{% endset %}
                   <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
