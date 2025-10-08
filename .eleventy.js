@@ -2,9 +2,13 @@ const { DateTime } = require("luxon");
 const CleanCSS = require("clean-css");
 const UglifyJS = require("uglify-js");
 const htmlmin = require("html-minifier");
+const {inspect} = require("node:util");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 
 module.exports = function(eleventyConfig) {
+  eleventyConfig.addFilter("inspect", (obj) => {
+    return inspect(obj, { sorted: true }); // 'sorted: true' makes the output more readable
+  });
 
   // Eleventy Navigation https://www.11ty.dev/docs/plugins/navigation/
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
@@ -36,6 +40,15 @@ module.exports = function(eleventyConfig) {
       return coll;
     }, {});
   });
+
+  eleventyConfig.addCollection("events", collection => {
+    const events = collection.getFilteredByGlob("events/*.md");
+    // The following three lines don't do anything, I think, and could by removed
+    return events.reduce((coll, event) => {
+      return coll;
+    }, {});
+  });
+
  
   eleventyConfig.addCollection("categories", collection => {
     const songs = collection.getFilteredByGlob("songs/*.md");
@@ -55,6 +68,10 @@ module.exports = function(eleventyConfig) {
   // Date formatting (human readable)
   eleventyConfig.addFilter("readableDate", dateObj => {
     return DateTime.fromJSDate(dateObj).toFormat("dd LLL yyyy");
+  });
+
+  eleventyConfig.addFilter("readableDateTime", dateObj => {
+    return DateTime.fromJSDate(dateObj).toFormat("hh:mm, dd LLL yyyy");
   });
 
   // Date formatting (machine readable)
