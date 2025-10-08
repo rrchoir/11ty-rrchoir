@@ -7,7 +7,7 @@ backend:
   repo: rrchoir/11ty-rrchoir
 
 # Uncomment below to enable drafts https://www.decapcms.org/docs/add-to-your-site/#editorial-workflow
-publish_mode: editorial_workflow
+# publish_mode: editorial_workflow
 
 # Uncomment below to enable a link to your published site in the header bar of Decap CMS
 # site_url: https://eleventy-netlify-boilerplate.netlify.app/
@@ -88,9 +88,9 @@ collections:
     fields: # The fields for each document, usually in front matter
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Event Start", name: "start_date", widget: "datetime" }
-      - { label: "Event End", name: "end_date", widget: "datetime" }
+      - { label: "Event End", name: "end_date", widget: "datetime", required: false }
       - { label: "Summary", name: "summary", widget: "string" }
-      - { label: "Event Description", name: "body", widget: "markdown" }
+      - { label: "Event Description", name: "body", widget: "markdown", required: false }
       - label: "Songs"
         required: false
         name: "songs"
