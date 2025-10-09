@@ -1,6 +1,6 @@
 ---
 title:  Abrego García Rally 5/16
-date: 2025-05-16
+# date: 2025-05-16
 author: Peter B
 summary: Social media updates from the rally
 tags:
