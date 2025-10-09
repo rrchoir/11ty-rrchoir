@@ -1,6 +1,6 @@
 # Decap CMS Configuration File
 
-local_backend: true
+# local_backend: true
 # The backend option specifies how to access the content for your site
 backend:
   name: github
