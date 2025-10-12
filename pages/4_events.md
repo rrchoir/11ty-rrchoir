@@ -4,7 +4,7 @@ metaDescription: The page lists all the events
 layout: layouts/base.njk
 eleventyNavigation:
   key: Events
-  order: 7
+  order: 4
 pagination:
   data: collections.event
   size: Infinity
