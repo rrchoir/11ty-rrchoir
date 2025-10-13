@@ -3,9 +3,9 @@ layout: layouts/home.njk
 title: Home
 date: 2025-08-28
 permalink: /
-eleventyNavigation:
-  key: Home
-  order: 0
+#eleventyNavigation:
+#  key: Home
+#  order: 0
 ---
 
 ![](/static/img/nyt_header.jpg)

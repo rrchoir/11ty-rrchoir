@@ -20,7 +20,7 @@ We sing and encourage others to sing with us. We assemble at rallies, schools, c
 
 The RRC is open to everyone. No prior singing experience required. Learn more on our [Join Us page](https://rapidresponsechoir.org/join).
 
-## Request the RRC to perform
+## Request the RRC to perform or lead songs
 
 Would you like to add the RRC’s voices to your event? We prefer advance warning but often can assemble at short notice, ready to sing for thirty minutes or longer if need be. To “book” the RRC, send your contact information, the date, time, and location of your event, its purpose, and its organizational sponsor to <admin@rapidresponsechoir.org>. 
 
