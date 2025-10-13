@@ -49,6 +49,30 @@ module.exports = function(eleventyConfig) {
     }, {});
   });
 
+  eleventyConfig.addCollection("future_events", function(collectionApi) {
+    const now = new Date();
+    now.setHours(0, 0, 0, 0); // Set to start of today
+    
+    return collectionApi.getFilteredByGlob("events/*.md")
+      .filter(item => item.data.tags && item.data.tags.includes("event"))
+      .filter(item => item.data.start_date)
+      .filter(item => {
+        const eventDate = new Date(item.data.start_date);
+        return eventDate >= now; // Only future/today events
+      })
+      .sort((a, b) => {
+        const dateA = new Date(a.data.start_date);
+        const dateB = new Date(b.data.start_date);
+        return dateA - dateB;
+      });
+  });
+
+  eleventyConfig.addCollection("evergreen_events", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("events/*.md")
+      .filter(item => item.data.tags && item.data.tags.includes("event"))
+      .filter(item => !item.data.start_date);
+  });
+
  
   eleventyConfig.addCollection("categories", collection => {
     const songs = collection.getFilteredByGlob("songs/*.md");

@@ -1,6 +1,6 @@
 ---
-title: Core Songs
-start_date: 2025-10-08T15:46:00.000-04:00
+title: Core Songs - Evergreen
+start_date: ""
 summary: RRC's "core" songs
 songs:
   - All You Fascists Bound to Lose:all_you_fascists
