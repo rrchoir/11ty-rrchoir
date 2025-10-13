@@ -10,9 +10,11 @@ eleventyNavigation:
   order: 3
 ---
 
-## [Sign up now](https://cryptpad.fr/form/#/2/form/view/n7enY2yher1tWinWw4HqDhRGRULjE7YoadxYoewQ6Yc/)!
+## [Sign up now](https://docs.google.com/forms/d/e/1FAIpQLSeDw5I0rtgbtYsz7bqbkraDRA6-Gr0lQO_5vRAXK2isZvtbsg/viewform?usp=header)
   
-The RRC is open to everyone. No prior singing experience required. [Fill out our CryptPad form](https://cryptpad.fr/form/#/2/form/view/n7enY2yher1tWinWw4HqDhRGRULjE7YoadxYoewQ6Yc/) to join the announcement mailing list, or to get in touch by Signal.
+The RRC is open to everyone. No prior singing experience required. To join, [fill out our Google form](https://docs.google.com/forms/d/e/1FAIpQLSeDw5I0rtgbtYsz7bqbkraDRA6-Gr0lQO_5vRAXK2isZvtbsg/viewform?usp=header) and we'll add you to the announcement email and send info about joining Signal.
+
+Don't trust Google? Then [fill out our CryptPad form](https://cryptpad.fr/form/#/2/form/view/n7enY2yher1tWinWw4HqDhRGRULjE7YoadxYoewQ6Yc/).
 
 ## What's involved?
 
