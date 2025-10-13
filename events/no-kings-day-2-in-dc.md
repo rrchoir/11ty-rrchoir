@@ -8,7 +8,6 @@ songs:
   - All You Fascists Bound to Lose:all_you_fascists
   - Carry This All:carry-this-all
   - Down by the Riverside:down_by_the_riverside
-  - Epstein Files:epstein-files
   - If I Had a Hammer:if_i_had_a_hammer
   - Joy in Resistance:joy_in_resistance
   - Keep on Moving Forward/Sin Volver Atras:never_turning_back
@@ -23,4 +22,5 @@ songs:
   - When the Order is Illegal, Disobey!:when_the_order
   - Which Side Are You On?:which_side_are_you_on
   - Woke up This Morning (Stayed on Freedom):woke_up_this_morning
+  - Epstein Files:epstein-files
 ---
