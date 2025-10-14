@@ -2,7 +2,7 @@
 title: Media and Testimonials
 metaDescription: We sing truth to power
 date:  2025-10-03
-permalink: /media/ndex.html
+permalink: /media/index.html
 eleventyNavigation:
   key: Media & Testimonials
   order: 5

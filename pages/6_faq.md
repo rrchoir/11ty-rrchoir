@@ -1,9 +1,9 @@
 ---
 layout: layouts/base.njk
 title: Fervently Anticipated Questions
-metaDescription: A sample Blog page listing various posts and authors.
+metaDescription: How the choir works, songs, and chapters
 date: 2017-01-01
-permalink: /blog/index.html
+permalink: /faq/index.html
 eleventyNavigation:
   key: FAQ
   order: 6
