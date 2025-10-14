@@ -104,5 +104,5 @@ collections:
           - field: category
             values: [ "general" ]
         search_fields: [ "title" ]
-        value_field: '{{title}}:{{slug}}'
+        value_field: "title"
         display_fields: [ "title" ]
