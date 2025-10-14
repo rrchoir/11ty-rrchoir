@@ -1,6 +1,6 @@
 ---
 title: Core Songs
-permalink: core
+permalink: 
 start_date: ""
 summary: RRC's "core" songs
 songs:

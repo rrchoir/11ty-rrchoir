@@ -1,6 +1,6 @@
 # Decap CMS Configuration File
 
-# local_backend: true
+local_backend: true
 # The backend option specifies how to access the content for your site
 backend:
   name: github
@@ -88,7 +88,7 @@ collections:
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Permalink", hint: "only ONE file can have /now/", name: permalink, widget: string, required: false }
+      - { label: "Enter /now/ below for the one event happening now", hint: "leave blank for all other events", name: permalink, widget: string, required: false }
       - { label: "Event Start", hint: "omit for ongoing events", name: "start_date", widget: "datetime", required: false }
       - { label: "Event Duration", hint: "in Hours", name: "duration", widget: "number", required: false, step: 1, max: 12, min: 1 }
       - { label: "Summary", hint: "appears in event listing", name: "summary", widget: "string" }
