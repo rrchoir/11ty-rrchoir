@@ -10,11 +10,9 @@ section: event
    
   <h2>Song list</h2>
   {% for song in songs | sort(attribute='title') %}
-    {% set songbits = song.split(":") %}
     <h4 style="font-size: 24px; font-weight: bold;">
-      <a href="/songs/{{ songbits[1] | url }}">
-        
-        {{ songbits[0] }}
+      <a href="/songs/{{ song | slug | url }}">
+        {{ song }}
       </a>
     </h4>
   {% endfor %}
