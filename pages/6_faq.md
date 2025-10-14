@@ -8,14 +8,11 @@ eleventyNavigation:
   key: FAQ
   order: 6
 ---
-
 # Frequently Asked Questions
-
 
 ## Is this legal?
 
-Yes, we are exercising our first amendment to free speech. The RRC does NOT interfere with any law enforcement activity, nor does it engage in civil disobedience.
-
+Yes, we are exercising our first amendment right to free speech. The RRC does NOT interfere with any law enforcement activity, nor does it engage in civil disobedience.
 
 ## Is this safe?
 
@@ -37,6 +34,6 @@ We match songs to the purpose and tone of the event. Our songs range from tradit
 
 Check out the [Join Us page](/join).
 
-## How do I get the RRC to come to my event? 
+## How do I get the RRC to come to my event?
 
 Instructions on how to request the RRC for music and/or songleading are on the [About the Rapid Response Choir page](/about).
