@@ -1,6 +1,6 @@
 ---
 title: No Kings Day 2 in DC
-permalink: /now/
+permalink: ""
 start_date: 2025-10-18T11:00:00.000-04:00
 duration: 2
 summary: ❌👑2️⃣ - in DC as people are coming down to the Mall
