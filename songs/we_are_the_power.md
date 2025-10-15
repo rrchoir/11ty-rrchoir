@@ -2,6 +2,7 @@
 Pitch: A♭
 title: We Are the Power
 category: general
+credits: Pat Humphries and Sandy O, Emma’s Revolution
 tags:
   - 21stc
   - protest
@@ -17,7 +18,6 @@ resources:
   - url: https://www.youtube.com/watch?v=x6zrjDjxmIk
     text: Emma's Revolution recording (YouTube)
 author: Emma's Revolution
-credits: Pat Humphries and Sandy O, Emma’s Revolution
 ---
 **We** are the **pow**er and we **know** it in our bones\
 We are not a**lone** and we grow **strong**er ev’ry **day**.\
@@ -27,7 +27,8 @@ We are the **strong** and we grow **strong**er ev’ry **day**.
 \[Chorus]\
 Ev’ry day! Ev’ry day!\
 Fueled by generations we will not obey!\
-(repeat both lines)  
+Ev’ry day! Ev’ry day!\
+We are strong, and we grow stronger ev'ry day
 
 We are the **work**ers, built this **na**tion from the **ground**.\
 We can shut this whole thing **down** and we grow **strong**er ev’ry **day**\
