@@ -11,7 +11,6 @@ tags:
   - justice
   - faith
   - sing-along
-  - well-known
   - folk
 notes: "The song was popular during the American Civil War, made its way into
   African American churches, and then became popular again during the Civil
