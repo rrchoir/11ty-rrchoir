@@ -4,7 +4,6 @@ category: general
 credits: Ben E King
 tags:
   - friendship
-  - well-known
   - sing-along
   - hope
   - 20thc
