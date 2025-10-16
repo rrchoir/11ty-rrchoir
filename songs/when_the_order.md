@@ -15,14 +15,11 @@ notes: >-
   Tune of *She'll be Comin' Round the Mountain*
 
 
+  \* RIF = reduction in force.  U.S. federal government term for mass layoff
 
-  (* RIF = reduction in force.  U.S. federal government term for mass layoff)
 
-
-  (\*\*Tshwane is the Setswana name for Pretoria, South Africa, Elon Musk’s home town.  White supremacists from there would likely hate hearing it referred to that way)
+  \*\*Tshwane is the Setswana name for Pretoria, South Africa, Elon Musk’s home town.  White supremacists from there would likely hate hearing it referred to that way
 ---
-
-
 1. When the order is illegal, disobey (Disobey!)\
    When the order is illegal, disobey\
    (Disobey!)\
