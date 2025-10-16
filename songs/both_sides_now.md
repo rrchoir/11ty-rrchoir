@@ -7,7 +7,7 @@ tags:
   - friendship
   - 20thc
   - guitar
-  - well-known
+  - sing-along
 resources:
   - url: https://tabs.ultimate-guitar.com/tab/joni-mitchell/both-sides-now-chords-1488889
     text: Chords (Ultimate Guitar)
