@@ -7,7 +7,6 @@ tags:
   - immigrants
   - parody
   - 20thc
-  - well-known
   - guitar
   - sing-along
 notes: |-
