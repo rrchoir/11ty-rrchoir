@@ -10,7 +10,7 @@ tags:
   - 20thc
   - guitar
   - folk
-  - well-known
+  - sing-along
 notes: >-
   Select the verses that are appropriate for the event (or make up new ones).
 
