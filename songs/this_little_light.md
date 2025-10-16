@@ -12,7 +12,6 @@ tags:
   - resistance
   - sing-along
   - folk
-  - well-known
 notes: Though the origins of the song are lost to time, this song became popular
   with the Civil Rights movements of the 1950s and 60s. See the NPR link for
   some encouraging stories about its use in protests.
