@@ -11,7 +11,6 @@ tags:
   - freedom
   - zipper
   - sing-along
-  - well-known
   - justice
 notes: >
   We chose "marching" as it's a better vowel than "walking", and more emphatic.
