@@ -6,7 +6,6 @@ hints: "[Intro (C♯ or D)]"
 tags:
   - friendship
   - 20thc
-  - well-known
   - sing-along
 notes: Withers grew up in a small coal-mining town in West Virginia, where
   neighbors always helped each other. When he lived in L.A., childhood nostalgia
