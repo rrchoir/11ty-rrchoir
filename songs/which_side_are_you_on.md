@@ -60,7 +60,7 @@ Unless we organize … Chorus
 **Alternate verses**
 
 Come ALL of you good people\
-Good new to you I'll tell\
+Good news to you I'll tell\
 Of how this good old country\
 Has come in here to dwell
 
