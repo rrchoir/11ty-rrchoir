@@ -43,7 +43,7 @@ summary: |-
 author: Sibelius
 hints: "Pitch: A"
 date: 2025-09-10T13:59:00.000-04:00
-title: This my Song (Finlandia)
+title: This is my Song (Finlandia)
 credits: "Music: Jean Sibelius; Words: Lloyd Stone (vs 1 & 2), Susan Briehl (vs 3)"
 tags:
   - peace
