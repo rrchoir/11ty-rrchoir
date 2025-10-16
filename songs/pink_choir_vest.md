@@ -11,7 +11,6 @@ tags:
   - defiant
   - resistance
   - lgbtq+
-  - well-known
 notes: >-
   Tune of Pink Pony Club by Chappell Roan.
 
