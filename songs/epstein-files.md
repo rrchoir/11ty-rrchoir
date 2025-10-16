@@ -4,7 +4,6 @@ category: general
 credits: Parody lyrics by Shirley Șerban
 tags:
   - parody
-  - well-known
   - sing-along
 notes: Tune of "Edelweiss" by Rogers & Hammerstein from The Sound of Music
 resources:
