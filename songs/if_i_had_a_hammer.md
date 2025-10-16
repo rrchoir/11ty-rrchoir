@@ -12,7 +12,6 @@ tags:
   - resistance
   - folk
   - sing-along
-  - well-known
   - friendship
 notes: >
   Written in 1949 for the Labor Movement, it was considered to be subversive as
