@@ -2,7 +2,7 @@
 title: Songs
 metaDescription: The page lists all the songs by category
 layout: layouts/songs.njk
-permalink: /songs/index.hml
+permalink: /songs/index.html
 eleventyNavigation:
   key: Songs
   order: 2
