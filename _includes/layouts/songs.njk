@@ -1,19 +1,7 @@
 ---
-title: Songs
-metaDescription: The page lists all the songs by category
 layout: layouts/base.njk
-eleventyNavigation:
-  key: Songs
-  order: 2
-pagination:
-  data: collections.categories
-  size: Infinity
-excluded: [ "attic", "archive", "deprecated", "sandbox" ]
-permalink: /songs/index.html
-
+section: songs
 ---
-
-<h1>{{ title }}</h1>
 
 <section>
   {% for category in pagination.items %}
