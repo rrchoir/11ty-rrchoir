@@ -14,14 +14,14 @@ permalink: /events/index.html
 <h1>Upcoming Events</h1>
 
     {% for event in collections.future_events  %} 
-     <h4> <a href="{{ event.page.url | url }}">
+     <h3> <a href="{{ event.page.url | url }}">
             {% if event.data.title %}  
               {{ event.data.title }}
             {% else %}  
               Untitled  
             {% endif %}  
           </a> 
-          <i>{{event.data.start_date | readableDateTime }} </i> </h4>
+          <i>{{event.data.start_date | readableDateTime }} </i> </h3>
           <p>{{event.data.summary}}</p>
           <hr>
     {% endfor %}
@@ -31,13 +31,13 @@ permalink: /events/index.html
 These are song lists for semi-spontaneous events when we don't have time to prepare a curated song list:
 
     {% for event in collections.evergreen_events  %} 
-     <h4> <a href="{{ event.page.url | url }}">
+     <h3> <a href="{{ event.page.url | url }}">
             {% if event.data.title %}  
               {{ event.data.title }}
             {% else %}  
               Untitled  
             {% endif %}  
-          </a> / {{event.data.summary}}</h4>
+          </a> / {{event.data.summary}}</h3>
           <hr>
     {% endfor %}
 
