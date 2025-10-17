@@ -95,8 +95,14 @@ module.exports = function(eleventyConfig) {
   });
 
   eleventyConfig.addFilter("readableDateTime", dateObj => {
-    return DateTime.fromJSDate(dateObj).toFormat("hh:mm, dd LLL yyyy");
+    return DateTime.fromJSDate(dateObj)
+      .setZone('America/New_York')
+      .setLocale('en')
+      .toFormat("dd LLL yyyy @ h:mma");
   });
+
+  const jsToDateTime = (date, lang = 'en') =>
+  DateTime.fromJSDate(date, { setZone: true })
 
   // Date formatting (machine readable)
   eleventyConfig.addFilter("machineDate", dateObj => {
