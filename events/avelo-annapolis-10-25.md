@@ -5,5 +5,11 @@ summary: Petition governor Moore to end contract with Avelo
 songs:
   - America the Beautiful
   - Leaving on an ICE plane
+  - Which Side Are You On?
+  - Keep on Moving Forward/Sin Volver Atras
+  - Lead with Love
+  - We Shall Not be Moved / No nos Moveran
+  - Woke up This Morning (Stayed on Freedom)
+  - Down by the Riverside
 ---
 Petition governor Moore to end contract with Avelo
