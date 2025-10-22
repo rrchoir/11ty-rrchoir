@@ -6,13 +6,13 @@ eleventyNavigation:
   key: Events
   order: 4
 pagination:
-  data: collections.future_events
+  data: collections.past_events
   size: Infinity
 permalink: /events/index.html
 
 ---
 <h1>Upcoming Events</h1>
-
+  {% if collections.future_events|length > 0 %}
     {% for event in collections.future_events  %} 
      <h3> <a href="{{ event.page.url | url }}">
             {% if event.data.title %}  
@@ -25,6 +25,10 @@ permalink: /events/index.html
           <p>{{event.data.summary}}</p>
           <hr>
     {% endfor %}
+  {% else %}
+    <strong>Nothing scheduled, stay tuned!</strong>
+    <hr>
+  {% endif %}
 
 <h1>Evergreen Events</h1>
 
@@ -42,3 +46,17 @@ These are song lists for semi-spontaneous events when we don't have time to prep
     {% endfor %}
 
 
+<h1>Past Events</h1>
+
+    {% for event in collections.past_events  %} 
+     <h3> <a href="{{ event.page.url | url }}">
+            {% if event.data.title %}  
+              {{ event.data.title }}
+            {% else %}  
+              Untitled  
+            {% endif %}  
+          </a> 
+          <i>{{event.data.start_date | readableDateTime }} </i> </h3>
+          <p>{{event.data.summary}}</p>
+          <hr>
+    {% endfor %}
