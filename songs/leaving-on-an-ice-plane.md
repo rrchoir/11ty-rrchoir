@@ -50,7 +50,7 @@ Sayin’: “I'm **lea**vin' **on** an ICE plane,\
 **Don't** know if **I'll** be back again…\
 Oh **help**! Don’t make me **go**.”
 
-The time has **come** for them to **go** away.\
+Time has **come** for them to **go** away.\
 Even **though** they have the **right** to stay,\
 ICE **makes** them march, in **chains**, up that gangway.\
 Let’s **work** towards a **time** to come,\
