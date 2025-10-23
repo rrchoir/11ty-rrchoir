@@ -27,7 +27,7 @@ They're **ly**ing on a **cold** hard floor.\
 They **did**n’t get a **chance** to say goodbye.\
 The **place** is smellin’, they’re **gett**in’ sick.\
 The **guards** are yellin’, **wav**in’ their sticks.\
-The con**di**tions are so **aw**ful they could **die**.
+Con**di**tions are so **aw**ful they could **die**.
 
 So re**mem**ber to **pray** for them.\
 It’s **time** we all stand **up** with them.\
@@ -37,10 +37,10 @@ Sayin’: “I'm **lea**vin' **on** an ICE plane,\
 Oh **please**! Don’t make me **go**.” 
 
 So **many** times, we’ve **let** them down.\
-We **took** them just be**cause** they’re brown. \
+ICE **took** them just be**cause** they’re brown. \
 It **seems** that we’re no **lon**ger civilized. \
 They **did** their best to **fol**low our laws.\
-We ar**rest**ed them with**out** just cause.\
+ICE ar**rest**ed them with**out** just cause.\
 If **they** come back, they'll **still** be trauma**tized**. 
 
 So re**mem**ber to **pray** for them.\
@@ -52,7 +52,7 @@ Oh **help**! Don’t make me **go**.”
 
 The time has **come** for them to **go** away.\
 Even **though** they have the **right** to stay,\
-We’ll **make** them march, in **chains**, up that gangway.\
+ICE **makes** them march, in **chains**, up that gangway.\
 Let’s **work** towards a **time** to come,\
 When **they** won’t have to **leave** their home,\
 And **for** a time when **they** won't have to **say**:
