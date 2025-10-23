@@ -17,6 +17,8 @@ notes: |-
 resources:
   - url: https://youtu.be/VV7w1S7cBC4
     text: RRC and protesters at Avelo BWI protest, with sources (YouTube)
+  - text: Chords
+    url: https://docs.google.com/document/d/1glqj0HfQx10XKs_dFxClboRFhXV8Uz6lI3-ToWnQCnw/edit?usp=sharing
 audience_participation: medium
 ease_of_learning: easy
 ---
