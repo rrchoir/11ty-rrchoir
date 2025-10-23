@@ -51,9 +51,9 @@ Sayin’: “I'm **lea**vin' **on** an ICE plane,\
 Oh **help**! Don’t make me **go**.”
 
 Time has **come** for them to **go** away.\
-Even **though** they have the **right** to stay,\
+Al**though** they have the **right** to stay,\
 ICE **makes** them march, in **chains**, up that gangway.\
-Let’s **work** towards a **time** to come,\
+**Let’s** work **t'wards** a **time** to come,\
 When **they** won’t have to **leave** their home,\
 And **for** a time when **they** won't have to **say**:
 
