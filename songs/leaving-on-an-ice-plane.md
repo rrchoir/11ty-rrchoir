@@ -20,10 +20,8 @@ resources:
 audience_participation: medium
 ease_of_learning: easy
 ---
-
-
 They’ve no **bags** to pack. They were **forced** to go.\
-They're **lay**ing on a **cold** hard floor.\
+They're **ly**ing on a **cold** hard floor.\
 They **did**n’t get a **chance** to say goodbye.\
 The **place** is smellin’, they’re **gett**in’ sick.\
 The **guards** are yellin’, **wav**in’ their sticks.\
