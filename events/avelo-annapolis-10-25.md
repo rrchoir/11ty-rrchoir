@@ -10,5 +10,8 @@ songs:
   - We Shall Not be Moved / No nos Moveran
   - Woke up This Morning (Stayed on Freedom)
   - Down by the Riverside
+  - Joy in Resistance
+  - This Joy
+  - This Little Light
 ---
 Petition governor Moore to end contract with Avelo
