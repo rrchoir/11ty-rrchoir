@@ -2,7 +2,7 @@
 title: This Little Light
 category: general
 credits: Anonymous
-hints: "Pitch:"
+hints: ""
 tags:
   - core
   - hope
