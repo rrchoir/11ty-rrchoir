@@ -1,7 +1,7 @@
 ---
 title: Leaving on an ICE plane
 category: general
-credits: John Denver (1971), parody lyrics by Francoise B.
+credits: John Denver (1971), new lyrics by F. Becker
 hints: Requires accompaniment.
 tags:
   - immigrants
