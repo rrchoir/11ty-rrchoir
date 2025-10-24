@@ -17,6 +17,13 @@ section: event
       </a>
     </h4>
   {% endfor %}
+  {% if resources %}
+  <ul>
+    {% for resource in resources %}
+        <li><a target="_blank" href="{{ resource.url }}">{{ resource.text }}</a></li>
+    {% endfor %}
+  </ul>
+  {% endif %}
 </article>
 
 <nav>
