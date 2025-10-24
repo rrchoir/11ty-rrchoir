@@ -11,13 +11,15 @@ section: event
    
   <h2>Song list</h2>
   {% for song in songs | sort(attribute='title') %}
-    <h4 style="font-size: 24px; font-weight: bold;">
+    <h4 style="font-size: 18px; font-weight: bold;">
       <a href="/songs/{{ song | slug | url }}">
         {{ song }}
       </a>
     </h4>
   {% endfor %}
   {% if resources %}
+  <h2 style="font-size: 22px; font-weight: bold;">
+  Resources: </h2>
   <ul>
     {% for resource in resources %}
         <li><a target="_blank" href="{{ resource.url }}">{{ resource.text }}</a></li>

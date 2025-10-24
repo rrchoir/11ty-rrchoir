@@ -13,5 +13,8 @@ songs:
   - Joy in Resistance
   - This Joy
   - This Little Light
+resources:
+  - text: Song sheet Google Doc
+    url: https://docs.google.com/document/d/13JN7gv0P9NRkA3ByITyaB-2RBmkMsZ7n43Ccj5w4LGc/edit?tab=t.0#heading=h.j0b7bi6crqyi
 ---
 Petition governor Moore to end contract with Avelo
