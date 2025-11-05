@@ -1,20 +1,25 @@
 ---
-title: Loosen, Loosen Baby
+title: How Could Anyone
 category: sandbox
-credits: Aly Halpert
+credits: Libby Roderick
 tags:
-  - 21stc
-  - de-escalation
+  - 20thc
+  - lgbtq+
+  - friendship
 resources:
-  - url: https://youtu.be/Biv9Yh_z4QU
-    text: Recording by Aly Halpert
-  - url: https://www.alyhalpert.com/
-    text: Aly Halpert website
+  - url: https://www.youtube.com/watch?v=0pMS35PgosA
+    text: Recording by Valley UUC
+  - url: https://www.youtube.com/watch?v=UyYSgBUbrLo
+    text: Recording by Libby Roderick
+  - text: Libby Roderick Website
+    url: https://libbyroderick.com/
 ---
-Loosen, loosen baby\
-You don’t have to carry\
-The weight of the world in your muscles and bones.\
-Let go, let go, let go.
+How could anyone ever tell you\
+You were anything less than beautiful?\
+How could anyone ever tell you\
+You were less than whole?
 
-Holy breath and holy name.\
-Will you ease, will you ease this pain?
+How could anyone fail to notice\
+That your loving is a miracle?\
+How deeply you’re connected\
+To my soul.
