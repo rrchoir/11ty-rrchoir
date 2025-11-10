@@ -13,6 +13,8 @@ resources:
     text: Recording by Libby Roderick
   - text: Libby Roderick Website
     url: https://libbyroderick.com/
+  - url: https://farfringe.com/2018/01/10/stj1053-how-could-anyone/
+    text: Reflections on How Could Anyone
 ---
 How could anyone ever tell you\
 You were anything less than beautiful?\
