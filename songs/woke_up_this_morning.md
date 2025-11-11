@@ -17,6 +17,8 @@ notes: In a jail one morning in 1961, arrested for Freedom Ride protests,
   Stayed on Jesus") and adapted it for Freedom and protests. It quickly spread
   to Voting Rights and other Civil Rights protests.
 resources:
+  - url: https://youtu.be/FPvWG4Wv8MI?si=iCBVsKWimkXYhozy
+    text: I'm Gonna Let It Shine recording
   - url: https://www.youtube.com/watch?v=ZLGXzGar7wY
     text: Sweet Honey in the Rock recording (YouTube)
   - url: https://www.youtube.com/watch?v=xvd2EX_rDSA
