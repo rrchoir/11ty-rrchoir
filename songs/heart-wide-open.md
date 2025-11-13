@@ -16,7 +16,7 @@ notes: |-
   Finally the basses.
 resources:
   - text: Bandcamp recording
-    url: https://thisisleamusic.bandcamp.com/track/heart-wide-open)"
+    url: https://thisisleamusic.bandcamp.com/track/heart-wide-open
 teachability: easy
 audience_participation: low
 ---
