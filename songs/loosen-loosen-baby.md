@@ -1,6 +1,6 @@
 ---
 title: How Could Anyone
-category: sandbox
+category: general
 credits: Libby Roderick
 tags:
   - 20thc
