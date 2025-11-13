@@ -1,5 +1,5 @@
 ---
-title: All you Fascists Bound to Lose Chords
+title: All You Fascists Bound to Lose Chords
 category: general
 credits: "Woody Guthrie, additional lyrics: Peter Burkholder, 2025"
 hints: G
