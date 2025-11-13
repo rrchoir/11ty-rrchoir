@@ -1,5 +1,5 @@
 ---
-title: We Shall Not be Moved / No nos Moveran
+title: We Shall Not Be Moved / No Nos Moveran
 category: general
 credits: African American Spiritual
 hints: "Pitch: E"
