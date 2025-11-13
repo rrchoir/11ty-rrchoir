@@ -1,5 +1,5 @@
 ---
-title: Woke up This Morning (Stayed on Freedom)
+title: Woke Up This Morning (Stayed on Freedom)
 category: general
 credits: Rev. Osby
 hints: 'Pitch: B on "Well"'
