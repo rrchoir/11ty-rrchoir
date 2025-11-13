@@ -1,5 +1,5 @@
 ---
-title: Down by the Riverside
+title: Down By the Riverside
 category: general
 credits: African-American Spiritual
 hints: Song leader's choice
