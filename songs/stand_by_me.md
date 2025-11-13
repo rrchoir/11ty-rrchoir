@@ -1,6 +1,6 @@
 ---
-title: Stand by Me
-category: general
+title: Stand By Me
+category: attic
 credits: Ben E King
 tags:
   - friendship
