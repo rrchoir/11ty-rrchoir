@@ -19,10 +19,12 @@ notes: In a jail one morning in 1961, arrested for Freedom Ride protests,
 resources:
   - url: https://youtu.be/FPvWG4Wv8MI?si=iCBVsKWimkXYhozy
     text: I'm Gonna Let It Shine recording
-  - url: https://www.youtube.com/watch?v=ZLGXzGar7wY
-    text: Sweet Honey in the Rock recording (YouTube)
+  - url: https://resistancerevivalchorus.bandcamp.com/track/woke-up-this-morning-with-my-mind-stayed-on-freedom
+    text: Resistance Revival Chorus recording (Bandcamp)
   - url: https://www.youtube.com/watch?v=xvd2EX_rDSA
     text: Resistance Revival Chorus recording (YouTube)
+  - url: https://www.youtube.com/watch?v=ZLGXzGar7wY
+    text: Sweet Honey in the Rock recording (YouTube)
 ---
 Well I woke up this morning with my mind stayed on freedom\
 Well I woke up this morning with my mind stayed on freedom\
