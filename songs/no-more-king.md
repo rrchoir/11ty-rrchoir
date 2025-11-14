@@ -1,6 +1,6 @@
 ---
 title: No More King
-category: sandbox
+category: attic
 credits: F Becker
 tags:
   - ""
