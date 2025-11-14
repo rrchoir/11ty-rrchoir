@@ -82,7 +82,7 @@ Unless we organize ... Chorus
 
 \---COLUMN---
 
-**Avelo**
+**Avelo verses**
 
 Come **all** of you good **peo**ple\
 Good **news** to you I'll **tell**\
@@ -93,7 +93,7 @@ Has **come** to be un**well**
 Which side are you **on**? \[x4]
 
 Our **an**cestors were **im**migrants\
-But **you** should under**stand**
+But **you** should under**stand**\
 That **no** one is il**le**gal\
 **Here** on stolen **land** … Chorus
 
@@ -102,7 +102,7 @@ And **we** are **fight**ers too\
 And **we**'ll stick with this **stru**ggle\
 Un**til** the battle's **through** ... Chorus
 
-Due **pro**cess was a **pro**mise,
+Due **pro**cess was a **pro**mise,\
 And **cru**elty for**bade,**\
 But **now** the Consti**tu**tion\
 Is **slow**ly being **frayed**
