@@ -85,7 +85,7 @@ Unless we organize ... Chorus
 **Avelo verses**
 
 Come **all** of you good **peo**ple\
-Good **news** to you I'll **tell**\
+Sad **news** to you I'll **tell**\
 Of **how** the Consti**tu**tion\
 Has **come** to be un**well**
 
