@@ -16,6 +16,8 @@ notes: "Originally a Gospel song, This Joy became popular during the Civil
 resources:
   - url: https://www.youtube.com/watch?v=PNS4eDNONVs
     text: Resistance Revival Chorus recording (YouTube)
+  - url: https://resistancerevivalchorus.bandcamp.com/track/this-joy
+    text: Resistance Revival Chorus recording (Bandcamp)
 ---
 # This Joy
 
