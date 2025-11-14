@@ -30,6 +30,8 @@ notes: "Quote from Batya Levine: *“We Rise” came through right after the 201
   ourselves and in the world around  us. No matter what struggles lie ahead, may
   we keep fighting and rising  for and with each other.*"
 resources:
+  - url: https://batyalevine.bandcamp.com/track/we-rise
+    text: Batya Levine recording (Bandcamp)
   - url: https://www.youtube.com/watch?v=6tkmkwufRVw
     text: Batya Levine recording (YouTube)
   - url: https://www.batyalevine.com/videos-1
