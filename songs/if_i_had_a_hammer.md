@@ -24,6 +24,8 @@ notes: >
 resources:
   - url: https://voices.pitt.edu/TeachersGuide/Unit8/HammerSong.htm
     text: "Voices Across Time: The Hammer Song (If I Had a Hammer)"
+  - url: https://peteseeger.bandcamp.com/album/if-i-had-a-hammer-songs-of-hope-and-struggle
+    text: Pete Seeger recording (Bandcamp)
   - text: Pete Seeger recording (YouTube)
     url: https://www.youtube.com/watch?v=VO39e5Uznu4
   - url: https://www.youtube.com/watch?v=gY8ecZ_ekQU
