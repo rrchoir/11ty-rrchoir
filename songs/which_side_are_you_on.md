@@ -23,7 +23,7 @@ resources:
   - url: https://www.youtube.com/watch?v=BEwE0R_7TDc
     text: UMW Historical recording (YouTube)
 ---
-{% threeColumnTable %}
+{% twoColumnTable %}
 
 **Original Union Verses**
 
@@ -54,8 +54,6 @@ Don't scab for the bosses\
 Don't listen to their lies\
 Us poor folks haven't got a chance\
 Unless we organize … Chorus
-
-\---COLUMN---
 
 **Alternate verses**
 
@@ -125,7 +123,7 @@ But **their** soul they did **sell**\
 They **shack**le up their **pass**engers,\
 And **fly** them straight to **hell** … Chorus
 
-{% endthreeColumnTable %}
+{% endtwoColumnTable %}
 
 Guitar Chords\
 Am – Em Am/Em Am E Am//Am – E Am
