@@ -23,7 +23,7 @@ resources:
   - url: https://www.youtube.com/watch?v=BEwE0R_7TDc
     text: UMW Historical recording (YouTube)
 ---
-{% twoColumnTable %}
+{% threeColumnTable %}
 
 **Original Union Verses**
 
@@ -82,19 +82,51 @@ You can save some lives\
 Us common folks don't have a chance\
 Unless we organize ... Chorus
 
+\---COLUMN---
+
 **Avelo**
 
-Oh Avelo, can you stand it\
-Oh tell me how you can\
-Will you be compliant\
-Or will you take a stand? ... Chorus
+Come **all** of you good **peo**ple\
+Good **news** to you I'll **tell**\
+Of **how** the Consti**tu**tion\
+Has **come** to be un**well**
 
-Avelo was an airline, 
-But their soul they did sell\
-They shackle up their passengers,\
-*And fly them straight to hell*  … Chorus
+\[Chorus]\
+Which side are you **on**? \[x4]
 
-{% endtwoColumnTable %}
+Our **an**cestors were **im**migrants\
+But **you** should under**stand**
+That **no** one is il**le**gal\
+**Here** on stolen **land** … Chorus
+
+Our **pa**rents fought for **just**ice\
+And **we** are **fight**ers too\
+And **we**'ll stick with this **stru**ggle\
+Un**til** the battle's **through** ... Chorus
+
+Due **pro**cess was a **pro**mise,
+And **cru**elty for**bade,**\
+But **now** the Consti**tu**tion\
+Is **slow**ly being **frayed**
+
+They **say** in this great **coun**try\
+There **is** democra**cy**\
+You'll **ei**ther be for **jus**tice\
+Or a **thug** for tyran**ny** ... Chorus
+
+Oh **Wes** Moore, can you **stand** it?\
+[alt: Av**e**lo, can you **stand** it?]\
+Oh **tell** me how you **can**?\
+**Will** you be com**pli**ant\
+Or **will** you take a **stand**? ... Chorus
+
+A**ve**lo was an **air**line, 
+But **their** soul they did **sell**\
+They **shack**le up their **pass**engers,\
+And **fly** them straight to **hell** … Chorus
+
+
+{% endthreeColumnTable %}
 
 Guitar Chords\
 Am – Em Am/Em Am E Am//Am – E Am
