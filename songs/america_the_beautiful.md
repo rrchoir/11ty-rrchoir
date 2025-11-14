@@ -22,6 +22,8 @@ notes: >-
 
   Jesse Palidofsky wrote new lyrics about immigrants, earth, and working people for the 2020 elections.
 resources:
+  - url: https://jessepalidofsky1.bandcamp.com/track/america-the-beautiful
+    text: Jesse Palidofsky recording (Bandcamp)
   - url: https://inwardoutward.org/america-the-beautiful-2020-version/
     text: Jesse Palidofsky lyrics
   - url: https://en.wikipedia.org/wiki/America_the_Beautiful
