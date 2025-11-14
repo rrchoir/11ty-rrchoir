@@ -19,8 +19,10 @@ notes: "Rich Man’s House is a Poor People’s Campaign song. It was written by
   the lyrics and changed it to taking back what was stolen from them by the
   system: their dignity and humanity."
 resources:
+  - url: https://resistancerevivalchorus.bandcamp.com/track/rich-mans-house
+    text: Resistance Revival Chorus recording (Bandcamp)
   - url: https://www.youtube.com/watch?v=GDU9Qj5De8o
-    text: Resistance Revival Choir recording (YouTube)
+    text: Resistance Revival Chorus recording (YouTube)
   - text: Sheet Music
     url: https://rudemechanicalorchestra.org/music/rich-mans-house/
   - url: https://www.youtube.com/watch?v=NeSJ0f36ufo
