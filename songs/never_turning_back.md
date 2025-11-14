@@ -17,12 +17,12 @@ notes: >-
 
   She was heading for a song workshop camp that was taking place atop a hill that seemed "insurmountable". As she struggled up the path, she chanted to herself "You can't turn back, you can't turn back". At the workshop that evening, she developed that into the song.
 resources:
-  - url: https://open.spotify.com/track/4jkecc6xb43FAGWmGyVdIc
-    text: Emma's Revolution recording (Spotify)
-  - url: https://music.apple.com/us/song/keep-on-moving-forward/312610044
-    text: Emma's Revolution recording (Apple)
+  - url: https://songsfordemocracy.bandcamp.com/track/keep-on-moving-forward-emmas-revolution-california
+    text: Emma's Revolution (Bandcamp)
   - url: https://www.youtube.com/watch?v=2aMX78a5ZJM
     text: Emma's Revolution recording (YouTube)
+  - url: https://music.apple.com/us/song/keep-on-moving-forward/312610044
+    text: Emma's Revolution recording (Apple)
   - url: https://thebirdsings.com/keep-on-moving-forward-sigamos-adelante/
     text: Song background from The Bird Sings
   - url: https://bigsingcommunity.com/songs/keep-on-walking-forward/
