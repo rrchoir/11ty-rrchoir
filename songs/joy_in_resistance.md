@@ -22,6 +22,8 @@ notes: "The phrase \"Joy is an act of resistance\" originated with
   community, and sustain energy for social change. The phrase has become The
   Resistance Revival Chorus' unofficial motto. "
 resources:
+  - url: https://resistancerevivalchorus.bandcamp.com/track/joy-in-resistance
+    text: Resistance Revival Chorus recording (Bandcamp)
   - url: https://www.youtube.com/watch?v=qAIKKBRkK24
     text: Resistance Revival Chorus recording (YouTube)
   - url: https://www.facebook.com/ResistanceRevivalChorus/posts/happy-birthday-to-the-great-poet-toi-derricotte-born-april-12-1941-a-black-woman/650068750262361/
