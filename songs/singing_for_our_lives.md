@@ -18,6 +18,8 @@ resources:
     text: Holly Near recording (YouTube)
   - url: https://www.pbs.org/wnet/americanmasters/american-masters-holly-near-singing-for-our-lives-holly-near-on-the-story-behind-singing-for-our-lives/11051/
     text: Holly Near on the story behind the song
+  - url: https://peaceup.bandcamp.com/track/singing-for-our-lives
+    text: Peaceful Uprising cover (Bandcamp)
 ---
 We are a gentle angry people\
 And we are singing, singing for our lives\
