@@ -1,5 +1,5 @@
 ---
-title: CAN Fundraiser
+title: CAN Fundraiser 11/20/25
 start_date: 2025-11-20T18:00:00.000-05:00
 summary: Fundraiser for Congregation Action Network, with emphasis on immigrant rights.
 songs:
