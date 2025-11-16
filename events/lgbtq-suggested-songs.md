@@ -1,18 +1,21 @@
 ---
-title: LGBTQ+ Suggested Songs
+title: Immigrant Event Songs
 start_date: ""
-summary: These songs are suggested for LGBTQ+ events. This is not an exhaustive
-  list of possible songs.
+summary: "These songs are suggested for events supporting immigrants. "
 songs:
-  - How Could Anyone
-  - Singing For Our Lives
-  - Pink Pony Club
+  - Keep on Moving Forward/Sin Volver Atras
+  - We Shall Not Be Moved / No Nos Moveran
+  - We Are Marching / Siyahamba
+  - Paz y Libertad
+  - America the Beautiful
+  - Down By the Riverside
+  - This Little Light
+  - This Joy
   - Carry This All
-  - All You Fascists Bound to Lose
   - Heart Wide Open
   - Lead with Love
-  - This Joy
   - Woke Up This Morning (Stayed on Freedom)
-  - Pink Choir Vest
-  - Keep on Moving Forward/Sin Volver Atras
+  - Leaving on an ICE plane
+  - This Land Is Your Land
 ---
+This is not an exhaustive list of possible songs. Select songs with care, tailored to the event. Not all songs are appropriate for every event.
