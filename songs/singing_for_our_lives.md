@@ -30,4 +30,5 @@ We are a justice-seeking people\
 We are a land of many colors\
 We are a peaceful, loving people\
 We are all in this together\
-We are queer and straight together
+We are queer and straight together\
+We are cis and trans together
