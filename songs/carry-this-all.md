@@ -17,7 +17,7 @@ resources:
 summary: |
   https://www.healingattheroots.com/carrythisall
 author: Alexandra "Ahlay" Blakely
-hints: "Lullaby, respect the rests, pitch: A"
+hints: "Lullaby, respect the rests. Starts on A (Originally: G)"
 date: 2025-08-23T20:50:00.000-04:00
 title: Carry This All
 credits: Alexandra “Ahlay” Blakely
