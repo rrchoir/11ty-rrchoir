@@ -36,7 +36,7 @@ We shall not, we shall not be moved\
 Like a tree that's planted by the water\
 We shall not be moved  
 
-*No,no, no nos moverán!\
+*No, no, no nos moverán!\
 No, no, no nos moverán\
 Como un árbol firme junto al rio\
 No nos moverán*  
