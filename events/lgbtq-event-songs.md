@@ -10,6 +10,7 @@ songs:
   - All You Fascists Bound to Lose
   - This Little Light
   - This Joy
+  - Joy in Resistance
   - Heart Wide Open
   - Lead with Love
   - Woke Up This Morning (Stayed on Freedom)
