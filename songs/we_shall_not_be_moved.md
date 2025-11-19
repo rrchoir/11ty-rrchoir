@@ -33,7 +33,7 @@ resources:
 ---
 We shall not, we shall not be moved\
 We shall not, we shall not be moved\
-Like a tree that's planted by the water\
+Just like a tree that's planted by the water\
 We shall not be moved  
 
 *No, no, no nos moverán!\
