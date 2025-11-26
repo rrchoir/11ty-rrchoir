@@ -22,7 +22,7 @@ author: Emma's Revolution
 **We** are the **pow**er and we **know** it in our bones\
 We are not a**lone** and we grow **strong**er ev’ry **day**.\
 We take down the **ty**rants with our **cou**rage and our **spi**rit.\
-We are the **strong** and we grow **strong**er ev’ry **day**.  
+We are **strong** and we grow **strong**er ev’ry **day**.  
 
 \[Chorus]\
 Ev’ry day! Ev’ry day!\
