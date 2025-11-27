@@ -9,6 +9,7 @@ tags:
   - spanish
   - guitar
   - 21stc
+  - de-escalation
 notes: >
   Original in Hebrew: Vayigal Ka’mayim, Mishpat, U’tzedakah, K’nachal Eitan   
 
