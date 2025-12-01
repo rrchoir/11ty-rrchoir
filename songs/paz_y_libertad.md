@@ -47,6 +47,8 @@ world.
 For the children in this the world we want peace
 & liberty.
 
+For the children at the border we want peace & liberty.
+
 No more hunger, no more war, we want peace in this
 world.
 
