@@ -36,3 +36,19 @@ Queremos paz en esta tierra. [2x](Coro)
 
 Para los pobres y los viejitos\
 queremos paz y libertad. [2x](Coro)
+
+
+
+**English Translation**
+
+Chorus: Peace, we want peace & liberty in this
+world.
+
+For the children in this the world we want peace
+& liberty.
+
+No more hunger, no more war, we want peace in this
+world.
+
+For the poor & the old we want peace &
+liberty.[](Coro)[](Coro)[](Coro)
