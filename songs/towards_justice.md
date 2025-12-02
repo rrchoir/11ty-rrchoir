@@ -1,6 +1,6 @@
 ---
 title: Towards Justice
-category: sandbox
+category: general
 credits: Eliana Light
 hints: "Pitch:"
 tags:
