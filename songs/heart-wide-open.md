@@ -44,7 +44,7 @@ Though the waves wanna push me around.\
 I'm gonna keep, I'm gonna keep,\
 I'm gonna keep my heart wide open,\
 'Til my faith brings me back,\
-'Till my faith brings me back to solid ground.
+'Til my faith brings me back to solid ground.
 
 **Third verse**
 
@@ -62,4 +62,4 @@ Though the waves wanna push us around.
 We're gonna keep, we're  gonna keep,
 We're  gonna keep our hearts wide open
 'Til our faith brings us back,
-'Till our faith brings us back to solid ground.
+'Til our faith brings us back to solid ground.
