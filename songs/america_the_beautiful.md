@@ -1,7 +1,8 @@
 ---
 title: America the Beautiful
 category: general
-credits: Katherine Lee Bates and Samuel A Ward; additional lyrics by Jesse Palidofsky
+credits: Katherine Lee Bates and Samuel A Ward; additional lyrics by Jesse
+  Palidofsky and John Morris
 hints: "Pitch: D"
 tags:
   - patriotic
