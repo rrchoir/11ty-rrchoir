@@ -23,7 +23,7 @@ notes: >-
   Jesse Palidofsky and John Morris wrote the last 2 verses about immigrants and working people for the 2020 elections.
 
 
-  **Song leaders**: Choose whichever verses are best suited to the ocassion.
+  Song leaders: Choose whichever verses are best suited to the occasion.
 resources:
   - url: https://jessepalidofsky1.bandcamp.com/track/america-the-beautiful
     text: Jesse Palidofsky recording (Bandcamp)
@@ -81,4 +81,4 @@ God shed much grace on thee\
 So spread the love sent from above\
 From sea to shining sea\
 Ring sisterhood! Ring brotherhood!\
-From sea to shining sea
+From sea to shining se
