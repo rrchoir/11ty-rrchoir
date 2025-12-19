@@ -20,7 +20,10 @@ notes: >-
   Bates wrote the poem "Pike's Peak" in 1895. Ward composed the hymn "Materna" in 1883. The two were brought together as "America the Beautiful" and published in 1910 by Oliver Ditson & Co. 
 
 
-  Jesse Palidofsky wrote new lyrics about immigrants, earth, and working people for the 2020 elections.
+  Jesse Palidofsky and John Morris wrote the last 2 verses about immigrants and working people for the 2020 elections.
+
+
+  **Song leaders**: Choose whichever verses are best suited to the ocassion.
 resources:
   - url: https://jessepalidofsky1.bandcamp.com/track/america-the-beautiful
     text: Jesse Palidofsky recording (Bandcamp)
@@ -68,3 +71,14 @@ America! America!\
 Thy grace shall yet remain\
 To greet the poor who reach thy shore\
 With open arms again
+
+O beautiful thy working folk\
+Built cities, tilled thy soil\
+Proud Africans in bloody chains\
+The wealth built from their toil\
+America! America!\
+God shed much grace on thee\
+So spread the love sent from above\
+From sea to shining sea\
+Ring sisterhood! Ring brotherhood!\
+From sea to shining sea
