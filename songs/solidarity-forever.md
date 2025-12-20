@@ -1,5 +1,5 @@
 ---
-title: Solidarity Forever
+title: Solidarity Forever - Kennedy Center
 category: general
 credits: ""
 tags:
@@ -22,8 +22,8 @@ But the union makes us strong
 
 *\[Chorus]*
 
-It is we who plowed the prairies; built the cities where they trade;\
-Dug the mines and built the workshops, endless miles of railroad laid;\
+It is we who rig the lighting; built the sets for all the plays;\
+Learned our lines and built the workshops, endless miles of cable laid;\
 Now we stand outcast and starving midst the wonders we have made;\
 But the union makes us strong
 
@@ -42,3 +42,15 @@ We can bring to birth a new world from the ashes of the old\
 For the union makes us strong
 
 *\[Chorus]*
+
+---
+Original:
+
+
+
+<!-
+It is we who plowed the prairies; built the cities where they trade;\
+Dug the mines and built the workshops, endless miles of railroad laid;\
+Now we stand outcast and starving midst the wonders we have made;\
+But the union makes us strong
+
