@@ -1,6 +1,6 @@
 ---
 title: Solidarity Forever
-category: sandbox
+category: general
 credits: ""
 tags:
   - 20thc
