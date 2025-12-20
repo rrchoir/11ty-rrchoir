@@ -57,7 +57,7 @@ They're all getting premium pay.
 I’M DREAMING OF A JUST WORKPLACE
 
 I’m dreaming of a just workplace\
-Where every worker’s organize\
+Where every worker’s organized\
 Where the law protects us\
 The boss respects us \
 And no jobs have been downsized. 
