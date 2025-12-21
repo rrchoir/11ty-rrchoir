@@ -50,6 +50,7 @@ Como un árbol firme junto al rio\
 No nos moverán*  
 
 > [*interim verses*]\
+> We're standing up with Kilmar, we shall not be moved…\
 > We’ll ground Avelo Airlines, we shall not be moved…\
 > We’ll shame collaborators, we shall not be moved…\
 > Fighting for the climate, we shall not be moved…\
