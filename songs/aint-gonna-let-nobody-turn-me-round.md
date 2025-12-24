@@ -6,7 +6,7 @@ tags:
   - resistance
 resources:
   - url: https://www.youtube.com/watch?v=WPuBGcng6Tw&t=1s
-    text: Sweet Honey in the Rock
+    text: Sweet Honey in the Rock (YouTube
 teachability: easy
 audience_participation: high
 ---
