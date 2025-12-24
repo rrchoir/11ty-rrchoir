@@ -21,14 +21,14 @@ And I will not fear\
 In our darkest hour\
 Hope lingers here
 
-My siblings, when equality’s gone 
+My siblings, when equality’s gone ....
 
-My children, with tolerance gone
+My children, with tolerance gone....
 
 Chorus
 
-My love, when honor is gone
+My love, when honor is gone....
 
-My country, when justice is gone
+My country, when justice is gone....
 
 Chorus
