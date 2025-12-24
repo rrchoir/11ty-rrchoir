@@ -1,0 +1,35 @@
+---
+title: Hope Lingers On
+category: sandbox
+credits: Lissa Schneckenburger
+tags:
+  - ""
+notes: Lissa is a member of the Vermont-based trio Low
+  Lily: [www.lowlily.com](https://www.lowlily.com/)
+resources:
+  - text: The Fresno City College Symphonic Choir iand the Benton Middle School
+      Intermediate Choir (YouTube)
+    url: https://www.youtube.com/watch?v=506zikTDSMs&t=5s
+---
+My mother, when love is gone (2x)\
+In our darkest hour hope lingers on
+
+My father, when peace is gone....
+
+Chorus\
+I will not hate\
+And I will not fear\
+In our darkest hour\
+Hope lingers here
+
+My siblings, when equality’s gone 
+
+My children, with tolerance gone
+
+Chorus
+
+My love, when honor is gone
+
+My country, when justice is gone
+
+Chorus
