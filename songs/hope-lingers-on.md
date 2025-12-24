@@ -7,9 +7,8 @@ tags:
 notes: Lissa is a member of the Vermont-based trio Low
   Lily: [www.lowlily.com](https://www.lowlily.com/)
 resources:
-  - text: The Fresno City College Symphonic Choir iand the Benton Middle School
-      Intermediate Choir (YouTube)
-    url: https://www.youtube.com/watch?v=506zikTDSMs&t=5s
+  - text: Low Lilly (YouTube)
+    url: https://www.youtube.com/watch?v=lv9R60CSQ54&t=10s
 ---
 My mother, when love is gone (2x)\
 In our darkest hour hope lingers on
