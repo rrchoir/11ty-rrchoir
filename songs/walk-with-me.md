@@ -1,7 +1,7 @@
 ---
 title: Walk with Me
 category: sandbox
-credits: Maggie Wheeler
+credits: Maggie Wheeler (2017)
 tags:
   - Protest
 resources:
