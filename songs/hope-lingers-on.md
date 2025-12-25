@@ -3,7 +3,7 @@ title: Hope Lingers On
 category: sandbox
 credits: Lissa Schneckenburger
 tags:
-  - ""
+  - Hope
 notes: Lissa is a member of the Vermont-based trio Low
   Lily: [www.lowlily.com](https://www.lowlily.com/)
 resources:
