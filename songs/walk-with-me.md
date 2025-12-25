@@ -4,6 +4,7 @@ category: sandbox
 credits: Maggie Wheeler (2017)
 tags:
   - Protest
+  - justice
 resources:
   - url: https://www.youtube.com/watch?v=MHD5Ln3FgQw&t=34s
     text: Maggie Wheeler (YouTube)
