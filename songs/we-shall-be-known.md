@@ -3,7 +3,7 @@ title: We Shall Be Known
 category: sandbox
 credits: Karisha Longaker
 tags:
-  - ""
+  - Hope
 resources:
   - url: https://www.youtube.com/watch?v=dX11MEtbkXI
     text: MaMuse (YouTube)
