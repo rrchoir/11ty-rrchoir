@@ -3,7 +3,7 @@ title: "Ain't Gonna Let Nobody Turn Me 'Round "
 category: sandbox
 credits: Traditional civil rights song
 tags:
-  - resistance
+  - Protest
 resources:
   - url: https://www.youtube.com/watch?v=WPuBGcng6Tw&t=1s
     text: Sweet Honey in the Rock (YouTube
