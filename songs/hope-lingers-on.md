@@ -10,6 +10,8 @@ notes: Lissa was a member of the Vermont-based trio Low
 resources:
   - text: Low Lilly (YouTube)
     url: https://www.youtube.com/watch?v=lv9R60CSQ54&t=10s
+  - text: Sheet music
+    url: https://lissafiddle.com/store/hope-lingers-on-satb/
 ---
 My mother, when love is gone (2x)\
 In our darkest hour hope lingers on
