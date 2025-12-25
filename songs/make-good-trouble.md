@@ -1,7 +1,7 @@
 ---
 title: Make Good Trouble
 category: sandbox
-credits: Elizabeth Melvin
+credits: Elizabeth Melvin (2022)
 tags:
   - Protest
   - justice
@@ -15,6 +15,8 @@ resources:
     url: https://www.youtube.com/watch?v=643kFDA5ErQ
   - text: Separate recordings of each part
     url: https://www.protestinharmony.org.uk/songs/make-good-trouble-2/
+  - text: Sheet music
+    url: https://www.protestinharmony.org.uk/wp-content/uploads/2022/11/Make-Good-Trouble.pdf
 ---
 Bass:
 
