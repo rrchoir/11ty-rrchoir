@@ -13,10 +13,10 @@ resources:
   - text: Sheet music
     url: https://lissafiddle.com/store/hope-lingers-on-satb/
 ---
-My mother, when love is gone (2x)\
+My parents, when love is gone (2x)\
 In our darkest hour hope lingers on
 
-My father, when peace is gone....
+My neighbors, when peace is gone....
 
 Chorus\
 I will not hate\
