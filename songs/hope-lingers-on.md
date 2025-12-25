@@ -4,7 +4,7 @@ category: sandbox
 credits: Lissa Schneckenburger (2018)
 tags:
   - Hope
-notes: Lissa is a member of the Vermont-based trio Low
+notes: Lissa was a member of the Vermont-based trio Low
   Lily: [www.lowlily.com](https://www.lowlily.com/)
 resources:
   - text: Low Lilly (YouTube)
