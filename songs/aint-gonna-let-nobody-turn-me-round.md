@@ -4,9 +4,12 @@ category: sandbox
 credits: Traditional civil rights song
 tags:
   - Protest
+  - zipper
 resources:
   - url: https://www.youtube.com/watch?v=WPuBGcng6Tw&t=1s
     text: Sweet Honey in the Rock (YouTube
+  - url: https://www.8notes.com/scores/35018.asp
+    text: Sheet music
 teachability: easy
 audience_participation: high
 ---
