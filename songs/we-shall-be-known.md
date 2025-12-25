@@ -4,6 +4,7 @@ category: sandbox
 credits: Karisha Longaker
 tags:
   - Hope
+  - protest
 resources:
   - url: https://www.youtube.com/watch?v=dX11MEtbkXI
     text: MaMuse (YouTube)
@@ -11,6 +12,8 @@ resources:
     url: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.riseupsinging.org/files/leadsheets/We%20Shall%20Be%20Known%20-%20Alto%20-%202017-09-20%201705%20%281%29%20-%20Alto.pdf
   - text: MaMuse web site
     url: https://www.mamuse.org/
+  - text: Recordings of alto, soporano, and tenor/baritone parts
+    url: https://thebirdsings.com/we-shall-be-known/
 ---
 We shall be known by the company we keep\
 By the ones who circle round to tend these fires\
