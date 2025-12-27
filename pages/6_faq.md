@@ -18,7 +18,7 @@ Yes, we are exercising our first amendment right to free speech. The RRC does NO
 
 While we can’t make any guarantees, the RRC has not, to date, been concerned about our physical safety. The events we have attended have been calm and without incident. 
 
-Our marshals keep alert for any signs that a situation might become dangerous. We wear printed, high-visibility vests to make our role and identity clear.  We have security protocols to keep everyone safe, including not sharing anyone’s identity or contact information without permission. We suggest members consult [security essentials for activists](https://activistchecklist.org/essentials/).
+Our marshals keep alert for any signs that a situation might become dangerous. We wear printed, high-visibility vests to make our role and identity clear.  We have security protocols to keep everyone safe, including not sharing anyone’s identity or contact information without permission. We suggest members consult  [Tips for Preparedness, Peaceful Protesting, and Safety](https://www.hrc.org/resources/tips-for-preparedness-peaceful-protesting-and-safety).
 
 News outlets have taken pictures of the RRC singing at events. If you join the RRC, you may appear in print or televised media.
 
