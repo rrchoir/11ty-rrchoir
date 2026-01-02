@@ -1,6 +1,6 @@
 ---
 title: NoVa Rapid Response Choir - First Meeting
-start_date: 2025-01-07T18:30:00.000-05:00
+start_date: 2026-01-04T17:48:00.000-05:00
 duration: 2
 summary: Join us to sing, practice and plan for the fuiture
 ---
