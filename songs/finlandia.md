@@ -1,6 +1,6 @@
 ---
 Pitch: A
-category: attic
+category: general
 notes: >-
   In February 1899, a manifesto from Tsar Nicholas II declared Russia’s right to
   rule Finland without the consent of local legislators. Sibelius’ choice of
