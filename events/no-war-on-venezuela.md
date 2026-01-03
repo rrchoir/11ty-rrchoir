@@ -1,8 +1,8 @@
 ---
-title: No War on Venezuela
+title: No War on Venezuela Saturday January 3, 2026
 start_date: 2026-01-03T12:40:00.000-05:00
 duration: 2
-summary: Gather at 1600 H St, caddy-corner from U.S. Chamber of Commerce, 12:40
+summary: Gather at 1600 H St, catty-corner from U.S. Chamber of Commerce at 12:40 PM
 songs:
   - Down By the Riverside
   - If I Had a Hammer
@@ -11,4 +11,4 @@ songs:
   - Lead with Love
   - Joy in Resistance
 ---
-If you don't see as at the gather point, look for pink vests and our banner
+If you don't see as at the gathering point, look for pink vests and our banner.
