@@ -8,5 +8,7 @@ songs:
   - If I Had a Hammer
   - Paz y Libertad
   - Singing For Our Lives
+  - Lead with Love
+  - Joy in Resistance
 ---
 If you don't see as at the gather point, look for pink vests and our banner
