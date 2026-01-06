@@ -6,9 +6,9 @@ tags:
   - ""
 notes: ""
 resources:
-  - url: https://www.youtube.com/watch?v=K-yRvmEKr2o&t=19s
+  - url: https://www.youtube.com/watch?v=K-yRvmEKr2o
     text: Featuring Betty Fikes
-  - url: https://www.youtube.com/watch?v=mRcHFKbe-f4&t=81s
+  - url: https://www.youtube.com/watch?v=nli29UXYYPc
     text: Peter, Paul, and Mary
 ---
 We shall overcome
