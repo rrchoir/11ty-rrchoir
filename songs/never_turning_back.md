@@ -15,7 +15,7 @@ notes: >-
   Walking Forward".
 
 
-  She was heading for a song workshop camp that was taking place atop a hill that seemed "insurmountable". As she struggled up the path, she chanted to herself "You can't turn back, you can't turn back". At the workshop that evening, she developed that into the song.
+  She was heading for a song workshop camp that was taking place atop a hill that seemed "insurmountable". As she struggled up the path, she chanted to herself "You can't turn back, you can't turn back". At the workshop that evening, she developed that into the song. New verses have been added by Charlie King, Judy Small, and others.
 resources:
   - url: https://songsfordemocracy.bandcamp.com/track/keep-on-moving-forward-emmas-revolution-california
     text: Emma's Revolution (Bandcamp)
@@ -32,6 +32,12 @@ We’re gonna keep on moving forward\
 Keep on moving forward,\
 Keep on moving forward\
 Never turning back, Never turning back  
+
+We’re gonna keep on walking proudly....
+
+We’re gonna keep on singing loudly....
+
+We’re gonna light this night together....
 
 *Sigamos Adelante, siempre Adelante\
 Siempre Adelante\
