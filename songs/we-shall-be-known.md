@@ -5,6 +5,12 @@ credits: Karisha Longaker (2016)
 tags:
   - Hope
   - protest
+notes: >-
+  Most people sing this song a cappella. The following chords may help you learn
+  the melody:
+
+
+  G - D G / C D G - ://C G C G / C D G - / C G C G / C D Em - / C D G -
 resources:
   - url: https://www.youtube.com/watch?v=dX11MEtbkXI
     text: MaMuse (YouTube)
