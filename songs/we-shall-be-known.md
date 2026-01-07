@@ -1,7 +1,7 @@
 ---
 title: We Shall Be Known
 category: sandbox
-credits: Karisha Longaker (2016)
+credits: Karisha Longaker of MaMuse (2016)
 tags:
   - Hope
   - protest
