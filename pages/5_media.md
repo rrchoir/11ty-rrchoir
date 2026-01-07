@@ -1,7 +1,7 @@
 ---
 title: Media and Testimonials
 metaDescription: We sing truth to power
-date:  2025-10-03
+date: 2025-10-03
 permalink: /media/index.html
 eleventyNavigation:
   key: Media & Testimonials
@@ -9,6 +9,9 @@ eleventyNavigation:
 ---
 
 # Testimonials
+
+"I want to thank the RRC for joining with us yesterday. You were splendid! 
+Honestly, in some ways I felt as if you were the soul of this action. " -- J6 Vigil, January, 2026
 
 "All thanks to you and the entire choir for your fantastic participation in Sunday’s forum.  We received so many compliments for your setting the spirit of the discussion.  People were genuinely happy you came and performed. Our thanks, my thanks, for bringing everyone together." -- Takoma Park Mobilization, September, 2025.
 
