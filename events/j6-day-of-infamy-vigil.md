@@ -12,6 +12,7 @@ songs:
   - Keep on Moving Forward/Sin Volver Atras
   - Singing For Our Lives
   - We Rise
+  - We Shall Overcome
 resources:
   - text: BlueSky post
     url: https://bsky.app/profile/rapidresponsechoir.bsky.social/post/3mbsdyjmwnk2a
