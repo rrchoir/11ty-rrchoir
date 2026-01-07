@@ -48,7 +48,7 @@ These are song lists for semi-spontaneous events when we don't have time to prep
 
 <h1>Past Events</h1>
 
-    {% for event in collections.past_events  %} 
+    {% for event in collections.past_events | reverse %} 
      <h3> <a href="{{ event.page.url | url }}">
             {% if event.data.title %}  
               {{ event.data.title }}
