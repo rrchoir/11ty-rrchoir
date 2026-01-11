@@ -1,5 +1,5 @@
 ---
-title: DC Poplar Point / Frederick Douglass Bridge Vigil for Renee Nicole Good
+title: "DC Poplar Point / Frederick Douglass Bridge: Vigil for Renee Nicole Good"
 start_date: 2026-01-11T17:00:00.000-05:00
 duration: 1
 summary: Meet at 4:40 pm at the Poplar Point side of Frederick Douglas Bridge
@@ -12,3 +12,4 @@ songs:
   - Woke Up This Morning (Stayed on Freedom)
   - We Rise
 ---
+Support Congregation Action Network: https://www.congregationactionnetwork.org/events-1/vigil-of-prayer-protest
