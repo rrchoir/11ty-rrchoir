@@ -11,5 +11,7 @@ songs:
   - We Are Marching / Siyahamba
   - Woke Up This Morning (Stayed on Freedom)
   - We Rise
+  - We Shall Overcome
+  - Meditation on Breathing
 ---
 Supporting Congregation Action Network: https://www.congregationactionnetwork.org/events-1/vigil-of-prayer-protest
