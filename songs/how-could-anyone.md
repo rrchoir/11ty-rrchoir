@@ -1,20 +1,27 @@
 ---
-title: Meditation on Breathing
-category: sandbox
-credits: Sarah Dan Jones
+title: How Could Anyone
+category: general
+credits: Libby Roderick
 tags:
-  - 21stc
-  - de-escalation
-  - peace
-notes: This song was written by Sarah Dan Jones just after September 11, 2001.
-  It is the chorus of a larger piece that was created to help ease fears and
-  seek solace following the tragedy.
+  - 20thc
+  - lgbtq+
+  - friendship
 resources:
-  - url: https://www.youtube.com/watch?v=VuAd-yImOt4
-    text: Recording by melangitude
+  - url: https://www.youtube.com/watch?v=0pMS35PgosA
+    text: Recording by Valley UUC
+  - url: https://www.youtube.com/watch?v=UyYSgBUbrLo
+    text: Recording by Libby Roderick
+  - text: Libby Roderick Website
+    url: https://libbyroderick.com/
+  - url: https://farfringe.com/2018/01/10/stj1053-how-could-anyone/
+    text: Reflections on How Could Anyone
 ---
-Breathe in. Breathe out.
+How could anyone ever tell you\
+You were anything less than beautiful?\
+How could anyone ever tell you\
+You were less than whole?
 
-When I breathe in, I’ll breathe in peace.
-
-When I breathe out, I’ll breathe out love.
+How could anyone fail to notice\
+That your loving is a miracle?\
+How deeply you’re connected\
+To my soul.
