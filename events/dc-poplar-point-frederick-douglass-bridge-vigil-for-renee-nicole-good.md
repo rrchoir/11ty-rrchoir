@@ -12,4 +12,4 @@ songs:
   - Woke Up This Morning (Stayed on Freedom)
   - We Rise
 ---
-Support Congregation Action Network: https://www.congregationactionnetwork.org/events-1/vigil-of-prayer-protest
+Supporting Congregation Action Network: https://www.congregationactionnetwork.org/events-1/vigil-of-prayer-protest
