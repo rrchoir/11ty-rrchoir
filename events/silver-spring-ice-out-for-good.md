@@ -15,3 +15,4 @@ resources:
   - text: Standing Stone
     url: https://www.youtube.com/watch?v=YminLnyYU5w
 ---
+Includes newer songs not yet in the RRC Songbook. See Resources below.
