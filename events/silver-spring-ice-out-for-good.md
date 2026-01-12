@@ -1,6 +1,6 @@
 ---
 title: Silver Spring ICE Out for Good
-start_date: 2026-01-12T16:25:00.000-05:00
+start_date: 2026-01-12T16:30:00.000-05:00
 summary: In memory of Renee Nicole Good and all victims of ICE brutality.
 songs:
   - This Little Light
