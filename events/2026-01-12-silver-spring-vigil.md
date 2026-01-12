@@ -24,4 +24,4 @@ Gene Lynch Urban Park
 
 Includes newer songs
 - We grieve together, stop the deportations
-- Standing stong
+- Standing stone
