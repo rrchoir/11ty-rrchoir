@@ -7,11 +7,9 @@ summary: Meet at 4:40 pm at the Poplar Point side of Frederick Douglas Bridge
 songs:
   - This Little Light
   - Keep on Moving Forward/Sin Volver Atras
-  - Singing For Our Lives
-  - We Are Marching / Siyahamba
-  - Woke Up This Morning (Stayed on Freedom)
   - We Rise
   - We Shall Overcome
   - Meditation on Breathing
+  - We Are Marching / Siyahamba
 ---
 Supporting Congregation Action Network: https://www.congregationactionnetwork.org/events-1/vigil-of-prayer-protest
