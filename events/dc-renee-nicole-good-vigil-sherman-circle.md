@@ -7,4 +7,8 @@ songs:
   - This Little Light
   - Singing For Our Lives
   - We Shall Overcome
+resources:
+  - url: https://www.instagram.com/reels/DTYLHXlkQfD/
+    text: "Lucian Perkins: Rapid Response Choir performs at vigil for Renee Good
+      (Instagram)"
 ---
