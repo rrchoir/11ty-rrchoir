@@ -9,6 +9,18 @@ songs:
   - We Rise
   - Lead with Love
   - This Little Light
+resources:
+  - url: https://www.dcnewsnow.com/news/local-news/washington-dc/dmv-demonstrators-demand-justice-for-woman-shot-killed-by-ice-agent/#/questions/5294859
+    text: "DC News Now: DMV demonstrators demand justice for woman shot, killed by
+      ICE agent"
+  - text: "Route 1 Corridor Indivisible: ICE Rallies Around the DMV (BlueSky)"
+    url: https://bsky.app/profile/indivisibler1c.bsky.social/post/3mc6vjn737s2n
+  - text: "St Camilus Church: Franciscan Friars and Lay Leaders Stand in Peaceful
+      Witness at Hyattsville Courthouse (Facebook)"
+    url: https://www.facebook.com/share/v/16hjiDJ8aS/
+  - text: "CitizenSocialStudies: Marching in Unity across Frederick Douglass Bridge:
+      Let Your Light Shine for Good (YouTube)"
+    url: https://www.youtube.com/shorts/j6VDu8YXH7E
 ---
 New song:
 
