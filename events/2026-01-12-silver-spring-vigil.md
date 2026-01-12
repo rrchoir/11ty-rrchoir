@@ -15,7 +15,7 @@ resources:
   - text: Standing Stone
     url: https://youtu.be/YminLnyYU5w?si=GCMV7i5J7H9GTw55
   - text: We grieve together
-    url: /img/we_grieve_together.mp4
+    url: /static/img/we_grieve_together.mp4
 ---
 Location: 
 Gene Lynch Urban Park
