@@ -9,4 +9,9 @@ songs:
   - Carry This All
   - Lean On Me
   - We Rise
+resources:
+  - url: https://rapidresponsechoir.org/static/img/we_grieve_together.mp4
+    text: We Grieve Together
+  - text: Standing Stone
+    url: https://www.youtube.com/watch?v=YminLnyYU5w
 ---
