@@ -7,4 +7,6 @@ songs:
   - Lead with Love
   - Keep on Moving Forward/Sin Volver Atras
   - Carry This All
+  - Lean On Me
+  - We Rise
 ---
