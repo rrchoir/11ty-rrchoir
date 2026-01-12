@@ -18,9 +18,6 @@ resources:
   - text: "St Camilus Church: Franciscan Friars and Lay Leaders Stand in Peaceful
       Witness at Hyattsville Courthouse (Facebook)"
     url: https://www.facebook.com/share/v/16hjiDJ8aS/
-  - text: "CitizenSocialStudies: Marching in Unity across Frederick Douglass Bridge:
-      Let Your Light Shine for Good (YouTube)"
-    url: https://www.youtube.com/shorts/j6VDu8YXH7E
 ---
 New song:
 
