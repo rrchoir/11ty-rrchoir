@@ -1,5 +1,6 @@
 ---
 title: Silver Spring ICE Out for Good
+start_date: 2026-01-12T16:25:00.000-05:00
 summary: In memory of Renee Nicole Good and all victims of ICE brutality.
 songs:
   - This Little Light
@@ -9,6 +10,7 @@ songs:
   - Carry This All
   - Lean On Me
   - We Rise
+  - Standing Stone
 resources:
   - url: https://rapidresponsechoir.org/static/img/we_grieve_together.mp4
     text: We Grieve Together
