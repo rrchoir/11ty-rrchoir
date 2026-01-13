@@ -7,5 +7,7 @@ songs:
   - Lead with Love
   - Keep on Moving Forward/Sin Volver Atras
   - We Rise
-resources: []
+resources:
+  - url: https://www.instagram.com/reels/DTbpr3HjBQU/
+    text: "NBC News 4: Anti-ICE protests continue across the DC area"
 ---
