@@ -18,6 +18,9 @@ resources:
   - text: "St Camilus Church: Franciscan Friars and Lay Leaders Stand in Peaceful
       Witness at Hyattsville Courthouse (Facebook)"
     url: https://www.facebook.com/share/v/16hjiDJ8aS/
+  - text: "Streetcar Suburbs: Hyattsville residents protest ICE shooting of
+      Minneapolis driver"
+    url: https://streetcarsuburbs.news/hyattsville-residents-protest-ice-shooting-of-minneapolis-driver
 ---
 New song:
 
