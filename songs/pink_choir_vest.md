@@ -56,8 +56,8 @@ I'm gonna keep on singing\
 In my pink choir vest\
 Pink choir vest  
 
-We’re up and DOGE drops to  the floor\
-Musk is in the sink as disapproval numbers soar\
+We're up, and Avelo's out the door\
+Kilmar is back at home with the family he adores\
 Black ops ... don’t scare us in the least\
 We’ll march on singing… in hope and love and peace  
 
