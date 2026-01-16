@@ -2,7 +2,11 @@
 title: Lift Every Voice and Sing
 category: sandbox
 credits: Lyrics from a poem by James Weldon Johnson. Music by John Rosamond Johnson.
-tags: []
+tags:
+  - 20thc
+  - hope
+  - freedom
+  - justice
 notes: >-
   Often referred to as "The Black National Anthem," *Lift Every Voice and
   Sing* was a hymn written as a poem by NAACP leader James Weldon Johnson in
