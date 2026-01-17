@@ -12,9 +12,9 @@ notes: Woody Guthrie wrote and first recorded the protest song in 1944, during
 ```
 [Verse 1]
 G
-I'm gonna tell all you fascists, and you may be surprised:
-C                            G
-The people in this world are getting organized.
+I'm gonna tell you fascists, and you may be surprised:
+C                        G
+People in this world are getting organized.
                 D                            G
 You're bound to lose, you fascists, bound to lose.
  
@@ -62,6 +62,22 @@ C                                  G
 Your sports bans and your bathroom laws have to to go
                 D                            G
 You're bound to lose, you fascists, bound to lose.
+
+[Verse DC 1]
+G
+The district is our home, self-rule is the way,
+C                          G
+Our fundamental rights you cannot strip away
+                D                            G
+You're bound to lose, you fascists, bound to lose
+
+[Verse DC 2]
+G
+We're half-a-million strong, people of every kind
+C                       G
+If you eff around, then you will come to find:
+                D                            G
+You're bound to lose, you fascists, bound to lose
  
 [Chorus]
 C                         G
