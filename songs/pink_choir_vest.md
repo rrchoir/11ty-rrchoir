@@ -24,6 +24,9 @@ resources:
     text: Chappell Roan Official Video (YouTube)
   - text: RIck Astley cover w/ acoustic guitar (YouTube)
     url: https://www.youtube.com/watch?v=2vF26QG9he4
+  - text: Pink Choir Vest w/ Guitar Chords
+    url: https://tabs.ultimate-guitar.com/user/tab/view?h=diZKl22f1kCQ-5IJW4cYFOlv&tab_id=25883684
+audience_participation: high
 ---
 I know you wanted me to stay\
 But I can't ignore the vision of a more inclusive day\
