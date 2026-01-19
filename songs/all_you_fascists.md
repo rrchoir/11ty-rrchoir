@@ -93,6 +93,4 @@ You're bound to lose! You fascists, bound to lose! (I said!)
 All you fascists bound to lose! (Yessir!)\
 All you fascists bound to lose!\
 All you fascists bound to lose!\
-You're bound to lose! You fascists, bound to lose!  
-
-[Lyrics and Guitar Chords](./songs/all_you_fascists_chords)
+You're bound to lose! You fascists, bound to lose!  [](./songs/all_you_fascists_chords)
