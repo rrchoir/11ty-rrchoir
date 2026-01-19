@@ -34,7 +34,7 @@ I'm having wicked dreams\
 of leaving MAGA dad\
 I hear the protest songs\
 I swear I'll be so glad\
-I'm going off to save,\
+I'm goin' off to save,\
 Our one democracy\
 He sees his baby girl\
 I know he's gonna scream:  
@@ -57,7 +57,7 @@ In my pink choir vest\
 Pink choir vest  
 
 We're up, and Avelo's out the door\
-Kilmar is back at home with the family he adores\
+Kilmar is back at home with family he adores\
 Black ops ... don’t scare us in the least\
 We’ll march on singing… in hope and love and peace  
 
