@@ -28,6 +28,8 @@ resources:
     text: Resistance Revival Choir recording (YouTube)
   - url: https://louisehaynes.substack.com/p/woody-guthrie-fighting-fascists
     text: " Social Issues in Song: Woody Guthrie fighting fascists"
+  - url: https://tabs.ultimate-guitar.com/user/tab/view?h=_V6FgDed3x3goavvzT-16-dn&tab_id=28998032
+    text: RRC version with guitar chords
 ---
 \[Verse 1]\
 I'm gonna tell you fascists, and you may be surprised:\
