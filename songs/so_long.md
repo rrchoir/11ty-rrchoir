@@ -14,7 +14,7 @@ tags:
 So long, it's been good to know ya\
 So long, it's been good to know ya\
 So long, it's been good to know ya\
-That ketamine clown has gotten me down.  
+That tangerine clown has gotten me down.  
 And I've got to be driftin' along
 
 A DOGE storm hit and it hit like thunder\
@@ -25,7 +25,7 @@ And stole the Peace Institute's home on the Mall
 So long, it's been good to know ya\
 So long, it's been good to know ya\
 So long, it's been good to know ya\
-That ketamine clown has gotten me down.  
+That tangerine clown has gotten me down.  
 And I've got to be driftin' along
 
 We used to forecast the weather; will you soon have to pay?  
