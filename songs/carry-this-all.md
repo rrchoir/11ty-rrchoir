@@ -28,9 +28,16 @@ tags:
   - de-escalation
   - 21stc
 ---
-**You do not** **ca**rry this **all** alone.\
-No, **you do not ca**rry this **all** alone.\
+**You do not** \
+**Ca**rry this \
+**All** alone.\
+No, **you do not** \
+**Ca**rry this \
+**All** alone.\
 This is **way** too big for you to **ca**rry this **on** your own.\
-So, **you do not ca**rry this **all** alone.
+So,\
+**You do not** \
+**Ca**rry this \
+**All** alone.
 
 [](https://ahlayblakely.bandcamp.com/track/carry-this-all-2)
