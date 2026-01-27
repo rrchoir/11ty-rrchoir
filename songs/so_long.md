@@ -14,27 +14,30 @@ tags:
 So long, it's been good to know ya\
 So long, it's been good to know ya\
 So long, it's been good to know ya\
-This ketamine Musk is a-takin my job\
+That tangerine clown has gotten me down.  
 And I've got to be driftin' along
 
 A DOGE storm hit and it hit like thunder\
 They RTO'd, DERP'd, and RIF'd us all under\
-Wiped out USAID, CFPB and all\
+Wiped out USAID, 18F and all\
 And stole the Peace Institute's home on the Mall
 
 So long, it's been good to know ya\
 So long, it's been good to know ya\
 So long, it's been good to know ya\
-This ketamine Musk is a-takin my job\
+That tangerine clown has gotten me down.  
 And I've got to be driftin' along
 
-We used to forecast the weather, now you'll soon have to pay\
-We built Direct File, but Intuit said "Nay"\
-We inspected our food but now E coli reigns\
-DOGE is taking us backward again  
+We used to forecast the weather; will you soon have to pay?  
+We built Direct File, but Intuit said "Nay"  
+We recommended vaccines but now measles reigns  
+Bobby Jr is taking us backward again  
 
 So long, it's been good to know ya\
 So long, it's been good to know ya\
 So long, it's been good to know ya\
-This ketamine Musk has been gettin us down\
-Time for us to all rally 'round
+Ole Rusty Vought loves his trauma and pain  
+But I hope to work... with you all again
+(_repeat_)
+
+
