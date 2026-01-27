@@ -10,6 +10,9 @@ tags:
   - sing-along
   - workers
   - climate
+resources:
+  - text: Guitar Chords on U.G.
+    url: https://tabs.ultimate-guitar.com/user/tab/view?h=pHWAdUIMYpUbvqqHkQ4qyxm9&tab_id=29093456
 ---
 So long, it's been good to know ya\
 So long, it's been good to know ya\
