@@ -22,3 +22,6 @@ For Alex and Renee,,,\
 All across our country,,,\
 For love and dignity,,,\
 This little light of mine...
+
+As the crowd disperses, we will sing Hold On by Heidi Wilson: \
+ Lyrics: Hold on, hold on, my dear ones, here comes the dawn.
