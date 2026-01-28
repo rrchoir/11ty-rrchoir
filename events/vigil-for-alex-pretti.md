@@ -6,6 +6,9 @@ songs:
   - We Are Marching / Siyahamba
   - This Little Light
   - Carry This All
+resources:
+  - text: Hold On with Heidi Wilson in Minnesota, January 2026
+    url: https://www.facebook.com/justicechoir/videos/learn-the-songs-minnesota-is-singing-right-now-hold-on-by-heidi-wilson-lyrics-ho/1419014299705465/
 ---
 We will sing the following verses of We Are Marching:\
 \
