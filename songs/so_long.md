@@ -47,3 +47,6 @@ And I hope to work with you again
 (_repeat_)
 
 
+Variations:
+- For TTSer's "worked in tech transformation" instead of "as a civil servant"
+- Instead of Russ Vought, "That tangerine clown is a-gettin' me down; And I have to be driftin' along"
