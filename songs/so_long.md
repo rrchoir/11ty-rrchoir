@@ -11,33 +11,39 @@ tags:
   - workers
   - climate
 ---
+
+I've sung this song but I'll sing it again  
+of the place that I worked as a civil servant
+In a term that goes fourteen hundred days  
+And here's what the federal workers now say
+
 So long, it's been good to know ya\
 So long, it's been good to know ya\
 So long, it's been good to know ya\
-That tangerine clown has gotten me down.  
-And I've got to be driftin' along
+Ole Rusty Vought loves his trauma and pain  
+And I hope to work with you again
 
 A DOGE storm hit and it hit like thunder\
 They RTO'd, DERP'd, and RIF'd us all under\
-Wiped out USAID, 18F and all\
-And stole the Peace Institute's home on the Mall
+Killed USAID, 18F and all\
+And stole the Peace Institute's home on the Mall (sayin')
 
 So long, it's been good to know ya\
 So long, it's been good to know ya\
 So long, it's been good to know ya\
-That tangerine clown has gotten me down.  
-And I've got to be driftin' along
+Ole Rusty Vought loves his trauma and pain  
+And I hope to work with you again
 
-We used to forecast the weather; will you soon have to pay?  
+We forecast the weather; will you soon have to pay?  
 We built Direct File, but Intuit said "Nay"  
-We recommended vaccines but now measles reigns  
+Recommended vaccines but now measles reigns  
 Bobby Jr is taking us backward again  
 
 So long, it's been good to know ya\
 So long, it's been good to know ya\
 So long, it's been good to know ya\
 Ole Rusty Vought loves his trauma and pain  
-But I hope to work... with you all again
+And I hope to work with you again
 (_repeat_)
 
 
