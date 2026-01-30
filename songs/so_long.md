@@ -14,8 +14,8 @@ tags:
 
 I've sung this song but I'll sing it again  
 of the place that I worked as a civil servant  
-In a term that goes fourteen hundred days  
-And here's what the federal workers now say
+In Trump era two, and every damn day
+Here's what the federal workers now say
 
 So long, it's been good to know ya\
 So long, it's been good to know ya\
@@ -35,9 +35,20 @@ Ole Rusty Vought loves his trauma and pain
 And I hope to work with you again
 
 We forecast the weather; will you soon have to pay?  
-We built Direct File, but Intuit said "Nay"  
+Built Direct File, but Intuit said "Nay"  
 Recommended vaccines but now measles reigns  
-Bobby Jr is taking us backward again  
+Bobby Junior is taking us backward again  
+
+So long, it's been good to know ya\
+So long, it's been good to know ya\
+So long, it's been good to know ya\
+Ole Rusty Vought loves his trauma and pain  
+And I hope to work with you again
+
+I won't break the law, I won't bend the knee  
+To the constitution is my loyalty
+To break with my conscience I'd rather be dead
+I'll tender my resignation instead, singing...
 
 So long, it's been good to know ya\
 So long, it's been good to know ya\
@@ -45,7 +56,6 @@ So long, it's been good to know ya\
 Ole Rusty Vought loves his trauma and pain  
 And I hope to work with you again
 (_repeat_)
-
 
 Variations:
 - For TTSer's "worked in tech transformation" instead of "as a civil servant"
