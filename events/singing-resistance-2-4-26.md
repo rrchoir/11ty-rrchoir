@@ -5,18 +5,16 @@ summary: Fundraiser for Blair Unida, which helps families impacted by ICE.
 ---
 **Led by the RRC** 
 
-[Joy in Resistance](https://rapidresponsechoir.org/songs/joy-in-resistance/)
+[Joy in Resistance](<>)
 
-[Keep on Moving Forward/ Sin Volver Atras](https://rapidresponsechoir.org/songs/keep-on-moving-forwardsin-volver-atras/)
+[Keep on Moving Forward/ Sin Volver Atras](<>)
 
-[Heart Wide Open](https://rapidresponsechoir.org/songs/heart-wide-open/)
+[Heart Wide Open](<>)
 
-[Hold On](https://rapidresponsechoir.org/songs/hold-on/)
-
-
+[Hold On](<>)
 
 **Led by DC Labor Chorus**
 
-[Lead with Love](https://rapidresponsechoir.org/songs/lead-with-love/) 
+[Lead with Love](<>) 
 
-[Lift Every Voice and Sing](https://rapidresponsechoir.org/songs/lift-every-voice-and-sing/)
+[Lift Every Voice and Sing](<>)[](https://rapidresponsechoir.org/songs/lift-every-voice-and-sing/)
