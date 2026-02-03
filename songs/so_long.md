@@ -44,19 +44,19 @@ Bobby *Jun*ior is *tak*ing us *back*ward a*gain*
 So long, it's been good to know ya\
 So long, it's been good to know ya\
 So long, it's been good to know ya\
-Ole Rusty Vought loves his trauma and pain\
-And I hope to work with you again
+*Ole* Rusty *Vought* loves his *trau*ma and *pain*
+And I *hope* to work *with* you a*gain*
 
-I won't break the law, I won't bend the knee\
-To the constitution is my loyalty
-To break with my conscience I'd rather be dead
-I'll tender my resignation instead, singing...
+I *won*'t break the *law*, I *won't* bend the *knee*\
+To the *CON*stitution is *my* loyal*ty*
+To *break* with my *cons*cience I'd *rath*er be *dead*
+I'll *ten*der my REsig*nati*on in*stead*, singing...
 
 So long, it's been good to know ya\
 So long, it's been good to know ya\
 So long, it's been good to know ya\
-Ole Rusty Vought loves his trauma and pain\
-And I hope to work with you again
+*Ole* Rusty *Vought* loves his *trau*ma and *pain*
+And I *hope* to work *with* you a*gain*
 (*repeat*)
 
 Variations:
