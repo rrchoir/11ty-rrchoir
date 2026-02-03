@@ -23,3 +23,5 @@ songs:
 
 * Lead with Love 
 * Lift Every Voice and Sing
+
+Links to lyrics are below.
