@@ -1,6 +1,6 @@
 ---
 title: Lift Every Voice and Sing
-category: sandbox
+category: general
 credits: Lyrics from a poem by James Weldon Johnson. Music by John Rosamond Johnson.
 tags:
   - 20thc
