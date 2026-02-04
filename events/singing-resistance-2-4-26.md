@@ -9,6 +9,7 @@ songs:
   - Hold On
   - Lead with Love
   - Lift Every Voice and Sing
+  - This Joy
 ---
 **Led by the RRC** 
 
@@ -17,11 +18,10 @@ songs:
 * Heart Wide Open
 * Hold On
 
-
-
 **Led by DC Labor Chorus**
 
 * Lead with Love 
 * Lift Every Voice and Sing
+* This Joy
 
 Links to lyrics are below.
