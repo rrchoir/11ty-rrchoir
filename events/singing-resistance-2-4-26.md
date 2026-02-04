@@ -18,6 +18,16 @@ songs:
 * Heart Wide Open
 * Hold On
 
+We will sing the following verses for Keep on Moving Forward/Sin Volver Atras 
+
+* Keep on moving forward 
+* Sigamos adelante
+* Reunite the families 
+* Familias reunidas
+* Keep on singing loudly
+
+
+
 **Led by DC Labor Chorus**
 
 * Lead with Love 
