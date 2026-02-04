@@ -4,9 +4,9 @@ start_date: 2026-02-04T18:00:00.000-05:00
 summary: Fundraiser for Blair Unida, which helps families impacted by ICE.
 songs:
   - Joy in Resistance
-  - Keep on Moving Forward/Sin Volver Atras
   - Heart Wide Open
   - Hold On
+  - Keep on Moving Forward/Sin Volver Atras
   - Lead with Love
   - Lift Every Voice and Sing
   - This Joy
@@ -14,9 +14,9 @@ songs:
 **Led by the RRC** 
 
 * Joy in Resistance
-* Keep on Moving Forward/Sin Volver Atras 
 * Heart Wide Open
 * Hold On
+* Keep on Moving Forward/Sin Volver Atras 
 
 We will sing the following verses for Keep on Moving Forward/Sin Volver Atras 
 
@@ -25,8 +25,6 @@ We will sing the following verses for Keep on Moving Forward/Sin Volver Atras
 * Reunite the families 
 * Familias reunidas
 * Keep on singing loudly
-
-
 
 **Led by DC Labor Chorus**
 
