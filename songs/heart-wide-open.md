@@ -2,7 +2,7 @@
 title: Heart Wide Open
 category: general
 credits: Lea Morris (2020)
-hints: Starting pitch G
+hints: Starting pitch D (was G)
 tags:
   - 21stc
   - de-escalation
