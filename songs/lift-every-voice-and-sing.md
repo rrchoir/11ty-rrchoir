@@ -34,3 +34,33 @@ Sing a song full of the hope that the present has brought us;
 Facing the rising sun
 of our new day begun,
 Let us march on till victory is won.
+
+**Additional Verses**\
+\
+Stony the road we trod,
+bitter the chast'ning rod,
+Felt in the days when hope unborn had died.
+Yet with a steady beat,
+have not our weary feet
+Come to the place for which our fathers sighed?
+We have come over a way that with tears has been watered.
+We have come, treading our path thru' the blood of the slaughtered,
+Out from the gloomy past,
+till now we stand at last
+Where the white gleam of our bright star is cast.
+
+God of our weary years,
+God of our silent tears,
+Thou who hast brought us thus far on the way,
+Thou who hast by thy might
+led us into the light,
+Keep us forever in the path, we pray.
+Lest our feet stray from the places, our God, where we met thee,
+Lest our hearts, drunk with the wine of the world, we forget thee.
+Shadowed beneath thy hand,
+may we forever stand,
+True to our God, true to our native land.\
+\
+Lift ev'ry voice and sing
+till earth and heaven ring!\
+Let us march on till victory is won - victory is won!
