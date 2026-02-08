@@ -11,11 +11,12 @@ eleventyNavigation:
 ---
 ## [Sign up now](https://docs.google.com/forms/d/e/1FAIpQLSeDw5I0rtgbtYsz7bqbkraDRA6-Gr0lQO_5vRAXK2isZvtbsg/viewform?usp=header)
 
-The RRC is open to everyone. No prior singing experience required. To join, [fill out our Google form](https://docs.google.com/forms/d/e/1FAIpQLSeDw5I0rtgbtYsz7bqbkraDRA6-Gr0lQO_5vRAXK2isZvtbsg/viewform?usp=header) and we'll add you to the announcement email and send info about joining Signal.
+The RRC is open to everyone. No prior singing experience required. To join, [fill out our Jotform](https://form.jotform.com/260385983857071) and we'll add you to the announcement email and send info about joining Signal.
 
 Don't want to sing? There are other roles that are needed. Join us anyway!
 
-Don't trust Google? Then [fill out our CryptPad form](https://cryptpad.fr/form/#/2/form/view/n7enY2yher1tWinWw4HqDhRGRULjE7YoadxYoewQ6Yc/).
+<!--
+Don't trust Google? Then [fill out our CryptPad form](https://cryptpad.fr/form/#/2/form/view/n7enY2yher1tWinWw4HqDhRGRULjE7YoadxYoewQ6Yc/). -->
 
 ## What's involved?
 
@@ -37,3 +38,11 @@ Our charter chapter! We practice most Tuesdays in central Hyattsville.
 ### Baltimore
 
 New as of September 2025! Practices alternate between Tuesdays and Thursdays.
+
+### Northern Virginia
+
+Started January 2026
+
+### Annapolis
+
+Starting February 2026
