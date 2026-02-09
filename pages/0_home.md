@@ -3,14 +3,18 @@ layout: layouts/home.njk
 title: Home
 date: 2025-08-28
 permalink: /
-#eleventyNavigation:
-#  key: Home
-#  order: 0
+eleventyNavigation:
+  key: /
+  order: 0
 ---
 
 ![](/static/img/nyt_header.jpg)
 
 # Rapid Response Choir
+
+## Welcome to folks joining through the Singing Resistance
+
+We are wholly aligned with the mission and principles of the Singing Resistance: Commitment to non-violence, radical inclusivity, and challenging systems of oppression. We look forward to you joining us -- find out more on [Join Us](/join) page. 
 
 ## Protecting our community through song
 
