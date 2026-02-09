@@ -4,7 +4,7 @@ title: Home
 date: 2025-08-28
 permalink: /
 eleventyNavigation:
-  key: /
+  key: Home
   order: 0
 ---
 
