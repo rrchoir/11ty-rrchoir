@@ -33,33 +33,28 @@ Keep on moving forward,\
 Keep on moving forward\
 Never turning back, Never turning back  
 
-We’re gonna keep on walking proudly....
+*Sigamos Adelante, siempre Adelante*
+*Siempre Adelante*
+*Sin volver atras, sin volver atras* 
 
-We’re gonna keep on singing loudly....
-
-We’re gonna light this night together....
-
-*Sigamos Adelante, siempre Adelante\
-Siempre Adelante\
-Sin volver atras, sin volver atras* 
-
-We’re gonna reach across our borders\
-Reach across our borders, reach across our borders\
+We’re gonna reach across our borders
+Reach across our borders, reach across our borders
 Never turning back, never turning back  
 
-*Vivamos sin fronteras\
-Siempre sin fronteras, siempre sin fronteras\
-Sin volver atras, sin volver atras*  
+*Vivamos sin fronteras*
+*Siempre sin fronteras, siempre sin fronteras*
+*Sin volver atras, sin volver atras*  
 
-We’re gonna reunite the families\
-Reunite the families, reunite the families\
+We’re gonna reunite the families
+Reunite the families, reunite the families
 Never turning back, never turning back  
 
-*Familias reunidas\
-Siempre reunidas, siempre reunidas,\
-Sin volver atras, sin volver atras*
+*Familias reunidas*
+*Siempre reunidas, siempre reunidas,*
+*Sin volver atras, sin volver atras*
 
-(*Additional Zipper Phrases*):\
+**Additional Zipper Phrases**\
 ... Walking Proudly ...\
 ... Loving Boldly ...\
-... Singing Loudly ...
+... Singing Loudly ...\
+...Light this night together....
