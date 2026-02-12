@@ -12,11 +12,14 @@ tags:
   - lgbtq+
   - guitar
   - sing-along
-notes: 'Woody Guthrie wrote and first recorded the protest song in 1944, during
-  World War II. Guthrie is known for his anti-fascist stance, and his guitar
-  famously bore the words "This Machine Kills Fascists". The song has been
-  covered and reinterpreted by many artists since, and is a well-known
-  anti-fascist anthem. '
+notes: >-
+  Woody Guthrie wrote and first recorded the protest song in 1944, during World
+  War II. Guthrie is known for his anti-fascist stance, and his guitar famously
+  bore the words "This Machine Kills Fascists". The song has been covered and
+  reinterpreted by many artists since, and is a well-known anti-fascist anthem. 
+
+
+  Song leaders: Pick which verses to sing (suggestion: no more than 4 verses), sing the chorus after every other verse, and end with two rounds of the chorus.
 resources:
   - url: https://resistancerevivalchorus.bandcamp.com/track/all-you-fascists-bound-to-lose
     text: Resistance Revival Chorus recording (Bandcamp)
@@ -30,6 +33,8 @@ resources:
     text: " Social Issues in Song: Woody Guthrie fighting fascists"
   - url: https://tabs.ultimate-guitar.com/user/tab/view?h=_V6FgDed3x3goavvzT-16-dn&tab_id=28998032
     text: RRC version with guitar chords
+  - text: Windborne
+    url: https://www.facebook.com/WindborneSingers/videos/766889819348751/
 ---
 \[Verse 1]\
 I'm gonna tell you fascists, and you may be surprised:\
@@ -47,50 +52,41 @@ There's people of every nation, marching side by side.\
 Marching 'cross these fields where a million fascists died.\
 You're bound to lose, you fascists, bound to lose.  
 
-\[Chorus]\
-All you fascists bound to lose! (Yessir!)\
-All you fascists bound to lose!\
-All you fascists bound to lose!\
-You're bound to lose! You fascists, bound to lose!  
-
 \[Verse 3]\
 Race hatred cannot stop us. This one thing I know.\
 Your poll tax and your Jim Crow greed have got to go\
 You're bound to lose, you fascists, bound to lose.  
 
 \[Verse T]\
-Trans hatred cannot stop us. We'll go to our drag shows\
-Your sports bans and your bathroom laws have to to go\
+Trans hatred cannot stop us. We'll go to our drag shows.\
+Your sports bans and your bathroom laws have to to go.\
 You're bound to lose, you fascists, bound to lose.  
 
 \[Verse DC 1]\
-The district is our home, self-rule is the way,\
-Our fundamental rights you cannot strip away\
-You're bound to lose, you fascists, bound to lose  
+The district is our home, self-rule is the way.\
+Our fundamental rights you cannot strip away.\
+You're bound to lose, you fascists, bound to lose.  
 
 \[Verse DC 2]\
-We're half-a-million strong, people of every kind\
+We're half-a-million strong, people of every kind.\
 If you eff around, then you will come to find:\
-You're bound to lose, you fascists, bound to lose  
-
-\[Chorus]\
-All you fascists bound to lose! (I said!)\
-All you fascists bound to lose! (Yessir!)\
-All you fascists bound to lose!\
-You're bound to lose! You fascists, bound to lose!  
+You're bound to lose, you fascists, bound to lose. 
 
 \[Verse 4]\
 I'm going into battle. I won't take no gun.\
 We'll end this world of hatred before this battle's won.\
 You're bound to lose, you fascists, bound to lose.  
 
-\[Chorus x 2]\
-All you fascists bound to lose! (Yessir!)\
-All you fascists bound to lose!\
-All you fascists bound to lose!\
-You're bound to lose! You fascists, bound to lose! (I said!)  
+\[Verse ICE]\
+Immigrants belong here.\
+And ICE has got to go!\
+You're bound to lose, you fascists, bound to lose.
 
-All you fascists bound to lose! (Yessir!)\
-All you fascists bound to lose!\
-All you fascists bound to lose!\
-You're bound to lose! You fascists, bound to lose!  [](./songs/all_you_fascists_chords)
+\[Verse Freedom]\
+Won't you join and fight for freedom?\
+Won't you defend our rights?\
+We're gonna beat these fascists.\
+A better world's in sight.\
+You're bound to lose, you fascists, bound to lose.
+
+\[Chorus x 2][](./songs/all_you_fascists_chords)
