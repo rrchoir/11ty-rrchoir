@@ -2,7 +2,7 @@
 title: Interfaith Day of Action
 start_date: 2026-03-12T00:00:00.000-04:00
 duration: 2
-summary: People of faith demand immigrant justice on February 12, 2026 in Annapolis.
+summary: People of faith demand immigrant justice on March 12, 2026 in Annapolis.
 songs:
   - Keep on Moving Forward/Sin Volver Atras
   - Joy in Resistance
