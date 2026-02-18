@@ -1,7 +1,7 @@
 ---
 layout: layouts/base.njk
 title: Fervently Anticipated Questions
-metaDescription: How the choir works, songs, and pods
+metaDescription: How the choir works, songs, and chapters
 date: 2017-01-01
 permalink: /faq/index.html
 eleventyNavigation:
