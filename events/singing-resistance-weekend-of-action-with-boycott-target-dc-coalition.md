@@ -20,10 +20,12 @@ This will be a picket, so we’ll be trying that out at our Tuesday practice.
 
 Call time TBD at Sabeh Coffee at the exit from Metro
 
-Song from [Singing Resistance Songbook](https://docs.proton.me/doc?mode=open-url&token=PRAAJBVVKC#14y1s6CJV51u):
-This is for our neighbors .. we will abolish ICE
-Hold On
-No one is getting left behind
-We are many (Sue F)
-Change your mind
+Songs from [Singing Resistance Songsheeet(https://docs.proton.me/doc?mode=open-url&token=PRAAJBVVKC#14y1s6CJV51u):
 
+This is for our neighbors .. we will abolish ICE  
+Hold On  
+No one is getting left behind  
+We are many  
+Change your mind  
+
+... plus songs from our online songbook: 
