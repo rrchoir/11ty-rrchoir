@@ -7,7 +7,7 @@ section: event
   <h1>{{ title }}</h1>
 
   <h3>{{ summary | safe }}</h3>
-  {{start_date}}<br>
+  {{start_date | readableDateTime}}<br>
   {{ content | safe }}
    
   <h2>Song list</h2>
