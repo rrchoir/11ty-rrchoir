@@ -13,5 +13,5 @@ resources:
 ---
 **Additional song lyrics:**
 
-Solo el pueblo salva el pueblo.\
+Solo el pueblo salva al pueblo.\
 And if one of us falls we all rise up.
