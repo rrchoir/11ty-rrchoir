@@ -7,6 +7,9 @@ tags:
   - Immigrants
   - protest
   - Singing Resistance
+resources:
+  - url: https://www.instagram.com/reel/DTb9kkkkWVr/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA%3D%3D
+    text: Minnesotans sing This is For Our Neighbors
 ---
 This is for our neighbors who are locked inside. 
 
