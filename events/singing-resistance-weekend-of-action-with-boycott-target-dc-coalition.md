@@ -15,15 +15,11 @@ songs:
 **Messaging:**
 
 * We are heeding the Singing Resistance's nationwide weekend of action by joining with Boycott Target DC
-
   * This is a Singing Resistance event held by the Rapid Response Choir (DC/Md). We are guests of Boycott Target DC
-
-*  We are calling on Target to:
-
-  - Affirm Target as a 4th Amendment workplace and to stop supporting ICE
-  - Restore Target's commitment to DEI initiatives they announced in 2020, and then rolled back as the current administration came into power
-
-*  We adhere to principles of the Singing Resistance and RRC, grounded in love, nonviolence, and solidarity.
+* We are calling on Target to:
+  * Affirm Target as a 4th Amendment workplace and to stop supporting ICE
+  * Restore Target's commitment to DEI initiatives they announced in 2020, and then rolled back as the current administration came into power
+* We adhere to principles of the Singing Resistance and RRC, grounded in love, nonviolence, and solidarity.
 
 CALL TIME: 10:40 near Sabeh Coffee at 14th and Irving St NW
 
