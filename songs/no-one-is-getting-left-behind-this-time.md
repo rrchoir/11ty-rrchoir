@@ -6,6 +6,7 @@ tags:
   - 21stc
   - hope
   - Singing Resistance
+  - sing-along
 resources:
   - url: https://www.patreon.com/posts/63841347?utm_campaign=postshare_creator
     text: Joshua Blaine sings No One Is Getting Left Behind This Time with harmonies
