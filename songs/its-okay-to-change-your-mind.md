@@ -5,7 +5,7 @@ credits: "Annie Schlaefer "
 tags:
   - 21stc
   - de-escalation
-  - Singing Resistance
+  - Singing Resistancesing-along
 resources:
   - url: https://www.patreon.com/posts/its-okay-to-your-149541284?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link
     text: Annie Schlaefer sings Its Okay to Change Your Mind with harmonies
