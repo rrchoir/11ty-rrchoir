@@ -14,6 +14,7 @@ songs:
   - Hold On (my dear ones)
   - No One Is Getting Left Behind This Time
   - It's Okay to Change Your Mind
+  - We Are Many
 ---
 **Messaging:**
 
