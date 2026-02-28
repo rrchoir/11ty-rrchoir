@@ -1,5 +1,5 @@
 ---
-title: This is For Our Neighbors
+title: This Is For Our Neighbors
 category: general
 credits: Lu Aya of the Peace Poets 
 tags:
