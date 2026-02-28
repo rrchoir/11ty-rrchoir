@@ -5,7 +5,8 @@ credits: Katie Eckeberger
 tags:
   - 21stc
   - immigrant
-  - Singing Resistancesing-along
+  - Singing Resistance
+  - sing-along
 resources:
   - url: https://www.instagram.com/reel/DT4L2a4DA_X/?igsh=MWpieWFmeXZ6b3RhOQ%3D%3D
     text: Woman singing We Are Many
