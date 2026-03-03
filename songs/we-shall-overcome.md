@@ -8,7 +8,8 @@ tags:
   - hope
   - sing-along
   - zipper
-notes: ""
+notes: We Shall Overcome is a gospel song that is strongly associated with the
+  U.S. civil rights movement.
 resources:
   - url: https://www.youtube.com/watch?v=K-yRvmEKr2o
     text: Featuring Betty Fikes
