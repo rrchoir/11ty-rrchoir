@@ -3,7 +3,11 @@ title: We Shall Overcome
 category: general
 credits: Attributed to Lucille Simmons
 tags:
-  - ""
+  - 20thc
+  - resistance
+  - hope
+  - sing-along
+  - zipper
 notes: ""
 resources:
   - url: https://www.youtube.com/watch?v=K-yRvmEKr2o
