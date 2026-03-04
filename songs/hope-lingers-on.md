@@ -1,6 +1,6 @@
 ---
 title: Hope Lingers On
-category: sandbox
+category: general
 credits: Lissa Schneckenburger (2018)
 tags:
   - Hope
