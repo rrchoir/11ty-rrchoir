@@ -4,7 +4,7 @@ category: general
 credits: Lu Aya of the Peace Poets 
 tags:
   - 21stc
-  - Immigrants
+  - Immigrant
   - protest
   - zipper
   - Singing Resistance
