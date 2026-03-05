@@ -7,11 +7,9 @@ songs:
   - Keep on Moving Forward/Sin Volver Atras
   - Joy in Resistance
   - We Rise
+  - Solo el Pueblo
+  - Towards Justice
 resources:
   - text: Solo el Pueblo Salva el Pueblo
     url: https://www.youtube.com/watch?v=L3LyOva0tH0
 ---
-**Additional song lyrics:**
-
-Solo el pueblo salva al pueblo.\
-And if one of us falls we all rise up.
