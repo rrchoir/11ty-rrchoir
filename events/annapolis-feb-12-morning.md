@@ -8,6 +8,7 @@ songs:
   - We Are Many
   - Keep on Moving Forward/Sin Volver Atras
   - We Shall Not Be Moved / No Nos Moveran
+  - We Rise
   - Solo el Pueblo
   - Hold On (my dear ones)
 resources: []
