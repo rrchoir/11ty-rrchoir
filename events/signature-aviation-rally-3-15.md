@@ -9,6 +9,8 @@ songs:
   - If I Had a Hammer
 resources: []
 ---
+**For We Rise** - starting pitch E4
+
 **For Rich Man's House -** starting pitch G3
 
 Note that the RRC lyrics are a bit different from the Resistance Revival Chorus' recording. 
