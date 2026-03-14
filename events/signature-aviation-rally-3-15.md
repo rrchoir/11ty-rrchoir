@@ -1,5 +1,6 @@
 ---
 title: Signature Aviation Rally 3/15
+start_date: 2026-03-15T10:00:00.000-04:00
 summary: Rally with Bend the Arc to ask Signature Airlines to stop deportation flights.
 songs:
   - We Rise
