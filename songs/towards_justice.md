@@ -2,13 +2,13 @@
 title: Towards Justice
 category: general
 credits: Eliana Light
-hints: "Pitch:"
+hints: ""
 tags:
+  - 21stc
   - justice
   - faith
   - spanish
   - guitar
-  - 21stc
   - de-escalation
 notes: >
   Original in Hebrew: Vayigal Ka’mayim, Mishpat, U’tzedakah, K’nachal Eitan   
