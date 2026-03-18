@@ -7,8 +7,10 @@ eleventyNavigation:
   key: Media & Testimonials
   order: 5
 ---
-
 # Testimonials
+
+“I cannot thank the choir enough!!!! it really brought everything together to have song and I so so appreciate your work.” And “I also wanted, from the bottom of my heart, to thank the choir members who came
+to our event and made it so special. It really was a successful morning, and we owe a lot of the spirit to you pink-vested singers.  We are sooo grateful! I love you guys!” – Protest Organizers, March 2026
 
 "I want to thank the RRC for joining with us yesterday. You were splendid! 
 Honestly, in some ways I felt as if you were the soul of this action. " -- J6 Vigil, January, 2026
@@ -25,7 +27,7 @@ Honestly, in some ways I felt as if you were the soul of this action. " -- J6 Vi
 
 “It was amazing to spend a few hours with this wonderful community and the incredible Rapid Response Choir” - 👏👏👏 ” –- @indivisiblepgc.bsky.social, June 2025
 
-“It was great to see you—and hear you [at No Kings Day]. You guys really made the day!” — Riverdale Park No Kings Day organizer, June 2025
+“It was great to see you—and hear you \[at No Kings Day]. You guys really made the day!” — Riverdale Park No Kings Day organizer, June 2025
 
 “Your songs brought the perfect combination of joy, defiance and community to our day.” - Riverdale Park No Kings Day organizer, June 2025
 
@@ -36,5 +38,3 @@ Honestly, in some ways I felt as if you were the soul of this action. " -- J6 Vi
 Press/media should contact us [via this form](https://docs.google.com/forms/d/e/1FAIpQLSesXkHCVsKpSMZQwF1ZZP_i82YaYzKtzB5bdtHUyW6Z9A_24Q/viewform?usp=header)
 
 The RRC has appeared in The Washington Post, The New York Times, The Beltsville News, the CBS Morning News, ABC 7 News DC, Fox News, the Washington Free Beacon, and Reuters.
-
-
