@@ -6,6 +6,7 @@ tags:
   - 21stc
   - resistance
   - justice
+  - freedom
   - sing-along
 ---
 We are the resistance.\
