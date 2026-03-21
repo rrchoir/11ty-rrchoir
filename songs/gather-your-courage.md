@@ -21,13 +21,12 @@ Everybody shake it up (echo) \
 Everybody here (echo) 
 
 Gather your courage into your heart\
-When we're together we can start (x2) 
+When we're together we can start (2x) 
 
 Everybody speak out (echo)\
 Everybody reach our (echo)\
 Everybody shake it up (echo) \
 Everybody here (echo)
-
 
 Gather your courage into your heart\
 When we're together we can start (2x)
