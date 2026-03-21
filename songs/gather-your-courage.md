@@ -21,7 +21,7 @@ Everybody shake it up (echo) \
 Everybody here (echo) 
 
 Gather your courage into your heart\
-When we're together we can start (2x) 
+When we're together we can start
 
 Everybody speak out (echo)\
 Everybody reach our (echo)\
@@ -32,7 +32,7 @@ Gather your courage into your heart\
 When we're together we can start (2x)
 
 Gather this power into our hands\
-Care for each other on these lands (2x)
+Care for each other on these lands 
 
 Gather your courage into your heart\
 When we're together we can start (2x)
