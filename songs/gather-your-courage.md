@@ -9,7 +9,7 @@ tags:
   - singing resistance
 resources:
   - url: https://www.youtube.com/watch?v=l0wA9ykFfA8
-    text: Gather Your Courage song by composers
+    text: Gather Your Courage sung by composers
 ---
 Gather your courage into your heart\
 When we're together we can start (2x) 
