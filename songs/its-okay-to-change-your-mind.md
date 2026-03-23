@@ -15,6 +15,6 @@ Ooh it's okay to change your mind.\
 Show us your courage.\
 Leave this behind.
 
-Ooh it's okay to change your mind.\
+It's okay to change your mind.\
 And you can join us.\
 Join us here anytime.
