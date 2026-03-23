@@ -14,4 +14,4 @@ resources:
 No one is getting left behind this time.\
 No one is getting left behind.\
 No one is getting left behind this time.\
-We get there together, or never get there at all. (x3)
+We get there together, or never get there at all. (3x)
