@@ -17,3 +17,9 @@ resources:
 Solo el pueblo, \
 salva al pueblo.\
 And if one of us falls, we all rise up!
+
+
+
+Only the people,\
+can save the people\
+And if one of us falls, we all rise up!
