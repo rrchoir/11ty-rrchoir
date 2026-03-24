@@ -5,6 +5,6 @@ duration: 2
 summary: No Kings Day - led by the RRC Arlington Chapter
 resources:
   - url: //docs.google.com/document/d/1e9-Y2rQgQz_Jq1HwRZdFzNDGy5JqLO9UsH4m-CBRi8A/edit?usp=drive_link
-    text: Song List
+    text: Song list and lyrics.
 ---
-Find songs and lyrics here: ://docs.google.com/document/d/1e9-Y2rQgQz_Jq1HwRZdFzNDGy5JqLO9UsH4m-CBRi8A/edit?usp=drive_link
+Find songs and lyrics at the below link.
