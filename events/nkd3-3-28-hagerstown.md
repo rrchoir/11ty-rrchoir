@@ -1,6 +1,7 @@
 ---
 title: NKD3 (3/28) Hagerstown
-start_date: 2026-03-28T15:00:00.000-04:00
+start_date: 2026-03-28T13:00:00.000-04:00
+duration: 2
 summary: RRC at No Kings Day in Hagerstown, MD.
 songs:
   - Gather Your Courage
