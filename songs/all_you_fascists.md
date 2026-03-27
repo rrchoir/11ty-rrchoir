@@ -98,5 +98,46 @@ A better world's in sight.\
 You're bound to lose, you fascists, bound to lose.
 
 
-
 \[Chorus x 2]
+
+
+## Bette Midler verses
+
+Hey there, all you fascists  
+Let me put you straight  
+When you come for the rest of us  
+Will fight you at the gate  
+And you will lose   
+you fascists bound to lose  
+
+We’ll battle ICE together  
+Until they cut and run  
+Just like in Minneapolis   
+and when the midterms come  
+You’re bound to lose  
+You fascists bound to lose
+
+_Chorus_
+
+To hell with all the cowards  
+Who hide behind their masks  
+We are gonna win the midterms   
+we’re coming for his ass  
+He knows it too  
+That bastard's bound to lose  
+
+Trying to distract us  
+From the Epstein files  
+You gas and beat and murder us  
+Protecting Pedophiles  
+Let’s turn the screws  
+You pervs are bound to lose  
+
+_Chorus_
+
+America get ready  
+Midterms are at hand  
+We gotta stick together folks  
+And vote to save this land  
+It’s time to choose  
+Those fascists: Bound to lose  
