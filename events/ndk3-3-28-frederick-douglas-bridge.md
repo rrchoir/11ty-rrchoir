@@ -1,5 +1,5 @@
 ---
-title: NDK3 (3/28) Frederick Douglas Bridge
+title: NDK3 (3/28) Frederick Douglass Bridge
 start_date: 2026-03-28T13:00:00.000-04:00
 duration: 2
 summary: No Kings Day 3 at the Frederick Douglas Bridge
