@@ -20,15 +20,14 @@ resources:
 ---
 Oh, give me the strength to bend\
 The arc of the universe\
-Towards justice, towards justice\
+Towards justice, towards justice
+
 Oh, give me the strength to bend\
 The arc of the universe\
 Towards justice, with love, Amen.   
 
 2nd part:\
 In Spanish: Pero corra el juicio como las aguas, y la justicia como impetuoso arroyo  
-
-
 
 For Guitar (In D, Capo on 2nd fret)
 
