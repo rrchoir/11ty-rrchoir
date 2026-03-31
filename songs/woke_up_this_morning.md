@@ -38,7 +38,7 @@ Oh well I'm walking and talking with my mind stayed on freedom … \[ 3x ]
 
 I'm singing and shouting with my mind stayed on freedom … \[ 3x ]
 
-\[ Repeat again with “stayed on justice”]
+\[Repeat with “stayed on justice”]
 
 *Alternative verses for specific events:*
 
