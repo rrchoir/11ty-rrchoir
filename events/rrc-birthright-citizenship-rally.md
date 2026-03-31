@@ -1,5 +1,5 @@
 ---
-title: RRC - Birthright Citizenship Rally
+title: Birthright Citizenship Rally 4/1/26
 start_date: 2026-04-01T10:15:00.000-04:00
 summary: Singing at the We Are CASA rally being held while oral arguments on
   birthright citizenship are being made at the Supreme Court.
