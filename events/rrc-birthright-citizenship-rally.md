@@ -13,4 +13,7 @@ songs:
   - Gather Your Courage
   - We Shall Not Be Moved / No Nos Moveran
   - Woke Up This Morning (Stayed on Freedom)
+resources:
+  - url: https://www.instagram.com/p/DWg_F4-D5cB/
+    text: CASA Flyer about the rally
 ---
