@@ -16,7 +16,7 @@ The RRC is open to everyone. No prior singing experience required. To join, [fil
 Don't want to sing? There are other roles that are needed. Join us anyway!
 
 <!--
-Don't trust Google? Then [fill out our CryptPad form](https://cryptpad.fr/form/#/2/form/view/n7enY2yher1tWinWw4HqDhRGRULjE7YoadxYoewQ6Yc/). -->
+Don't trust Google? Then \[fill out our CryptPad form](https://cryptpad.fr/form/#/2/form/view/n7enY2yher1tWinWw4HqDhRGRULjE7YoadxYoewQ6Yc/). -->
 
 ## What's involved?
 
@@ -43,6 +43,6 @@ New as of September 2025! Practices alternate between Tuesdays and Thursdays.
 
 Started January 2026
 
-### Annapolis
+### Columbus
 
-Starting February 2026
+Started March 2026
