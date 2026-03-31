@@ -43,6 +43,6 @@ New as of September 2025! Practices alternate between Tuesdays and Thursdays.
 
 Started January 2026
 
-### Columbus
+### Columbia
 
 Started March 2026
