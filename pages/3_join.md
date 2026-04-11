@@ -13,16 +13,16 @@ eleventyNavigation:
 
 The RRC is open to everyone. No prior singing experience required, only alignment with our mission statement and core values
 
-To join, 
+We have chapters in Hyattsville/Silver Spring (DC-adjacent), Baltimore, Columbia/Howard County, Arlington and Reston/Herndon. To join...
 
 * [fill out our Jotform](https://form.jotform.com/260385983857071) 
 
-and we'll add you to the announcement email and send info about joining Signal.
+and we'll add you to the announcement email list for your chapter and send info about joining Signal.
 
 Don't want to sing? There are other roles that are needed. Join us anyway!
 
 <!--
-Don't trust Google? Then \\[fill out our CryptPad form](https://cryptpad.fr/form/#/2/form/view/n7enY2yher1tWinWw4HqDhRGRULjE7YoadxYoewQ6Yc/). -->
+Don't trust JotForm? Then \\\[fill out our CryptPad form](https://cryptpad.fr/form/#/2/form/view/n7enY2yher1tWinWw4HqDhRGRULjE7YoadxYoewQ6Yc/). -->
 
 ## What's involved?
 
@@ -47,7 +47,7 @@ Practices alternate between Tuesdays and Thursdays.
 
 ### Northern Virginia
 
-Started January 2026
+Now two chapters: Arlington and Reston/Herndon
 
 ### Columbia
 
