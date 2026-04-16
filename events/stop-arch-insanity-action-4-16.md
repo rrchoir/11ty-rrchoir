@@ -1,5 +1,5 @@
 ---
-title: Stop Arch Insanity Action - 4/16
+title: Stop Arch Insanity - 4/16
 start_date: 2026-04-16T10:00:00.000-04:00
 summary: Protest Trump's proposed arch where the Commission of Fine Arts
   Commission will be considering plans.
