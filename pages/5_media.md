@@ -9,7 +9,7 @@ eleventyNavigation:
 ---
 # Testimonials
 
-" I'm so grateful to you and RRC! Without you all it wouldn't have been much of an event." rotest Organizer, April 2026 
+"I'm so grateful to the RRC! Without you all it wouldn't have been much of an event." rotest Organizer, April 2026 
 
 “I cannot thank the choir enough!!!! It really brought everything together to have song and I so so appreciate your work.” And “I also wanted, from the bottom of my heart, to thank the choir members who came to our event and made it so special. It really was a successful morning, and we owe a lot of the spirit to you pink-vested singers.  We are sooo grateful! I love you guys!” – Protest Organizers, March 2026
 
