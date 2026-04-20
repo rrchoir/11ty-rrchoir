@@ -9,7 +9,7 @@ author: Emma's Revolution
 title: We Are the Power
 category: general
 credits: Pat Humphries and Sandy O, Emma’s Revolution
-hints: G4
+hints: F4
 tags:
   - 21stc
   - protest
