@@ -25,7 +25,7 @@ We are not a**lone** and we grow **strong**er ev’ry **day**.\
 We take down the **ty**rants with our **cou**rage and our **spi**rit.\
 We are **strong** and we grow **strong**er ev’ry **day**.  
 
-\[Chorus]\
+**Chorus**\
 Ev’ry day! Ev’ry day!\
 Fueled by generations we will not obey!\
 Ev’ry day! Ev’ry day!\
