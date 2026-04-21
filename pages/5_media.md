@@ -7,13 +7,11 @@ eleventyNavigation:
   key: Media & Testimonials
   order: 5
 ---
-# Social Media
+## Social Media
 
 Follow us on Instagram: @rapidresponschoir. 
 
-
-
-# Testimonials
+## Testimonials
 
 "I'm so grateful to the RRC! Without you all it wouldn't have been much of an event." Protest Organizer, April 2026 
 
@@ -38,14 +36,12 @@ Honestly, in some ways I felt as if you were the soul of this action. " -- J6 Vi
 
 “Your songs brought the perfect combination of joy, defiance and community to our day.” - Riverdale Park No Kings Day organizer, June 2025
 
+## Media
 
-
-# Media
-
-## For press inquires
+### For press inquires
 
 Press/media should contact us [via this form](https://docs.google.com/forms/d/e/1FAIpQLSesXkHCVsKpSMZQwF1ZZP_i82YaYzKtzB5bdtHUyW6Z9A_24Q/viewform?usp=header)
 
-## News Coverage
+### News Coverage
 
 The RRC has appeared in The Washington Post, The New York Times, The Beltsville News, the CBS Morning News, ABC 7 News DC, Fox News, the Washington Free Beacon, Reuters, MSN Now"s Rachel Maddow.
