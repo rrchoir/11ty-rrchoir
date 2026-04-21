@@ -9,7 +9,7 @@ eleventyNavigation:
 ---
 ## Social Media
 
-Follow us on Instagram: @rapidresponschoir. 
+Follow us on Instagram: [@rapidresponschoir](https://www.instagram.com/rapidresponsechoir/). 
 
 ## Testimonials
 
