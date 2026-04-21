@@ -2,7 +2,7 @@
 title: If I Had a Hammer
 category: general
 credits: Pete Seeger and Lee Hays
-hints: A on "if"
+hints: "Starting pitch: G3"
 tags:
   - core
   - peace
