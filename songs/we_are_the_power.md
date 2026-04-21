@@ -52,7 +52,7 @@ We **raise** our voices **loud**\
 And we grow **strong**er every **day**\
 They **try** to make us **dis**appear\
 But we are **here** and we are **queer**\
-We are **strong** and we grow **strong**er every day  
+We're **strong** and we grow **strong**er every day  
 
 **We** are the **seeds**\
 And we are **nur**tured by the **earth**\
