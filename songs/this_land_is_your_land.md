@@ -2,7 +2,7 @@
 title: This Land Is Your Land
 category: general
 credits: Woodie Guthrie
-hints: "Pitch: C4"
+hints: "Starting pitch: C4"
 tags:
   - core
   - immigrants
