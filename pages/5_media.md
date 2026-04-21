@@ -44,4 +44,4 @@ Press/media should contact us [via this form](https://docs.google.com/forms/d/e/
 
 ### News Coverage
 
-The RRC has appeared in The Washington Post, The New York Times, The Beltsville News, the CBS Morning News, ABC 7 News DC, Fox News, the Washington Free Beacon, Reuters, MSN Now"s Rachel Maddow.
+The RRC has appeared in The Washington Post, The New York Times, The Beltsville News,  CBS News, ABC 7 News DC, Fox News, the Washington Free Beacon, Reuters, WTOP, MSN Now"s Rachel Maddow, National Public Radio, The Banner Montgomery.
