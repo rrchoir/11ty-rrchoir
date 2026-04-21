@@ -25,7 +25,7 @@ When we're together we can start
 
 **Call and response**:\
 Everybody speak out (echo)\
-Everybody reach our (echo)\
+Everybody reach out (echo)\
 Everybody shake it up (echo) \
 Everybody here (echo)
 
