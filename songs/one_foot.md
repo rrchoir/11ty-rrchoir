@@ -2,7 +2,7 @@
 title: Lead with Love
 category: general
 credits: Melanie DeMore
-hints: "Pitch: D"
+hints: "Starting pitch: G3"
 tags:
   - hope
   - core
