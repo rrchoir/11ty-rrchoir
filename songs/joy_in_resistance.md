@@ -2,7 +2,7 @@
 title: Joy in Resistance
 category: general
 credits: Abena Koomson-Davis / Resistance Revival Chorus
-hints: ~D~ G
+hints: "Starting pitch: C"
 tags:
   - core
   - protest
