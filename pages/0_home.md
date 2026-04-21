@@ -7,7 +7,6 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-
 ![](/static/img/nyt_header.jpg)
 
 # Rapid Response Choir
@@ -22,13 +21,12 @@ The Rapid Response Choir sings for truth, justice, and democracy – we stand ag
 
 Through inspiring, non-violent performances, we seek to:
 
-* Generate and amplify public disapproval of dangerous and illegal policies, and efforts to dismantle democracy..
+* Generate and amplify public disapproval of dangerous and illegal policies, and efforts to dismantle democracy.
 * Express outrage, bear witness, and call attention to injustices.
 * Model “joy in resistance” to those uncertain of what to do, inspiring them to take action.
 * Lend strength and show love to targeted communities and individuals.
 
 When authoritarian forces seek to harm our neighbors and friends, the Rapid Response Choir will be there to sing truth to power.
-
 
 ## No Kings Day
 
