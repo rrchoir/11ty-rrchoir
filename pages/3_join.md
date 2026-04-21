@@ -39,7 +39,7 @@ We encourage coming to practices, as we practice event tactics as well as music.
 
 ### Hyattsville / Silver Spring (Also many DC members)
 
-Our charter chapter! We practice most Tuesdays in central Hyattsville.
+Our charter chapter! We practice most Tuesdays in central Hyattsville and a couple of Sundays a month in Downtown Silver Spring.
 
 ### Baltimore
 
