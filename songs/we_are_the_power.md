@@ -29,7 +29,7 @@ We are **strong** and we grow **strong**er ev’ry **day**.
 Ev’ry day! Ev’ry day!\
 Fueled by generations we will not obey!\
 Ev’ry day! Ev’ry day!\
-We are strong, and we grow stronger ev'ry day
+We are **strong**, and we grow **stronge**r ev'ry **day**
 
 We are the **work**ers, built this **na**tion from the **ground**.\
 We can shut this whole thing **down** and we grow **strong**er ev’ry **day**\
@@ -52,7 +52,7 @@ We **raise** our voices **loud**\
 And we grow **strong**er every **day**\
 They **try** to make us **dis**appear\
 But we are **here** and we are **queer**\
-We are **strong** and we grow **strong**er ev’ry day  
+We are **strong** and we grow **strong**er ev’ry **day**  
 
 **We** are the **seeds**\
 And we are **nur**tured by the **earth**\
@@ -60,4 +60,4 @@ In the **dark**ness is re**birth**\
 And we grow **strong**er every **day**\
 **We** will sing and **shout**\
 Until we **force** the rich boys **out**\
-We are **strong** and we grow **strong**er ev’ry day
+We are **strong** and we grow **strong**er ev’ry **day**
