@@ -1,6 +1,6 @@
 ---
 title: Union Holiday Carols Medley
-category: general
+category: attic
 credits: Lyrics by Julie McCall
 tags:
   - parody
