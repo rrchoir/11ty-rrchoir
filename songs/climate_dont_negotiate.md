@@ -1,6 +1,6 @@
 ---
 title: The Climate Don't Negotiate
-category: general
+category: attic
 credits: Alice / Melting Virgo
 tags:
   - climate
