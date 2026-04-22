@@ -1,6 +1,6 @@
 ---
 title: Share the Dough (Let it Snow)
-category: general
+category: attic
 credits: "Original: Jule Styne; Parody Lyrics: Julie McCall, "
 tags:
   - parody
