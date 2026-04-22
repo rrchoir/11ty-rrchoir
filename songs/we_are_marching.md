@@ -30,7 +30,7 @@ We are marching in the light of Truth.\
 We are marching, we are marching. (*ooh*)\
 We are marching in the light of Truth.  
 
-Siyahamba <font size='small'>e</font>kukha-nyeni kwenkos  
+Siyahamba <font size="-1">e</font>kukha-nyeni kwenkos  
 
 Caminando por la verdad [ *4x* ]\
     *(or luz de Díos)*\
