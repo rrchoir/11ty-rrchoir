@@ -1,5 +1,5 @@
 ---
-title: Leaving on an ICE plane
+title: Leaving on an ICE Plane
 category: general
 credits: John Denver (1971), new lyrics by F. Becker
 hints: "Accompaniment intro: C F G G7"
