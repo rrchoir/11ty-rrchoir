@@ -1,6 +1,6 @@
 ---
 title: The Government Works For Us
-category: general
+category: attic
 credits: Parody Lyrics by Bailey Myers
 tags:
   - parody
