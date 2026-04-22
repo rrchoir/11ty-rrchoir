@@ -1,6 +1,6 @@
 ---
 title: Lean On Me
-category: general
+category: attic
 credits: Bill Withers
 hints: "[Intro (C♯ or D)]"
 tags:
