@@ -1,6 +1,6 @@
 ---
 title: Both Sides Now
-category: general
+category: attic
 credits: Joni Mitchell
 hints: Key of F#
 tags:
