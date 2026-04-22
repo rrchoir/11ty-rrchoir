@@ -1,6 +1,6 @@
 ---
 title: So Long It's Been Good to Know Ya  (Fed Workers)
-category: general
+category: attic
 credits: Parody lyrics by Peter Burkholder
 tags:
   - parody
