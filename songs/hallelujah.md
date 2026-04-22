@@ -1,6 +1,6 @@
 ---
 title: Hallelujah
-category: general
+category: attic
 credits: Leonard Cohen
 hints: "Pitch: k.d. lang does this in E (capo 4), Buckley in C or C# (capo 1)"
 tags:
