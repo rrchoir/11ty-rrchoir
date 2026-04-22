@@ -34,7 +34,7 @@ We are strong, and we grow stronger ev'ry day
 We are the **work**ers, built this **na**tion from the **ground**.\
 We can shut this whole thing **down** and we grow **strong**er ev’ry **day**\
 Their **mon**ey and their greed won’t bring the **peo**ple what they need.  \
-We are the **strong** and we grow **strong**er ev’ry **day**. 
+We are **strong** and we grow **strong**er ev’ry **day**. 
 
 *Chorus*  
 
@@ -44,7 +44,7 @@ We rise **up** from solid **ground**\
 And we grow **strong**er every **day**\
 We **won’t** give up the **fight**\
 For our **bod**ies and our **rights**\
-We are **strong** and we grow **strong**er every **day**  
+We are **strong** and we grow **strong**er ev’ry **day**  
 
 **We** are a **rain**bow\
 **Beau**tiful and **proud**\
@@ -52,7 +52,7 @@ We **raise** our voices **loud**\
 And we grow **strong**er every **day**\
 They **try** to make us **dis**appear\
 But we are **here** and we are **queer**\
-We're **strong** and we grow **strong**er every day  
+We are **strong** and we grow **strong**er ev’ry day  
 
 **We** are the **seeds**\
 And we are **nur**tured by the **earth**\
@@ -60,4 +60,4 @@ In the **dark**ness is re**birth**\
 And we grow **strong**er every **day**\
 **We** will sing and **shout**\
 Until we **force** the rich boys **out**\
-We are **strong** and we grow **strong**er every day
+We are **strong** and we grow **strong**er ev’ry day
