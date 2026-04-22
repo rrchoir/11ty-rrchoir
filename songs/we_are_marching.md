@@ -2,7 +2,7 @@
 title: We Are Marching / Siyahamba
 category: general
 credits: Xhosa 20th c.
-hints: "Starting pitches:  A-A-F#-F#"
+hints: "Acapella starting pitches:  A3-A3-F#4-F#4"
 tags:
   - core
   - spanish
