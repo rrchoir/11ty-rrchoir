@@ -1,6 +1,6 @@
 ---
 title: Pink Choir Vest
-category: general
+category: attic
 credits: Chappell Roan / Peter Burkholder (lyrics)
 hints: (Key G)
 tags:
