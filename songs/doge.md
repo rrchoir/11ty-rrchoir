@@ -1,6 +1,6 @@
 ---
 title: DOGE is to Blame
-category: general
+category: attic
 credits: Parody lyrics by Nikki Nesbary
 tags:
   - parody
