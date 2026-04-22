@@ -4,7 +4,6 @@ category: general
 credits: Florence Reece
 hints: 'Pitch: D "Come"'
 tags:
-  - core
   - workers
   - protest
   - 20thc
