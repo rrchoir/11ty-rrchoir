@@ -1,6 +1,6 @@
 ---
 title: We Are Many
-category: general
+category: attic
 credits: Katie Eckeberger
 tags:
   - 21stc
