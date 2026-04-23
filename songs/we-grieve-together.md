@@ -1,6 +1,6 @@
 ---
 title: We Grieve Together
-category: general
+category: attic
 credits: ""
 tags:
   - 21stc
