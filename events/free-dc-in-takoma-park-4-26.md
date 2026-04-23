@@ -5,6 +5,14 @@ summary: The RRC will be kicking off the musical line up at the Activist Street
   Fair by Free DC.
 songs:
   - Keep on Moving Forward/Sin Volver Atras
-  - We Are Many
   - We Are the Power
+  - Singing Resistance Songs
+  - We Rise
+  - Epstein Files
+  - Carry This All
+  - Gather Your Courage
+  - Lead with Love
+  - Solo el Pueblo
+  - Joy in Resistance
 ---
+We Don't Want No Camps and It's Okay to Change Your Mind appear on the Singing Resistance Songs page.
