@@ -1,6 +1,6 @@
 ---
 title: We Are Here
-category: general
+category: attic
 credits: Sarina Partridge
 tags:
   - Hope
