@@ -7,6 +7,7 @@ tags:
   - de-escalation
   - Singing Resistance
   - immigrants
+  - sing-along
 notes: Inspired by a poem by Nikita Gill
 resources:
   - url: https://www.patreon.com/posts/we-belong-to-149125460?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link
