@@ -1,6 +1,6 @@
 ---
 title: This Is For Our Neighbors
-category: general
+category: attic
 credits: Lu Aya of the Peace Poets 
 tags:
   - 21stc
