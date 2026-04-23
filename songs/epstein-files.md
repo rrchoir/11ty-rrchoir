@@ -5,7 +5,7 @@ credits: Parody lyrics by Shirley Șerban
 tags:
   - parody
   - sing-along
-notes: Tune of "Edelweiss" by Rogers & Hammerstein from The Sound of Music
+notes: Sung to the tune of "Edelweiss" by Rogers & Hammerstein from The Sound of Music
 resources:
   - url: https://www.youtube.com/watch?v=jV9mEkvJAbE
     text: Shirley Șerban original video (YouTube)
