@@ -8,6 +8,7 @@ tags:
   - friendship
   - resistance
   - Singing Resistance
+  - sing-along
 resources:
   - text: I Send My Hope sung by Jordan Mudd with harmonies
     url: https://jordanmuddsings.bandcamp.com/track/i-send-my-hope
