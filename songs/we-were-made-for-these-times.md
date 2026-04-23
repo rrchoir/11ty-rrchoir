@@ -1,6 +1,6 @@
 ---
 title: "We Were Made for These Times "
-category: general
+category: attic
 credits: Music by Angela Gabriel
 tags:
   - 21stc
