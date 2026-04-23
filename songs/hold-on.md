@@ -4,6 +4,7 @@ category: general
 credits: By Heidi Wilson
 tags:
   - 21stc
+  - core
   - de-escalation
   - resistance
   - faith
