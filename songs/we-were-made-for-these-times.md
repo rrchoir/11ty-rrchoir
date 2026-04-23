@@ -6,6 +6,7 @@ tags:
   - 21stc
   - hope
   - Singing Resistance
+  - sing-along
 notes: Lyrics were inspired by Clarisa Pinkola Estés in her powerful piece,
   "Letter To A Young Activist During Troubled Times"
 resources:
