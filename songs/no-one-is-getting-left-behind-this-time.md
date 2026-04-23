@@ -1,6 +1,6 @@
 ---
 title: No One Is Getting Left Behind This Time
-category: general
+category: attic
 credits: Joshua Blaine
 tags:
   - 21stc
