@@ -1,6 +1,6 @@
 ---
 title: Which Side Are You On?
-category: general
+category: attic
 credits: Florence Reece
 hints: 'Pitch: D "Come"'
 tags:
