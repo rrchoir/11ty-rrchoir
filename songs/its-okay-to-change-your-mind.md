@@ -1,9 +1,10 @@
 ---
 title: It's Okay to Change Your Mind
-category: attic
+category: general
 credits: "Annie Schlaefer "
 tags:
   - 21stc
+  - core
   - de-escalation
   - Singing Resistance
   - sing-along
