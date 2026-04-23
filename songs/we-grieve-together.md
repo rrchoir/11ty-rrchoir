@@ -7,6 +7,7 @@ tags:
   - grief
   - immigrants
   - Singing Resistance
+  - sing-along
 resources:
   - url: https://rapidresponsechoir.org/static/img/we_grieve_together.mp4
     text: We Grieve Together (mp4)
