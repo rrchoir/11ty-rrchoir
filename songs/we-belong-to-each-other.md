@@ -1,6 +1,6 @@
 ---
 title: We Belong to Each Other
-category: general
+category: attic
 credits: Annie Schlaefer
 tags:
   - 21stc
