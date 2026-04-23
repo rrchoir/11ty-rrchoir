@@ -1,6 +1,6 @@
 ---
 title: It's Okay to Change Your Mind
-category: general
+category: attic
 credits: "Annie Schlaefer "
 tags:
   - 21stc
