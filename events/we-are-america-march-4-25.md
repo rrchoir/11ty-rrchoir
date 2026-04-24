@@ -11,5 +11,7 @@ songs:
   - Lead with Love
   - If I Had a Hammer
   - Rich Man's House
+  - Singing Resistance Songs
 resources: []
 ---
+We Don't Want No Camps is on the Singing Resistance Songs page.
