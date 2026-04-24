@@ -46,9 +46,9 @@ Sign was painted, said, "Private Property"\
 But on the back side, it didn't say nothing\
 That side was made for you and me  
 
-When the sun comes shining, then I was strolling\
+When the sun come shining, and I was strolling\
 And the wheat fields waving and the dust clouds rolling\
-As the fog the fog was lifting a voice was chanting\
+As the fog the fog was lifting, a voice was chanting,\
 This land was made for you and me  
 
 \[Repeat 1st verse.:  ]
