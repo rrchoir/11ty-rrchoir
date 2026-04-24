@@ -32,23 +32,23 @@ From the Redwood Forest to the Gulf Stream Waters\
 This land was made for you and me  
 
 As I went walking that ribbon of highway\
-And I saw above me that endless skyway\
+I saw above me that endless skyway\
 I saw below me that golden valley\
 This land was made for you and me  
 
 I roamed and rambled and I followed my footsteps\
 To the sparkling sands of her diamond deserts\
-All around me a voice was a-sounding\
+All around me a voice was sounding\
 This land was made for you and me  
 
 There was a big high wall there that tried to stop me\
 Sign was painted, said, "Private Property"\
 But on the back side, it didn't say nothing\
-This land was made for you and me  
+That side was made for you and me  
 
 When the sun comes shining, then I was strolling\
 And the wheat fields waving and the dust clouds rolling\
-A voice come chanting as the fog was lifting\
+As the fog the fog was lifting a voice was chanting\
 This land was made for you and me  
 
 \[Repeat 1st verse.:  ]
