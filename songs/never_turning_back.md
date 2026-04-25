@@ -13,10 +13,10 @@ tags:
   - zipper
 notes: >-
   Pat Humphries (of Emma's Revolution) wrote this song in 1984 as "Keep on
-  Walking Forward".
+  Walking Forward."
 
 
-  She was heading for a song workshop camp that was taking place atop a hill that seemed "insurmountable". As she struggled up the path, she chanted to herself "You can't turn back, you can't turn back". At the workshop that evening, she developed that into the song. New verses have been added by Charlie King, Judy Small, and others.
+  She was heading for a song workshop camp that was taking place atop a hill that seemed "insurmountable." As she struggled up the path, she chanted to herself "You can't turn back, you can't turn back." At the workshop that evening, she developed that into the song. New verses have been added by Charlie King, Judy Small, and others.
 resources:
   - url: https://songsfordemocracy.bandcamp.com/track/keep-on-moving-forward-emmas-revolution-california
     text: Emma's Revolution (Bandcamp)
