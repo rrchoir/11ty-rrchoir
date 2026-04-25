@@ -2,7 +2,7 @@
 title: Rich Man's House
 category: general
 credits: " Anne Feeney and the Kensington Welfare Rights Union (KWRU)"
-hints: "Pitch: C"
+hints: "Starting pitches: A3-C4"
 tags:
   - poverty
   - resistance
