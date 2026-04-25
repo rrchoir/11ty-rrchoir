@@ -23,22 +23,22 @@ resources:
 ---
 *Chords*: G D G / C G D G
 
-We are marching in the light of Truth. \[ 4x ]\
+We are **march**ing in the light of **truth**. \[ 4x ]\
    *(or light of God)*\
 We are marching, we are marching. (*ooh*)\
-We are marching in the light of Truth.\
+We are marching in the light of truth.\
 We are marching, we are marching. (*ooh*)\
-We are marching in the light of Truth.  
+We are marching in the light of truth.  
 
-Siyahamba <font size="-2">e</font>kukha-nyeni kwenkos  
+Siya**ha**mba c**kuk**ha-**nyen**i kwenkos  
 
-Caminando por la verdad [ *4x* ]\
+Cami**nan**do por **la** ver**dad** [ *4x* ]\
     *(or luz de Díos)*\
 Caminando, caminando (*ooh*)\
 Caminando por la verdad\
 Caminando, caminando (*ooh*)\
 Caminando por la verdad  
 
-We are singing for liberty...
+We are **sing**ing for **lib**er**ty**...
 
-Cantando por la libertad ...
+Can**tan**do por la **lib**er**tad** ...
