@@ -13,6 +13,6 @@ songs:
   - Gather Your Courage
   - Lead with Love
   - Solo el Pueblo
-  - Joy in Resistance
+  - Hold On (my dear ones)
 ---
-We Don't Want No Camps and It's Okay to Change Your Mind appear on the Singing Resistance Songs page.
+We are Many and We Don't Want No Camps appear on the Singing Resistance Songs page.
