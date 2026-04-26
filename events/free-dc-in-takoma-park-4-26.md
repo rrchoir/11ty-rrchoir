@@ -14,5 +14,6 @@ songs:
   - Lead with Love
   - Solo el Pueblo
   - Hold On (my dear ones)
+  - It's Okay to Change Your Mind
 ---
 We are Many and We Don't Want No Camps appear on the Singing Resistance Songs page.
