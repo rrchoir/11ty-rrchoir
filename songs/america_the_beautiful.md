@@ -18,13 +18,13 @@ notes: >-
   best lives: These are all the heroes and patriots that make America beautiful.
 
 
-  Bates wrote the poem "Pike's Peak" in 1895. Ward composed the hymn "Materna" in 1883. The two were brought together as "America the Beautiful" and published in 1910 by Oliver Ditson & Co. 
+  **Background:** Bates wrote the poem "Pike's Peak" in 1895. Ward composed the hymn "Materna" in 1883. The two were brought together as "America the Beautiful" and published in 1910 by Oliver Ditson & Co. 
 
 
   Jesse Palidofsky and John Morris wrote the last 2 verses about immigrants and working people for the 2020 elections.
 
 
-  Song leaders: Choose whichever verses are best suited to the occasion.
+  **Song leaders:** Choose whichever verses are best suited to the occasion.
 resources:
   - url: https://jessepalidofsky1.bandcamp.com/track/america-the-beautiful
     text: Jesse Palidofsky recording (Bandcamp)
