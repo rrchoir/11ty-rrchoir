@@ -8,7 +8,7 @@ tags:
 notes: Sung to the tune of Ode to Joy.
 resources:
   - text: Peter Seeger (2nd verse @ 1 minute)
-    url: https://www.youtube.com/watch?v=qwR_px0k_3w&t=86s
+    url: https://www.youtube.com/watch?v=qwR_px0k_3w&t=68s
 ---
 Build the road of peace before us \
 Build it wide and deep and long\
