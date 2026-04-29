@@ -1,7 +1,7 @@
 ---
 title: Build the Road
 category: general
-credits: "Music: Beethoven Lyrics: Josephine Daskam Bacon"
+credits: Music by Beethoven, Lyrics by Josephine Daskam Bacon
 tags:
   - peace
   - workers
