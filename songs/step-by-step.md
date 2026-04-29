@@ -1,6 +1,6 @@
 ---
 title: Step by Step
-category: sandbox
+category: general
 credits: Pete Seeger
 tags:
   - 20thc
