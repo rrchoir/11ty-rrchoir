@@ -13,6 +13,7 @@ tags:
   - zipper
   - immigrant
   - grief
+  - justice
 resources:
   - url: https://jordanmuddsings.bandcamp.com/track/i-send-my-hope
     text: I Send My Hope
