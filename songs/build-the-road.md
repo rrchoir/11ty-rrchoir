@@ -1,6 +1,6 @@
 ---
 title: Build the Road (Hymn to Nations)
-category: general
+category: attic
 credits: Music by Beethoven, Lyrics by Josephine Daskam Bacon
 tags:
   - peace
