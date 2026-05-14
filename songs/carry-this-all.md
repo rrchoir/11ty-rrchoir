@@ -14,6 +14,8 @@ resources:
     url: https://www.youtube.com/watch?v=uBhCFsatU0Y
   - text: Sheet music PDF
     url: /static/img/carry_this_all.pdf
+  - text: Recording in Spanish (Bandcamp)
+    url: https://ahlayblakely.bandcamp.com/track/la-carga
 summary: |
   https://www.healingattheroots.com/carrythisall
 author: Alexandra "Ahlay" Blakely
@@ -40,4 +42,9 @@ So,\
 **Ca**rry this \
 **All** alone.
 
-[](https://ahlayblakely.bandcamp.com/track/carry-this-all-2)
+**In Spanish:**
+
+No llevas esto solo tú
+no, no llevas esto solo tú
+La carga no es para un solo ser, así que
+no llevas esto solo tú
