@@ -42,9 +42,11 @@ So,\
 **Ca**rry this \
 **All** alone.
 
+
+
 **In Spanish:**
 
-No llevas esto solo tú
-no, no llevas esto solo tú
-La carga no es para un solo ser, así que
+No llevas esto solo tú\
+no, no llevas esto solo tú\
+La carga no es para un solo ser, así que\
 no llevas esto solo tú
