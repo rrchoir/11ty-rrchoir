@@ -1,7 +1,8 @@
 ---
 title: 86 the Arch - 5/25
 start_date: 2026-05-25T09:30:00.000-04:00
-summary: Educate people that the proposed Trump Arch is disrespectful to verterans.
+summary: Educate people that the proposed Trump "Triumphal Arch" is
+  disrespectful to veterans.
 songs:
   - America the Beautiful
   - Carry This All
