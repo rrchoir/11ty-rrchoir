@@ -1,0 +1,18 @@
+---
+title: 86 the Arch - 5/25
+start_date: 2026-05-25T09:30:00.000-04:00
+summary: Educate people that the proposed Trump Arch is disrespectful to verterans.
+songs:
+  - America the Beautiful
+  - Carry This All
+  - If I Had a Hammer
+  - Heart Wide Open
+  - Hope Lingers On
+  - Lead with Love
+  - Meditation on Breathing
+  - Singing Resistance Songs
+  - This Land Is Your Land
+  - This Little Light
+  - Towards Justice
+---
+You can find lyrics and audio links to No One is Getting Left Behind and We Belong to Each Other on the Singing Resistance Songs page.
