@@ -85,7 +85,7 @@ just like we are theirs.\
 We belong to them, and they belong to us.
 
 \
-**We Don't Want No Camps** by Amanda\
+**We Don't Want No Camps** by Amanda (starting pitch A3)\
 We don't want no camps. (3x)\
 You can stop this violence.\
 We don't want no camps\
