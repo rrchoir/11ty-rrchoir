@@ -14,6 +14,7 @@ tags:
   - immigrant
   - grief
   - justice
+notes: For additional Singing Resistance Songs, select the tag "Singing Resistance."
 resources:
   - url: https://jordanmuddsings.bandcamp.com/track/i-send-my-hope
     text: I Send My Hope
