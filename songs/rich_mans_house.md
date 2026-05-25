@@ -33,7 +33,8 @@ Took back what he stole from me\
 (Took it back)\
 Took back my dignity\
 (Took it back)\
-Took back my humanity [*repeat*]
+Took back my humanity \
+[*repeat*]
 
 Now we’re out in the streets,
 out in the streets,
