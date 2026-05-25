@@ -2,7 +2,7 @@
 title: Gather Your Courage
 category: general
 credits: Coco Love Alcorn with Moira, Màiri and Adah
-hints: "Starting pitch: A3"
+hints: "Starting pitch: A3 or C4"
 tags:
   - 21stc
   - resistance
