@@ -21,17 +21,14 @@ Everybody rise up (echo) \
 Everybody shake it up (echo) \
 Everybody here (echo) 
 
-Gather your courage into your heart\
-When we're together we can start
+Gather this power into our hands\
+Care for each other on these lands (2x)
 
 **Call and response**:\
 Everybody speak out (echo)\
 Everybody reach out (echo)\
 Everybody shake it out (echo) \
 Everybody here (echo)
-
-Gather this power into our hands\
-Care for each other on these lands (2x)
 
 Gather your courage into your heart\
 When we're together we can start (2x)
