@@ -13,14 +13,16 @@ Follow us on Instagram: [@rapidresponschoir](https://www.instagram.com/rapidresp
 
 ## Testimonials
 
-"I'm so grateful to the RRC! Without you all it wouldn't have been much of an event." Protest Organizer, April 2026 
+"We so appreciate that you brought music to our protest. Since you’d agreed to appear at 2 different actions on the same day with distinctive audiences, I was struck by how truly thoughtful and caring you all are when considering what to sing." — Protest Organizer May 2026
 
-“I cannot thank the choir enough!!!! It really brought everything together to have song and I so so appreciate your work.” And “I also wanted, from the bottom of my heart, to thank the choir members who came to our event and made it so special. It really was a successful morning, and we owe a lot of the spirit to you pink-vested singers.  We are sooo grateful! I love you guys!” – Protest Organizers, March 2026
+"I'm so grateful to the RRC! Without you all it wouldn't have been much of an event." — Protest Organizer, April 2026 
+
+“I cannot thank the choir enough!!!! It really brought everything together to have song and I so so appreciate your work.” And “I also wanted, from the bottom of my heart, to thank the choir members who came to our event and made it so special. It really was a successful morning, and we owe a lot of the spirit to you pink-vested singers.  We are sooo grateful! I love you guys!” — Protest Organizers, March 2026
 
 "I want to thank the RRC for joining with us yesterday. You were splendid! 
-Honestly, in some ways I felt as if you were the soul of this action. " -- J6 Vigil, January, 2026
+Honestly, in some ways I felt as if you were the soul of this action. " – J6 Vigil, January, 2026
 
-"All thanks to you and the entire choir for your fantastic participation in Sunday’s forum.  We received so many compliments for your setting the spirit of the discussion.  People were genuinely happy you came and performed. Our thanks, my thanks, for bringing everyone together." -- Takoma Park Mobilization, September, 2025.
+"All thanks to you and the entire choir for your fantastic participation in Sunday’s forum.  We received so many compliments for your setting the spirit of the discussion.  People were genuinely happy you came and performed. Our thanks, my thanks, for bringing everyone together." – Takoma Park Mobilization, September, 2025.
 
 “Loved the choir. I didn’t realize how much I would. It makes a real difference and makes it feel more of a community effort to make the world we want instead of just a lot of pissed off people with signs.” — Protest Participant, 2025
 
@@ -34,7 +36,7 @@ Honestly, in some ways I felt as if you were the soul of this action. " -- J6 Vi
 
 “It was great to see you—and hear you \[at No Kings Day]. You guys really made the day!” — Riverdale Park No Kings Day organizer, June 2025
 
-“Your songs brought the perfect combination of joy, defiance and community to our day.” - Riverdale Park No Kings Day organizer, June 2025
+“Your songs brought the perfect combination of joy, defiance and community to our day.” — Riverdale Park No Kings Day organizer, June 2025
 
 ## Media
 
