@@ -5,12 +5,12 @@ credits: By Pat Humphries; Spanish translation by Liliana Herrera and others
 hints: "Starting pitch: G3"
 tags:
   - core
-  - spanish
+  - Spanish
   - immigrants
   - sing-along
   - protest
   - 20thc
-  - zipper
+  - zipperfamily
 notes: >-
   Pat Humphries (of Emma's Revolution) wrote this song in 1984 as "Keep on
   Walking Forward."
