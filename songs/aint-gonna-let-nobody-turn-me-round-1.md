@@ -23,4 +23,4 @@ Ain't gonna let nobody turn me 'round \
 I'm gonna keep on a walkin', keep on a-talkin'\
 Gonna build a brand new world
 
-Zipper options:  hatred, the administration, racism, injustice, ICE agents
+Zipper options:  Ain't gonna let no hatred, the administration, no racism, injustice, ICE agents
