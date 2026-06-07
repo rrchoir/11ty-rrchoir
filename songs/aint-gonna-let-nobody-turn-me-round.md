@@ -1,6 +1,6 @@
 ---
 title: "Ain't Gonna Let Nobody Turn Me 'Round "
-category: sandbox
+category: general
 credits: Traditional civil rights song
 tags:
   - Protest
