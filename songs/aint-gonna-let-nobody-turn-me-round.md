@@ -2,7 +2,7 @@
 title: "Ain't Gonna Let Nobody Turn Me 'Round "
 category: general
 credits: Traditional civil rights song
-hints: Starting pitch G4
+hints: Starting pitch E4
 tags:
   - Protest
   - zipper
