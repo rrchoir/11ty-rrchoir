@@ -4,9 +4,9 @@ category: general
 credits: ""
 tags:
   - 21stc
-  - Singing Resistance
-  - Hope
-  - De-escalation
+  - singing resistance
+  - hope
+  - de-escalation
   - resistance
   - faith
   - sing-along
