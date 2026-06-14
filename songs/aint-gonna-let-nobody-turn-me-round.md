@@ -4,7 +4,7 @@ category: general
 credits: Traditional civil rights song
 hints: Starting pitch E4
 tags:
-  - Protest
+  - protest
   - zipper
   - justice
   - freedom
