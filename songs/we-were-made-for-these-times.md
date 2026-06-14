@@ -5,7 +5,7 @@ credits: Music by Angela Gabriel
 tags:
   - 21stc
   - hope
-  - Singing Resistance
+  - singing sesistance
   - sing-along
 notes: Lyrics were inspired by Clarisa Pinkola Estés in her powerful piece,
   "Letter To A Young Activist During Troubled Times"
