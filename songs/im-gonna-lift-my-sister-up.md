@@ -3,7 +3,7 @@ title: I'm Gonna Lift My Sister Up
 category: sandbox
 credits: Faya Ora Rose Touré
 tags:
-  - Friendship
+  - friendship
   - zipper
 resources:
   - text: First Unitarian Brooklyn
