@@ -3,7 +3,7 @@ title: Rising Strong
 category: sandbox
 credits: Heather Houston (2018)
 tags:
-  - Protest
+  - protest
   - defiant
 resources:
   - url: https://www.youtube.com/watch?v=t2ahPCrP9Ic
