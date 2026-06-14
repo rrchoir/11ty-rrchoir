@@ -4,7 +4,7 @@ category: general
 credits: Lissa Schneckenburger (2018)
 hints: "Starting note: C3, Key: A flat"
 tags:
-  - Hope
+  - hope
   - justice
 notes: Lissa was a member of the Vermont-based trio Low
   Lily: [www.lowlily.com](https://www.lowlily.com/)
