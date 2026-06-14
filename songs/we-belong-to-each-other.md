@@ -5,7 +5,7 @@ credits: Annie Schlaefer
 tags:
   - 21stc
   - de-escalation
-  - Singing Resistance
+  - singing resistance
   - immigrants
   - sing-along
 notes: Inspired by a poem by Nikita Gill
