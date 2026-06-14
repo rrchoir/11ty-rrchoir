@@ -6,7 +6,7 @@ tags:
   - 21stc
   - core
   - de-escalation
-  - Singing Resistance
+  - singing resistance
   - sing-along
 resources:
   - url: https://www.patreon.com/posts/its-okay-to-your-149541284?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link
