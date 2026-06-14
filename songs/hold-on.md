@@ -9,7 +9,7 @@ tags:
   - resistance
   - faith
   - hope
-  - Singing Resistance
+  - singing resistance
   - sing-along
 resources:
   - url: https://www.facebook.com/justicechoir/videos/learn-the-songs-minnesota-is-singing-right-now-hold-on-by-heidi-wilson-lyrics-ho/1419014299705465/
