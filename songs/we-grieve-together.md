@@ -6,7 +6,7 @@ tags:
   - 21stc
   - grief
   - immigrants
-  - Singing Resistance
+  - singing resistance
   - sing-along
 resources:
   - url: https://rapidresponsechoir.org/static/img/we_grieve_together.mp4
