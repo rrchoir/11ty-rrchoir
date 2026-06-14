@@ -8,7 +8,8 @@ tags:
   - Hope
   - De-escalation
   - resistance
-  - faith.sing-along
+  - faith
+  - sing-along
   - protest
   - zipper
   - immigrant
