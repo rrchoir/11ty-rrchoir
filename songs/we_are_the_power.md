@@ -1,15 +1,15 @@
 ---
 Pitch: A♭
+title: We Are the Power
+category: general
+credits: Pat Humphries and Sandy O, Emma’s Revolution
+hints: F4
 resources:
   - url: https://www.dropbox.com/scl/fi/nu03c5t4k614i9jprht8o/We-Are-the-Power-Emma-s-Revolution.wav?rlkey=qz4p8bi24q5rb6a4uxl2rj995&e=1&st=8dfudfb6&dl=0
     text: Audio Recording
   - url: https://www.youtube.com/watch?v=x6zrjDjxmIk
     text: Emma's Revolution recording (YouTube)
 author: Emma's Revolution
-title: We Are the Power
-category: general
-credits: Pat Humphries and Sandy O, Emma’s Revolution
-hints: F4
 tags:
   - 21stc
   - protest
@@ -39,7 +39,7 @@ We are **strong** and we grow **strong**er ev’ry **day**.
 *Chorus*  
 
 **We** are the **wo**men,\
-They will **ne**ver take us **down**\
+They will **ne**ver take us **down** \
 We rise **up** from solid **ground**\
 And we grow **strong**er every **day**\
 We **won’t** give up the **fight**\
