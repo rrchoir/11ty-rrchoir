@@ -5,7 +5,7 @@ credits: Katie Eckeberger
 tags:
   - 21stc
   - immigrant
-  - Singing Resistance
+  - singing resistance
   - sing-along
 resources:
   - url: https://www.instagram.com/reel/DT4L2a4DA_X/?igsh=MWpieWFmeXZ6b3RhOQ%3D%3D
