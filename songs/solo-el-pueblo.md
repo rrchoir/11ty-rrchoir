@@ -4,8 +4,8 @@ category: general
 credits: The Peace Poets and Francisco Herrera
 tags:
   - 21sc
-  - Spanish
-  - Defiant
+  - spanish
+  - defiant
   - resistance
   - singing resistance
   - sing-along
