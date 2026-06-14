@@ -5,7 +5,7 @@ credits: Joshua Blaine
 tags:
   - 21stc
   - hope
-  - Singing Resistance
+  - singing resistance
   - sing-along
 resources:
   - url: https://www.patreon.com/posts/63841347?utm_campaign=postshare_creator
