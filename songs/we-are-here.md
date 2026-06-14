@@ -3,10 +3,10 @@ title: We Are Here
 category: attic
 credits: Sarina Partridge
 tags:
-  - Hope
+  - hope
   - grief
   - resistance
-  - Singing Resistance
+  - singing resistance
 resources:
   - url: https://www.instagram.com/reel/DUb_52Jj0Y4/
     text: We Are Here video
