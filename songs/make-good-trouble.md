@@ -3,7 +3,7 @@ title: Make Good Trouble
 category: sandbox
 credits: Elizabeth Melvin (2022)
 tags:
-  - Protest
+  - protest
   - justice
 notes: 'Lyrics are inspired by a tweet by Senator John Lewis, a civil rights
   leader, on June 27 2018: "Do not get lost in a sea of despair. Be hopeful, be
