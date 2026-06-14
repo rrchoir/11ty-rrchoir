@@ -3,7 +3,7 @@ title: We Shall Be Known
 category: sandbox
 credits: Karisha Longaker of MaMuse (2016)
 tags:
-  - Hope
+  - hope
   - protest
 notes: >-
   Most people sing this song a cappella. The following chords may help you learn
