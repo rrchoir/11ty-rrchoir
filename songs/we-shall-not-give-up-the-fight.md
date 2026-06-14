@@ -3,10 +3,10 @@ title: We Shall Not Give Up the Fight
 category: sandbox
 credits: Anonymous
 tags:
-  - Defiant
-  - Protest
-  - Resistance
-  - Freedom
+  - defiant
+  - protest
+  - resistance
+  - freedom
 notes: Traditional South African song.
 resources:
   - url: https://www.youtube.com/watch?v=HRCg5cId4TE&t=18s
