@@ -1,6 +1,15 @@
 ---
 Pitch: F
+title: Carry This All
 category: general
+credits: Alexandra “Ahlay” Blakely
+hints: "Starting Pitch: A (originally G). Lullaby, respect the rests. "
+tags:
+  - core
+  - friendship
+  - grief
+  - de-escalation
+  - 21stc
 notes: 'This song was almost lost. Blakely presented this at a song workshop, as
   the first iteration of her song "The 3rd gate: Sorrows of the World". A friend
   sang it at a gathering years later, and Blakely did not remember having
@@ -19,16 +28,7 @@ resources:
 summary: |
   https://www.healingattheroots.com/carrythisall
 author: Alexandra "Ahlay" Blakely
-hints: "Pitch:A (originally G). Lullaby, respect the rests. "
 date: 2025-08-23T20:50:00.000-04:00
-title: Carry This All
-credits: Alexandra “Ahlay” Blakely
-tags:
-  - core
-  - friendship
-  - grief
-  - de-escalation
-  - 21stc
 ---
 **You do not** \
 **Ca**rry this \
