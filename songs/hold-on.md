@@ -2,6 +2,7 @@
 title: Hold On (my dear ones)
 category: general
 credits: By Heidi Wilson
+hints: "Starting pitch: A#3"
 tags:
   - 21stc
   - core
