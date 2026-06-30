@@ -31,12 +31,12 @@ Ain't gonna let nobody turn me 'round \
 I'm gonna keep on a-walkin', keep on a-talkin'  \
 Marchin' up to freedom land OR Gonna build a brand new world
 
-Ain't gonna let injustice turn me 'round 
+Ain't gonna let **injustice** turn me 'round 
 
-Ain't gonna let no hatred turn me 'round 
+Ain't gonna let **no hatred** turn me 'round 
 
-Ain't gonna let no ICE raids turn me 'round 
+Ain't gonna let **no ICE raids** turn me 'round 
 
-Ain't gonna let Donald Trump turn me 'round 
+Ain't gonna let **no president** turn me 'round 
 
-Ain't gonna let transphobia turn me 'round
+Ain't gonna let **transphobia** turn me 'round
