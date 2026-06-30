@@ -1,6 +1,6 @@
 ---
 title: Stop Elkridge Detention Center - 7/2
-start_date: 1906-07-02T21:00:00.000-05:00
+start_date: 2026-07-02T09:00:00.000-04:00
 summary: Rally before a hearing on the detention center.
 songs:
   - Rich Man's House
