@@ -32,8 +32,8 @@ Ev’ry day! Ev’ry day!\
 We are **strong**, and we grow **stronge**r ev'ry **day**
 
 We are the **work**ers, built this **na**tion from the **ground**.\
-We can shut this whole thing **down** and we grow **strong**er ev’ry **day**\
-Their **mon**ey and their greed won’t bring the **peo**ple what they need.  \
+We can **shut** this whole thing **down** and we grow **strong**er ev’ry **day**\
+Their **mon**ey and their **greed** won’t bring the **peo**ple what they **need**.  \
 We are **strong** and we grow **strong**er ev’ry **day**. 
 
 *Chorus*  
