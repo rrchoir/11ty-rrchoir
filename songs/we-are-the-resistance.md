@@ -2,6 +2,7 @@
 title: We Are the Resistance
 category: general
 credits: Deborah Thornton
+hints: "Starting pitch: D4"
 tags:
   - 21stc
   - resistance
