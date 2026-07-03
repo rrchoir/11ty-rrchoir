@@ -13,6 +13,8 @@ Follow us on Instagram: [@rapidresponschoir](https://www.instagram.com/rapidresp
 
 ## Testimonials
 
+"You made our event 50 times better! The singing, the drumming, it brought everything together." - Protest Organizer July 2026
+
 "Thank you  for being with our beloved community member this morning \[before her ICE check-in]. We were all in tears when you sang her out. And we were all in tears when she came back so quickly. Thank you for the joy and solidarity that the Rapid Response Choir brings to situations like this."  "The choir's presence brought so much hopeful energy and spirit to the gathering, and we are incredibly grateful for the role you all played in making the event so meaningful...Your willingness to share your time and talents helped create a powerful sense of community and solidarity." — Protest Organizers June 2026
 
 "We so appreciate that you brought music to our protest. Since you’d agreed to appear at 2 different actions on the same day with distinctive audiences, I was struck by how truly thoughtful and caring you all are when considering what to sing." — Protest Organizer May 2026
