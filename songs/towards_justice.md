@@ -2,7 +2,7 @@
 title: Towards Justice
 category: general
 credits: Eliana Light
-hints: "Starting pitch in video: D4 "
+hints: "Starting pitch in video: C4 "
 tags:
   - 21stc
   - justice
