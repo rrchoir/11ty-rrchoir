@@ -61,7 +61,7 @@ Together, we will, abolish ICE.
 Zipper words instead of "neighbors": people, families...
 
 \
-**We Are Here** by Sarina Partridge\
+**We Are Here** by Sarina Partridge (Starting pitch: A3)\
 We are here. (Echo)\
 In our city. (Echo)\
 Our love for each other will carry us through.\
