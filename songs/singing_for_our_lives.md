@@ -2,7 +2,7 @@
 title: Singing For Our Lives
 category: general
 credits: Holly Near
-hints: "Starting Pitch: F#4"
+hints: "Starting Pitch: F4"
 tags:
   - lgbtq+
   - core
