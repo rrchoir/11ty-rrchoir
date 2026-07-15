@@ -1,5 +1,6 @@
 ---
 title: Vigil for ICE Victims - 7/15
+start_date: 2026-07-15T19:30:00.000-04:00
 summary: "Vigil for Lorenzo Salgado Araujo, Joan Sebastian Guerrero, and other
   victims of ICE  "
 songs:
