@@ -2,7 +2,7 @@
 title: We Rise
 category: general
 credits: Batya Levine
-hints: "Starting pitch: F"
+hints: "Starting pitch: F4"
 tags:
   - core
   - hope
