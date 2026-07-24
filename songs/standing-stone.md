@@ -8,8 +8,10 @@ tags:
   - sing-along
   - grief
 resources:
-  - url: https://youtu.be/YminLnyYU5w?si=GCMV7i5J7H9GTw55
-    text: I Will Be Your Standing Stone by Melanie DeMore
+  - text: Standing Stone with clear harmonies.
+    url: https://www.youtube.com/watch?v=rs-wPpyuCTs
+  - text: Standing Stone with large group
+    url: https://www.youtube.com/watch?v=YminLnyYU5w
 teachability: very easy
 audience_participation: high
 ---
