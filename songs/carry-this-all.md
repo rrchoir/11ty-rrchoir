@@ -3,7 +3,7 @@ Pitch: F
 title: Carry This All
 category: general
 credits: Alexandra “Ahlay” Blakely
-hints: "Starting Pitch: A (originally G). Lullaby, respect the rests. "
+hints: "Starting Pitch: C4 (good for harmonies). Lullaby, respect the rests. "
 tags:
   - core
   - friendship
