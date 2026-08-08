@@ -1,7 +1,7 @@
 ---
-title: Celebration of the Life of Lorenzo Salgado Araujo
+title: Celebration of the Life of Lorenzo Salgado Araujo 8/9
 start_date: 2026-08-09T19:00:00.000-04:00
-summary: This event marks the one month anniversary of Lorenzo's death by ICE
+summary: This event marks the one month anniversary of Lorenzo's death by ICE.
 songs:
   - Keep on Moving Forward/Sin Volver Atras
   - Heart Wide Open
