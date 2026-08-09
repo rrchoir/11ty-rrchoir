@@ -1,6 +1,6 @@
 ---
 title: I Send My Hope
-category: attic
+category: general
 credits: Jordan Mudd
 tags:
   - 21st
