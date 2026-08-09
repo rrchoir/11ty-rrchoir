@@ -34,6 +34,14 @@ resources:
     text: We Belong to Each Other
   - url: https://drive.google.com/file/d/1jM0VBHH8beOgrubwUG0fG1UeRpViCZl-/view
     text: We Don't Want No Camps
+  - url: https://rapidresponsechoir.org/songs/gather-your-courage/
+    text: Gather Your Courage - lyrics and links
+  - text: Hold On - lyrics and links
+    url: https://rapidresponsechoir.org/songs/hold-on-(my-dear-ones)/
+  - url: https://rapidresponsechoir.org/songs/it's-okay-to-change-your-mind/
+    text: It's Okay to Change Your Mind - lyrics and links
+  - url: https://rapidresponsechoir.org/songs/solo-el-pueblo/
+    text: Solo El Pueblo- lyrics and links
 ---
 This is a collection of Singing Resistance Songs that the RRC sings. Links to videos and audio clips are below the lyrics to all the songs.
 
