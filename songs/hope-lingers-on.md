@@ -2,7 +2,7 @@
 title: Hope Lingers On
 category: general
 credits: Lissa Schneckenburger (2018)
-hints: "Starting note: C3, Key: A flat"
+hints: "Starting note: C4, Key: A flat"
 tags:
   - hope
   - justice
