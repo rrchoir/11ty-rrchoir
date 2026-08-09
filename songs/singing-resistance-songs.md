@@ -15,8 +15,8 @@ tags:
   - immigrant
   - grief
   - justice
-notes: For additional Singing Resistance Songs, select the tag "Singing
-  Resistance" at the top of the page.
+notes: You can find links to additional Singing Resistance Songs sung by the RRC
+  below.
 resources:
   - url: https://jordanmuddsings.bandcamp.com/track/i-send-my-hope
     text: I Send My Hope
