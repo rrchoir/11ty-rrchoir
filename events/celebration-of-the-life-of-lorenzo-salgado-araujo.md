@@ -6,10 +6,9 @@ songs:
   - Keep on Moving Forward/Sin Volver Atras
   - Heart Wide Open
   - Hope Lingers On
-  - Singing Resistance Songs
+  - I Send My Hope
   - Gather Your Courage
   - Singing For Our Lives
   - "Ain't Gonna Let Nobody Turn Me 'Round "
   - Joy in Resistance
 ---
-I Send My Hope can be found on the Singing Resistance Songs page.
