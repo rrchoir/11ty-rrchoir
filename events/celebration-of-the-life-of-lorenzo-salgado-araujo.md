@@ -8,5 +8,8 @@ songs:
   - Hope Lingers On
   - Singing Resistance Songs
   - Gather Your Courage
+  - Singing For Our Lives
+  - "Ain't Gonna Let Nobody Turn Me 'Round "
+  - Joy in Resistance
 ---
 I Send My Hope can be found on the Singing Resistance Songs page.
