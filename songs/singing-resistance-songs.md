@@ -37,7 +37,7 @@ resources:
 ---
 This is a collection of Singing Resistance Songs that the RRC sings. Links to videos and audio clips are below the lyrics to all the songs.
 
-**I Send My Hope**  by Jordan Mudd\
+**I Send My Hope**  by Jordan Mudd  Starting pitch: C\
 I send my hope. (Echo)\
 I send my prayer. (Echo)\
 I send my strength to those resisting everywhere.
