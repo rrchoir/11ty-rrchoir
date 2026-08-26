@@ -30,8 +30,8 @@ resources:
   - url: https://bigsingcommunity.com/songs/keep-on-walking-forward/
     text: "Song background from Big Sing community "
 ---
-We’re gonna keep on moving forward\
-Keep on moving forward,\
+We’re gonna **keep** on moving forward\
+**Keep** on moving forward,\
 Keep on moving forward\
 Never turning back, Never turning back  
 
