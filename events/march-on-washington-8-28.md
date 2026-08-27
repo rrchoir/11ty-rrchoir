@@ -1,7 +1,7 @@
 ---
 title: March on Washington - 8/28
 start_date: 2026-08-28T08:00:00.000-04:00
-summary: This event commemorate the 63rd anniversary of MLK's March on
+summary: This event commemorates the 63rd anniversary of MLK's March on
   Washington with the theme of Defend the Vote.
 songs:
   - We Are Here
