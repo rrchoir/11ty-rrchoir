@@ -13,5 +13,4 @@ songs:
   - Joy in Resistance
   - If I Had a Hammer
   - Gather Your Courage
-  - We Are the Power
 ---
