@@ -17,11 +17,8 @@ We have only started (3x)\
 (Repeat)
 
 Never ever put to flight\
-We are bound to win (3x) \
-(Repeat)
-
-We shall not give up the fight\
-We have only started (3x)\
+We're bound to win\
+We are bound to win (2x) \
 (Repeat)
 
 Together we'll have victory\
