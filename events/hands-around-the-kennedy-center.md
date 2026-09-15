@@ -1,5 +1,5 @@
 ---
-title: Hands Around the Kennedy Center
+title: Hands Around the Kennedy Center - 9/18/2026
 start_date: 2026-09-18T18:30:00.000-04:00
 duration: 2
 summary: with Hands Off the Arts
@@ -9,6 +9,7 @@ songs:
   - We Are Here
   - Gather Your Courage
   - This Little Light
+  - Center called Kennedy
 ---
 This Friday, September 18, at 6:30 p.m., we return to the Kennedy Center with the Hands Off the Arts (HOTA) team.  Join HOTA for [Hands Around the Kennedy Center](https://actionnetwork.org/events/hands-around-the-kennedy-center), a joyful protest featuring performances, guest speakers and a walk hand-in-hand around the grounds.
 
