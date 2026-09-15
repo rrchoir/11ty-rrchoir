@@ -1,6 +1,6 @@
 ---
 title: Center called Kennedy
-category: sandbox
+category: general
 credits: "David Sacks lyrics to: Joshua Fit the Battle for Jericho (traditional
   African American spiritual)"
 tags:
