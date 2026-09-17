@@ -5,6 +5,9 @@ credits: "David Sacks lyrics to: Joshua Fit the Battle for Jericho (traditional
   African American spiritual)"
 tags:
   - parody
+resources:
+  - text: Recording by David Sacks with backing vocals
+    url: /static/media/fighting_kc.m4a
 ---
 CHORUS:
 Fightin’ for the Center called Kennedy, Kennedy, Kennedy  
