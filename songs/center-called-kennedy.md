@@ -7,7 +7,7 @@ tags:
   - parody
 resources:
   - text: Recording by David Sacks with backing vocals
-    url: /static/media/fighting_kc.m4a
+    url: /static/img/fighting_kc.m4a
 ---
 CHORUS:
 Fightin’ for the Center called Kennedy, Kennedy, Kennedy  
@@ -59,4 +59,4 @@ CHORUS:
 Fightin’ for the Center called Kennedy, Kennedy, Kennedy,  
 Fightin’ for the Center called Kennedy,  
 Till the tarp – comes – tum – blin’ – DOWN!  
-Solidarity Forever (KC version) (G)  
+ 
