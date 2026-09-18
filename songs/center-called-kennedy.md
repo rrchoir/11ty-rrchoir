@@ -9,54 +9,47 @@ resources:
   - text: Recording by David Sacks with backing vocals
     url: /static/img/fighting_kc.m4a
 ---
-CHORUS:
-Fightin’ for the Center called Kennedy, Kennedy, Kennedy  
-Fightin’ for the Center called Kennedy  
-Till the tarp comes a tumblin’ down.  
-
-
-VERSE:
-They opened the Center for Performing Arts  
-In Nineteen seventy-one  
-To honor President Kennedy  
-An arts patron, second to none
-  
-VERSE:
-“Arts calls forth creative genius  
-From every sector of society,  
-Dis-re-gar-ding race or religion,  
-Or wealth, or color” said he.  
-
-
-CHORUS:
-Fightin’ for the Center called Kennedy, Kennedy, Kennedy  
-Fightin’ for the Center called Kennedy  
-Till the tarp comes a tumblin’ down.  
-
+**CHORUS**:
+Fightin’ for the Center called Kennedy, Kennedy, Kennedy\
+Fightin’ for the Center called Kennedy\
+Till the **tarp** comes a **tumb**lin’ **down**.  
 
 VERSE:
-We’re here to shout HANDS OFF THE ARTS  
-We’re here to sing and dance  
-We’re here to say DON’T CLOSE THOSE DOORS  
-Take away those little hands!  
+They **op**ened the **Cen**ter for Performing Arts\
+In **Nine**teen **sev**enty-**one**\
+To **hon**or **Pres**ident **Ken**nedy\
+An arts **pa**tron, **sec**ond to **none**
 
+VERSE:
+“**Art** calls **forth** cre**a**tive **ge**nius\
+From **ev**ery **sec**tor of so**ci**ety,\
+**Dis**-re-**gar**-ding race or re**li**gion,\
+Or **wealth**, or **co**lor” said **he**.  
 
-(shout) WHO NAMED IT?  
-CHORUS:  
-Congress named the Center for Kennedy, Kennedy, Kennedy  
-Congress named the Center for Kennedy,  
-Those letters gotta come down.  
+**CHORUS**:
+Fightin’ for the Center called Kennedy, Kennedy, Kennedy\
+Fightin’ for the Center called Kennedy\
+Till the **tarp** comes a **tumb**lin’ **down**.   
 
+VERSE:
+We’re **here** to **shout** HANDS OFF THE ARTS\
+We’re **here** to **sing** and **dance**\
+We’re **here** to **say** DON’T CLOSE THOSE DOORS\
+Take a**way** those **lit**tle **hands**!  
+
+(shout) WHO NAMED IT?\
+**CHORUS**:\
+Congress named the Center for Kennedy, Kennedy, Kennedy\
+Congress named the Center for Kennedy,\
+Those **le**tters **got**ta come **down**.  
 
 (shout) WHO SAID IT?
-CHORUS:
-Judge said the Center’s called Kennedy, Kennedy, Kennedy  
-Judge said the Center’s called Kennedy  
-And the letters came a tumblin' down!  
+**CHORUS**:
+Judge said the Center’s called Kennedy, Kennedy, Kennedy\
+Judge said the Center’s called Kennedy\
+And the **let**ters came a **tumb**lin' **down**!  
 
-
-CHORUS:
-Fightin’ for the Center called Kennedy, Kennedy, Kennedy,  
-Fightin’ for the Center called Kennedy,  
-Till the tarp – comes – tum – blin’ – DOWN!  
- 
+**CHORUS**:
+Fightin’ for the Center called Kennedy, Kennedy, Kennedy,\
+Fightin’ for the Center called Kennedy,\
+Till the tarp – comes – tum – blin’ – DOWN!
