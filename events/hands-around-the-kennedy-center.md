@@ -10,13 +10,19 @@ songs:
   - Gather Your Courage
   - This Little Light
   - Center called Kennedy
+  - Joy in Resistance
+  - This Joy
 ---
 This Friday, September 18, at 6:30 p.m., we return to the Kennedy Center with the Hands Off the Arts (HOTA) team.  Join HOTA for [Hands Around the Kennedy Center](https://actionnetwork.org/events/hands-around-the-kennedy-center), a joyful protest featuring performances, guest speakers and a walk hand-in-hand around the grounds.
 
-We're turning out to show the media and our elected officials the power of our movement—reaffirming our commitment to protecting the Kennedy Center, its workers and the performing arts. RSVP for an event reminder email with important details for the program.
+We're turning out to show the media and our elected officials the power of our movement—reaffirming our commitment to protecting the Kennedy Center, its workers and the performing arts. 
 
-This event will proceed as scheduled even though the Board voted to close the main building.
+This event will proceed as scheduled even though the Board voted to close the main building.\
+\
+RSVP for an event reminder email with important details for the program. [RSVP with HOTA for September 18](https://actionnetwork.org/events/hands-around-the-kennedy-center). 
 
-[RSVP with HOTA for September 18](https://actionnetwork.org/events/hands-around-the-kennedy-center). 
+For America the Beautiful, we will be singing verses 1-3.
+
+
 
 If you're interested in the Choir action – [Join us through our webform](https://rrchoir.org/join).
