@@ -49,10 +49,14 @@ Unidos en la lucha, no nos moverán\
 Como un árbol firme junto al rio\
 No nos moverán*  
 
+> [*Arch-specific verses*]\
+> Fighting arch insanity, we shall not be moved…\
+> Between Lincoln and the heroes, we shall not be moved…\
+> Standing up for history, we shall not be moved…\
+> We see through your vanity, we shall not be moved…\
+> Keep your golden gargoyles, we shall not be moved…
+>
 > [*interim verses*]\
-> We're standing up with Kilmar, we shall not be moved…\
-> We’ll ground Avelo Airlines, we shall not be moved…\
-> We’ll shame collaborators, we shall not be moved…\
 > Fighting for the climate, we shall not be moved…\
 > Federal Workers Matter, we shall not be moved…\
 > We will win together, we shall not be moved...
