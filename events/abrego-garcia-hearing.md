@@ -12,8 +12,6 @@ songs:
   - Lead with Love
   - We Are Marching / Siyahamba
 ---
-
-
 Details: 
 *Meet at 1:30 at the Greenbelt US District Court: 6500 Cherrywood Ln, Greenbelt, MD; free parking behind building
 
@@ -28,27 +26,3 @@ Details: 
 \*Public to courtroom 2:20; hearing begins 2:30
 
 \*Maybe we’ll sing as public goes in
-
- 
-
-SONGS
-
- 
-
-Solo El Pueblo
-
-Keep on Moving Forward
-
-We Shall Not Be Moved
-
-This Little Light of Mine
-
-We Are Here
-
- 
-
-If more time:
-
-Lead with Love
-
-Siyahamba
