@@ -42,7 +42,7 @@ For amber waves of grain,\
 For purple mountain majesties\
 Above the fruited plain!\
 America! America!\
-God shed his grace on thee\
+God shed full grace on thee\
 And crown thy good with brotherhood\
 From sea to shining sea!  
 
