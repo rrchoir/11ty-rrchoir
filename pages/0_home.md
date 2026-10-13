@@ -7,7 +7,7 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-![](/static/img/nyt_header.jpg)
+![Several people wearing neon pink vests standing in a crowd in front of city buildings and chanting in unison. The person in the center is wearing a white clerical collar and holding a tambourine.](/static/img/nyt_header.jpg)
 
 # Rapid Response Choir
 
@@ -37,4 +37,4 @@ When authoritarian forces seek to harm our neighbors and friends, the Rapid Resp
 
 **[Read all about the Rapid Response Choir](./about)**
 
-![NOAA March 3 2025](/static/img/noaa.jpg)
+![Photo of RRC singers at the NOAA event on March 3, 2025. At least 12 people are wearing neon pink vests over their winter jackets, standing on a sidewalk in front of a building among a crowd of listeners. The main sign in front says "Hands off our NOAA."](/static/img/noaa.jpg)
