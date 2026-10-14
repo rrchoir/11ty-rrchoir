@@ -11,11 +11,14 @@ tags:
   - core
   - immigrants
 notes: >-
-  **Requires Introduction:** We should consider broadly who are our heroes and
-  patriots: the self-emancipated on the Underground Railroad, the union coal
-  miners facing thugs in Appalachia, the Marchers on the Edmund Pettus bridge,
-  the Act Up AIDS activists, the transgender youth of today proudly living their
-  best lives: These are all the heroes and patriots that make America beautiful.
+  **Requires Introduction:** 
+
+
+  "America the Beautiful" When we sing these words penned 140 years ago by Katherine Lee Bates, we celebrate the beauty of this nation; but also CALL ON IT, in Bates's words, to "mend thine every flaw and confirm ... thy liberty in law.
+
+
+  The freedoms we enjoy are thanks not only to those who served, and fell, but to all who struggled & suffered for justice: the abolitionists, the self-emancipated, the union strikers, the suffragettes, the freedom riders, the ACT-UP activists, and our transgender siblings living their authentic lives. These are the heroes who make America beautiful.
+
 
 
   **Background:** Bates wrote the poem "Pike's Peak" in 1895. Ward composed the hymn "Materna" in 1883. The two were brought together as "America the Beautiful" and published in 1910 by Oliver Ditson & Co. 
