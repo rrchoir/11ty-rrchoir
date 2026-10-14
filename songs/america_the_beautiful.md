@@ -14,7 +14,7 @@ notes: >-
   **Requires Introduction:** 
 
 
-  "America the Beautiful" When we sing Katherine Lee Bates lyrics from 1895, we celebrate the beauty of this nation; but also CALL ON IT, in Bates's words, to "mend thine every flaw and confirm ... thy liberty in law.
+  "America the Beautiful" When we sing Katherine Lee Bates lyrics from 1895, we celebrate the beauty of this nation; but also CALL ON IT, in Bates's words, to "mend thine every flaw and confirm ... thy liberty in law."
 
 
 
