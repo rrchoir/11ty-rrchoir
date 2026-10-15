@@ -17,7 +17,7 @@ notes: >-
   "America the Beautiful" When we sing Katherine Lee Bates lyrics from 1895, we celebrate the beauty of this nation; but also CALL ON IT, in Bates's words, to "mend thine every flaw and confirm ... thy liberty in law." <br>
 
 
-  In our unfinished nation, our freedoms are thanks not only to those who served, and fell, but to all who struggled & suffered for justice: the abolitionists, the self-emancipated, the union strikers, the suffragettes, the freedom riders, the ACT-UP activists, and our transgender siblings living their authentic lives. These, and more, are the heroes who make America beautiful.<br>
+  In her words, our freedoms are thanks not only to those who served, and fell, but to all who struggled & suffered for justice: the abolitionists, the self-emancipated, the union strikers, the suffragettes, the freedom riders, the ACT-UP activists, and our transgender siblings living their authentic lives. These, and more, are the heroes who make America beautiful.<br>
 
 
   Sing with us! We will call out the words for the original verses, plus one new verse<br>
