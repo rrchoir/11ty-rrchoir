@@ -14,7 +14,7 @@ songs:
 ---
  Gather at 9 and sing the Code of **Conduct Song. (See link at the bottom of the page.)** Voting songs from 9:30. Main program 10-10:40 at Memorial Circle, then march across the Memorial Bridge, gather and final song at Lincoln Memorial.
 
-Before the program begins we will sing the **below voting songs (1-7).** We will open the program with **America the Beautiful.**  We will Sing We Shall Not Be Moved during the program, which will close  with **This Land Is Your Land**, led be Tara Hoot. At the bottom of this page are links to other song that we might sing during the march.
+Before the program begins we will sing the **below voting songs (1-7).** We will open the program with **America the Beautiful.**  We will Sing We Shall Not Be Moved during the program, which will close  with **This Land Is Your Land**, led be Tara Hoot. At the bottom of this page are links to other songs that we might sing during the march.
 
 # ***America the Beautiful***
 
