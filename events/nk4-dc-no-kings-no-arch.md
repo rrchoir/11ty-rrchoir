@@ -29,7 +29,7 @@ Inclusivity we value, you are welcome in this crowd.\
 Hate: it has no place here, it’s our LOVE that’s loud and proud\
 For unison keeps us strong (and harmony too)
 
-Solidarity forever, solidarity forever etc\
+Solidarity forever, solidarity forever, solidarity forever, for unision makes us strong.\
 Credits: Anonymous
 
 Notes: Our code of conduct reminder song to be sung prior to public events.
