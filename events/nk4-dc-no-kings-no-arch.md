@@ -45,12 +45,40 @@ Thy grace shall yet remain\
 To greet the poor who reach thy shore\
 With open arms again
 
-# ***This Land Is Your Land***
+
+
+# ***We Shall Not Be Moved***  
+
+
+
+# ***Land Is Your Land***
 
 This land is your land, and this land is my land\
 From California to the New York Island\
 From the Redwood Forest to the Gulf Stream Waters\
 This land was made for you and me
+
+I’ve roamed and rambled… and I followed my footsteps\
+To the sparkling sands of… her diamond deserts;\
+And all around me… a voice was sounding:\
+“This land was made for you and me.”
+
+As I went walking… I saw a sign there\
+And on the sign it… said "No Trespassing."\
+But on the other side… it didn't say nothing,\
+That side was made for you and me.
+
+ In the squares of the city… in the shadow of the steeple,\
+By the relief office… I seen my people;\
+As they stood there hungry… I stood there asking,\
+“Is this land made for you and me?”
+
+Nobody living… can ever stop me,\
+As I go walking… that freedom highway.\
+Nobody liv’ng can… ev’r make me turn back!\
+This land was made for you and me.
+
+
 
 # ***1. Cast Your Vote***
 
