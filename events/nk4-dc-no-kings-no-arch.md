@@ -2,7 +2,8 @@
 title: "NK4 DC No Kings No Arch "
 start_date: 2026-10-17T09:00:00.000-04:00
 duration: 3
-summary: "No "
+summary: " Third Act with Indivisible No Kings / No Arch / Mobilize and get out
+  the vote."
 ---
 3rd Act with Indivisible No Kings / No Arch / Mobilize and get out the vote. Gather at 9, voting carols from 9:30. Main program 10-10:40 at Memorial Circle, march across the Memorial Bridge, gather and final song at Lincoln Memorial.
 
