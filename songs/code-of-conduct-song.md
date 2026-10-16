@@ -1,5 +1,5 @@
 ---
-title: "Code of conduct song "
+title: "Code of Conduct Song "
 category: general
 credits: Anonymous
 tags:
@@ -18,4 +18,4 @@ Inclusivity we value, you are welcome in this crowd.
 Hate: it has no place here, it’s our LOVE that’s loud and proud\
 For unison keeps us strong (and harmony too)
 
-Solidarity forever,  solidarity forever etc
+Solidarity forever, solidarity forever, solidarity forever, for unison makes us strong
