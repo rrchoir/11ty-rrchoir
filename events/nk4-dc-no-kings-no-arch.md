@@ -2,8 +2,8 @@
 title: "NK4 DC No Kings No Arch "
 start_date: 2026-10-17T09:00:00.000-04:00
 duration: 3
-summary: " Third Act with Indivisible No Kings / No Arch / Mobilize and get out
-  the vote."
+summary: " Third Act with Indivisible No Kings / No Arch / Mobilize and Get Out
+  the Vote."
 songs:
   - "Code of Conduct Song "
   - We Shall Not Be Moved / No Nos Moveran
@@ -12,11 +12,9 @@ songs:
   - Gather Your Courage
   - Singing For Our Lives
 ---
-3rd Act with Indivisible No Kings / No Arch / Mobilize and get out the vote. Gather at 9 and sing the Code of **Conduct Song. (See link at the bottom of the page.)** Voting songs from 9:30. Main program 10-10:40 at Memorial Circle, march across the Memorial Bridge, gather and final song at Lincoln Memorial.
+ Gather at 9 and sing the Code of **Conduct Song. (See link at the bottom of the page.)** Voting songs from 9:30. Main program 10-10:40 at Memorial Circle, march across the Memorial Bridge, gather and final song at Lincoln Memorial.
 
 Before the program begins we will sing the **below voting songs (1-7).** We will open the program with **America the Beautiful.**  We will Sing We Shall Not Be Moved during the program, which will close  with **This Land Is Your Land**, led be Tara Hoot. At the bottom of this page are links to other song that we might sing during the march.
-
-
 
 # ***America the Beautiful***
 
@@ -47,16 +45,12 @@ Thy grace shall yet remain\
 To greet the poor who reach thy shore\
 With open arms again
 
-
-
 # ***This Land Is Your Land***
 
 This land is your land, and this land is my land\
 From California to the New York Island\
 From the Redwood Forest to the Gulf Stream Waters\
 This land was made for you and me
-
-
 
 # ***1. Cast Your Vote***
 
@@ -68,8 +62,6 @@ Now’s the time to choose.\
 Together we can’t lose.\
 Have a say in how you’re governed,\
 Cast your VOTE. (EARLY!|) 
-
-
 
 # ***2.  VOTE with Love***
 
@@ -86,8 +78,6 @@ It won’t take long, to get it done (Chorus)
 Bring all your friends, and family too
 Cast your vote EeeRLY, I will too (Chorus x2)
 
-
-
 # ***3. Goin’ to the Ballot Box***
 
 Tune: Goin’ to the Chapel 
@@ -99,8 +89,6 @@ Gonna vote ea-er-early\
 This is how we make a differ'ence\
 For our country's future\
 MAking Our VOI CES HEARD. (Hold caps for 2 beats)
-
-
 
 # ***4. When Will You VOTE***
 
@@ -122,15 +110,13 @@ And make your voice be heard.\
 Or do it earlier.\
 It’s time to make your plan (chorus)
 
-
-
 # ***5. Keep on Moving Forward***
 
 Music & Lyrics by Pat Humphries
 
 Gonna keep on moving forwardKeep on moving forward (x2)Casting our VOTES (x2)… Show up in great numbers…Get our VOTES in early
 
-# ***6. Let's Get the Vote Out*** 
+# ***6. Let's Get the Vote Out***
 
 Tune: Beatles, 8 Days a Week
 
