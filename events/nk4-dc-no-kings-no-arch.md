@@ -5,8 +5,6 @@ duration: 3
 summary: " Third Act with Indivisible No Kings / No Arch / Mobilize and Get Out
   the Vote."
 songs:
-  - "Code of Conduct Song "
-  - We Shall Not Be Moved / No Nos Moveran
   - Joy in Resistance
   - This Little Light
   - Gather Your Courage
@@ -48,6 +46,19 @@ With open arms again
 
 
 # ***We Shall Not Be Moved***  
+
+We shall not, we shall not be moved\
+We shall not, we shall not be moved\
+Just like a tree that's planted by the water\
+We shall not be moved
+
+Fighting arch insanity, we shall not be moved!...
+
+Between Lincoln and the heroes, we shall not be moved...
+
+We see through your vanity, we shall not be moved...
+
+Keep your golden gargoyles, we shall not be moved...
 
 
 
