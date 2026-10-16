@@ -5,10 +5,11 @@ duration: 3
 summary: " Third Act with Indivisible No Kings / No Arch / Mobilize and get out
   the vote."
 songs:
+  - "Code of Conduct Song "
   - America the Beautiful
   - This Land Is Your Land
 ---
-3rd Act with Indivisible No Kings / No Arch / Mobilize and get out the vote. Gather at 9, voting songs from 9:30. Main program 10-10:40 at Memorial Circle, march across the Memorial Bridge, gather and final song at Lincoln Memorial.
+3rd Act with Indivisible No Kings / No Arch / Mobilize and get out the vote. Gather at 9 and sing the Code of **Conduct Song (See link at the bottom of the page)**. Voting songs from 9:30. Main program 10-10:40 at Memorial Circle, march across the Memorial Bridge, gather and final song at Lincoln Memorial.
 
 Below are voting songs we may sing during the pre-program rally. We will open the program with **America the Beautiful (verses 1-4 - see link at the bottom of the page).** We will close the program with **This Land Is Your Land (see link at the bottom of the page)**.
 
