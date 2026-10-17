@@ -9,7 +9,8 @@
 
 [[redirects]]
   from = "/now/"
-  to = "/events/"
+#  to = "/events/"
+  to = "/events/nk4-dc-no-kings-no-arch/"
   status = 302
 
 # The default HTTP status code is 301, but you can define a different one e.g.
