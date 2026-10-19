@@ -26,6 +26,8 @@ Follow us on Instagram: [@rapidresponsechoir](https://www.instagram.com/rapidres
 "I want to thank the RRC for joining with us yesterday. You were splendid! 
 Honestly, in some ways I felt as if you were the soul of this action. " – J6 Vigil, January, 2026
 
+"It is The People, it is the Rapid Response Choir, it is all of you here who are going to protect our democracy." - Senator Chris Van Holland, December 2025
+
 "All thanks to you and the entire choir for your fantastic participation in Sunday’s forum.  We received so many compliments for your setting the spirit of the discussion.  People were genuinely happy you came and performed. Our thanks, my thanks, for bringing everyone together." – Takoma Park Mobilization, September, 2025.
 
 “Loved the choir. I didn’t realize how much I would. It makes a real difference and makes it feel more of a community effort to make the world we want instead of just a lot of pissed off people with signs.” — Protest Participant, 2025
