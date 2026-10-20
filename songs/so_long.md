@@ -63,6 +63,8 @@ Variations:
 * For TTSer's "worked in tech transformation" instead of "as a civil servant"
 * Instead of Russ Vought, "That tangerine clown is a-gettin' me down; And I have to be driftin' along"
 
+## Chords
+
 ```
      C                        G7
 I've sung this song but I'll sing it again
