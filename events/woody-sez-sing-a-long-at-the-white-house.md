@@ -11,6 +11,7 @@ songs:
   - We Rise
   - We Shall Not Be Moved / No Nos Moveran
   - Woke Up This Morning (Stayed on Freedom)
+  - So Long It's Been Good to Know Ya (Fed Workers)
   - Solidarity Forever - Kennedy Center
 ---
 We'll start at 4 pm and go to around 5. Folks can show up a little early, at 4, or a little late. The format (based on last week) was round-robin, rotating between each cast member and other participants (last week, members of the DC Labor Chorus) leading a song. There was a mic and amp.
