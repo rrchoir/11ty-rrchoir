@@ -12,8 +12,6 @@ resources: []
 ---
 After the march to the polls, we may sing some of these songs celebrating early voting.
 
-
-
 # ***1. Cast Your Vote***
 
 Tune: If You’re Happy and You Know It, Clap Your Hands
@@ -76,7 +74,14 @@ It’s time to make your plan (chorus)
 
 Music & Lyrics by Pat Humphries
 
-Gonna keep on moving forwardKeep on moving forward (x2)Casting our VOTES (x2)… Show up in great numbers…Get our VOTES in early
+Gonna keep on moving forward\
+Keep on moving forward (x2)\
+Casting our VOTES (x2)
+
+\
+Show up in great numbers…
+
+Get our VOTES in early
 
 # ***6. Let's Get the Vote Out***
 
