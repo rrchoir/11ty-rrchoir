@@ -7,6 +7,7 @@ songs:
   - This Land Is Your Land
   - This Joy
   - "Ain't Gonna Let Nobody Turn Me 'Round "
+  - Gather Your Courage
 resources: []
 ---
 After the march to the polls, we may sing some of these songs celebrating early voting.
