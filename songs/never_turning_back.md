@@ -2,7 +2,7 @@
 title: Keep on Moving Forward/Sin Volver Atras
 category: general
 credits: By Pat Humphries; Spanish translation by Liliana Herrera and others
-hints: "Starting pitch: A#3"
+hints: "Starting pitch: G#3, A, or A#3"
 tags:
   - core
   - spanish
