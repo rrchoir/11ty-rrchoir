@@ -11,10 +11,15 @@ notes: " Our code of conduct reminder song to be sung prior to  public events."
 We’re the Rapid Response Choir by this code we shall abide\
 Nonviolence is our way, from the fray we step aside\
 Law enforcement we’ll obey,  but our rights won’t be denied\
-And unison keeps us strong (and harmony too)
+And unison keeps us strong (and harmony too)\
+\
+Non-partisan's our stance, we are not picking any sides\
+Your name we will keep private, far away from prying eyes \
+Our marshals and song leaders we will trust to be our guides\
+For unison keeps us strong (and harmony too)
 
-We safely stow our vests until we’re gathered all around. 
-Inclusivity we value, you are welcome in this crowd. 
+We safely stow our vests until we’re gathered all around. \
+Inclusivity we value, you are welcome in this crowd. \
 Hate: it has no place here, it’s our LOVE that’s loud and proud\
 For unison keeps us strong (and harmony too)
 
