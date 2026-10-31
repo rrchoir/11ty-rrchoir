@@ -36,4 +36,4 @@ Check out the [Join Us page](/join).
 
 ## How do I get the RRC to come to my event?
 
-Instructions on how to request the RRC for music and/or songleading are on the [About the Rapid Response Choir page](/about).
+To request the RRC for your event, [fill out this form](https://www.jotform.com/form/260847488859076).
