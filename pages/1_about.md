@@ -21,4 +21,4 @@ The RRC is open to everyone. No prior singing experience required. Learn more on
 
 ## Request the RRC to perform or lead songs
 
-Would you like to add the RRC’s voices to your event? We prefer advance warning but often can assemble at short notice, ready to sing for thirty minutes or longer if need be. To “book” the RRC, send your contact information, the date, time, and location of your event, its purpose, and its organizational sponsor to [admin@rapidresponsechoir.org](mailto:admin@rapidresponsechoir.org).
+Would you like to add the RRC’s voices to your event? We prefer advance warning but often can assemble at short notice, ready to sing for thirty minutes or longer if need be. To “book” the RRC, [fill out this form](https://www.jotform.com/form/260847488859076).
