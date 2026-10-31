@@ -8,6 +8,8 @@ eleventyNavigation:
   key: FAQ
   order: 6
 ---
+## Frequently Asked Questions
+
 ## Is this legal?
 
 Yes, we are exercising our first amendment right to free speech. The RRC does NOT interfere with any law enforcement activity, nor does it engage in civil disobedience.
@@ -35,3 +37,21 @@ Check out the [Join Us page](/join).
 ## How do I get the RRC to come to my event?
 
 To request the RRC for your event, [fill out this form](https://www.jotform.com/form/260847488859076).
+
+## Does the RRC have a Code of Conduct?
+
+Yes. Below is the RRC Code of Conduct.
+
+* We are a non-violent, peaceful group.
+* We are not connected to any political party, group, or campaign.
+* We do not engage with law enforcement or counter-protesters.
+* We do not interfere with law enforcement and obey orders to move.
+* We follow safety protocols and instructions by event sponsors, RRC leaders, and marshals.
+* We know our rights, but will not exercise those rights if it means creating a confrontational situation that could become dangerous.
+* We respect each other's privacy. We never refer to anyone by their full name or share Signal handles or chats, practice or personal addresses, or other personal information. 
+* We wear vests 
+
+  **only**
+
+   for performances and rehearsals. 
+* We do not talk to the press. We refer press and other questions about the RRC to Event Leaders or RRC Chapter Leadership.
