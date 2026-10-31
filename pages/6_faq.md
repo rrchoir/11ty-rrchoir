@@ -1,6 +1,6 @@
 ---
 layout: layouts/base.njk
-title: Fervently Anticipated Questions
+title: Frequently Asked Questions
 metaDescription: How the choir works, songs, and chapters
 date: 2017-01-01
 permalink: /faq/index.html
@@ -8,8 +8,6 @@ eleventyNavigation:
   key: FAQ
   order: 6
 ---
-# Frequently Asked Questions
-
 ## Is this legal?
 
 Yes, we are exercising our first amendment right to free speech. The RRC does NOT interfere with any law enforcement activity, nor does it engage in civil disobedience.
