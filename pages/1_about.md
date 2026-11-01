@@ -15,6 +15,23 @@ Currently, we are a group of Maryland, Virginia, and D.C. residents who want to 
 
 We sing and encourage others to sing with us. We assemble at rallies, schools, churches, protests, vigils, and other community events. We are a peaceful group. We do not engage in civil disobedience or disruption tactics. We do not interfere with law enforcement, but we will remind everyone of their rights under the Constitution.
 
+
+
+## How do we behave?
+
+The RRC has a Code of Conduct that all members adhere to.
+
+* We are a non-violent, peaceful group.
+* We are not connected to any political party, group, or campaign.
+* We do not engage with law enforcement or counter-protesters.
+* We do not interfere with law enforcement and obey orders to move.
+* We follow safety protocols and instructions by event sponsors, RRC leaders, and marshals.
+* We know our rights, but will not exercise those rights if it means creating a confrontational situation that could become dangerous.
+* We are inclusive and welcome people of all ages, abilities, religions, colors, ethnicities, genders, and sexual orientations.
+* We respect each other's privacy. We never refer to anyone by their full name or share Signal handles or chats, practice or personal addresses, or other personal information. 
+* We wear vests **only**  for performances and rehearsals. 
+* We do not talk to the press. We refer press and other questions about the RRC to Event Leaders or RRC Chapter Leadership.
+
 ## How to join the RRC
 
 The RRC is open to everyone. No prior singing experience required. Learn more on our [Join Us page](https://rapidresponsechoir.org/join).
