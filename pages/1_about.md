@@ -17,7 +17,7 @@ We sing and encourage others to sing with us. We assemble at rallies, schools, c
 
 
 
-## How do we behave?
+## How we behave
 
 The RRC has a Code of Conduct that all members adhere to.
 
