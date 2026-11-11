@@ -31,9 +31,9 @@ resources:
     text: "Song background from Big Sing community "
 ---
 We’re gonna **keep** on moving forward\
-**Keep** on moving forward,\
-Keep on moving forward\
-Never turning back, Never turning back  
+Keep on **moving** forward,\
+**Keep** on moving forward\
+**Never** turning back, Never turning back  
 
 *Sigamos Adelante, siempre Adelante*
 *Siempre Adelante*
