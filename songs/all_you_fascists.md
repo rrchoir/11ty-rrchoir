@@ -25,10 +25,8 @@ resources:
     text: Resistance Revival Chorus recording (Bandcamp)
   - url: https://music.apple.com/us/song/all-you-fascists-bound-to-lose/1531421548
     text: Resistance Revival Choir recording (Apple)
-  - url: https://www.youtube.com/watch?v=sUCJ0cGjjuw
+  - url: https://www.youtube.com/watch?v=dWUa7aAIfLE
     text: Resistance Revival Choir recording (YouTube)
-  - url: https://louisehaynes.substack.com/p/woody-guthrie-fighting-fascists
-    text: " Social Issues in Song: Woody Guthrie fighting fascists"
   - url: https://tabs.ultimate-guitar.com/user/tab/view?h=_V6FgDed3x3goavvzT-16-dn&tab_id=28998032
     text: RRC version with guitar chords
 ---
