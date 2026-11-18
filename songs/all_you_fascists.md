@@ -23,8 +23,6 @@ notes: >-
 resources:
   - url: https://resistancerevivalchorus.bandcamp.com/track/all-you-fascists-bound-to-lose
     text: Resistance Revival Chorus recording (Bandcamp)
-  - url: https://www.youtube.com/watch?v=2CVm5l9ULqU
-    text: Todd the Brand recording (YouTube)
   - url: https://music.apple.com/us/song/all-you-fascists-bound-to-lose/1531421548
     text: Resistance Revival Choir recording (Apple)
   - url: https://www.youtube.com/watch?v=sUCJ0cGjjuw
@@ -33,8 +31,6 @@ resources:
     text: " Social Issues in Song: Woody Guthrie fighting fascists"
   - url: https://tabs.ultimate-guitar.com/user/tab/view?h=_V6FgDed3x3goavvzT-16-dn&tab_id=28998032
     text: RRC version with guitar chords
-  - text: Windborne
-    url: https://www.facebook.com/WindborneSingers/videos/766889819348751/
 ---
 \[Verse 1]\
 I'm gonna tell you fascists, and you may be surprised:\
